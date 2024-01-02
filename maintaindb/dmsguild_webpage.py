@@ -39,7 +39,8 @@ class DungeonCraft:
 
     def __init__(self, product_id, title, authors, code, date_created, hours, tiers, apl, level_range, url, campaign) -> None:
         self.product_id = product_id
-        self.title = title
+        self.full_title = title
+        self.title = self.__get_short_title(title).strip()
         self.authors = authors
         self.code = code
         self.date_created = date_created
@@ -49,6 +50,12 @@ class DungeonCraft:
         self.level_range = level_range
         self.url = url
         self.campaign = campaign
+        
+    def __get_short_title(self, title):
+        regex = r'[A-Z]{2,}-DC-([A-Z]{2,})([^\s]+)'
+        new_title = title.replace('(', '').replace(')', '')
+        result = re.sub(regex, '', new_title)
+        return result.strip()
 
     def __str__(self) -> str:
         return json.dumps(self.to_json(),  sort_keys=True, indent=2,)
@@ -56,7 +63,8 @@ class DungeonCraft:
     def to_json(self):
         result = dict(
             product_id=self.product_id,
-            title=self.title,
+            full_title=self.full_title,
+            title = self.title,
             authors=self.authors,
             code=self.code,
             date_created=self.date_created.strftime('%Y%m%d'),

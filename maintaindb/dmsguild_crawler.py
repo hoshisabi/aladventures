@@ -39,7 +39,7 @@ class DmsGuildProduct:
     def __init__(self, product_id, url, alt=None) -> None:
         self.product_id = product_id
         self.url = url
-        self.alt=alt
+        self.alt = alt
 
     def __eq__(self, __value: object) -> bool:
         if isinstance(__value, DmsGuildProduct):
@@ -70,7 +70,7 @@ def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
             logger.info(
                 f'>> [CACHED] {dmsGuildProduct.product_id} already processed')
             return CrawlerStatus.CACHED
-    except Exception:
+    except Exception as ex:
         logger.error(str(ex))
         return CrawlerStatus.ERROR
 
@@ -86,11 +86,11 @@ def get_product_id(node):
     for child in children:
         if child.attrs and 'alt' in child.attrs:
             product_id = child.attrs['alt']
-            product_str = product_id.replace(',', '').replace(
-                ' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-')
+            product_str = product_id.replace(',', '').replace(' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-').replace('!', '').replace('?', '').replace('/', '').replace('\\', '')
             return product_str
 
     return None
+
 
 def get_product_alt(node):
     children = node.findChildren("img", recursive=False)
@@ -117,7 +117,8 @@ def crawl_dc_listings(page_number=1, max_results=None):
             product_alt = get_product_alt(product)
 
             if product_id and 'bundle' not in product_id.lower():
-                product_list.add(DmsGuildProduct(product_id, product_ulr, alt=product_alt))
+                product_list.add(DmsGuildProduct(
+                    product_id, product_ulr, alt=product_alt))
 
     # Trim the list down if max_results is set.
     # Useful for testing purposes.
@@ -149,5 +150,5 @@ def crawl_dc_listings(page_number=1, max_results=None):
 
 
 if __name__ == '__main__':
-    crawl_dc_listings(page_number=1, max_results=5)
+    crawl_dc_listings(page_number=1, max_results=3)
     # crawl_dc_listings(page_number=2, max_results=15)

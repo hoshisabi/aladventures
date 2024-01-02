@@ -40,7 +40,8 @@ class TestUrl2DC(unittest.TestCase):
             "level_range": None,
             "product_id": None,
             "tiers": 3,
-            "title": "SJ-DC-DD-12 The End of the Line",
+            "title": "The End of the Line",
+            "full_title": "SJ-DC-DD-12 The End of the Line",
             "url": "https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0"
         }
         url = 'https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0'
