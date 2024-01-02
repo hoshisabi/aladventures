@@ -36,9 +36,10 @@ class CrawlerStatus(Enum):
 
 
 class DmsGuildProduct:
-    def __init__(self, product_id, url) -> None:
+    def __init__(self, product_id, url, alt=None) -> None:
         self.product_id = product_id
         self.url = url
+        self.alt=alt
 
     def __eq__(self, __value: object) -> bool:
         if isinstance(__value, DmsGuildProduct):
@@ -60,7 +61,7 @@ def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
                 f'Fetching {dmsGuildProduct.product_id} ... in {sleep_time}s')
             time.sleep(sleep_time)
             dc_data = url_2_DC(dmsGuildProduct.url,
-                               product_id=dmsGuildProduct.product_id)
+                               product_id=dmsGuildProduct.product_id, product_alt=dmsGuildProduct.alt)
             json_data = dc_data.to_json()
             with open(json_output_path, 'w') as f:
                 json.dump(json_data, f, indent=4, sort_keys=True)
@@ -91,6 +92,14 @@ def get_product_id(node):
 
     return None
 
+def get_product_alt(node):
+    children = node.findChildren("img", recursive=False)
+    for child in children:
+        if child.attrs and 'alt' in child.attrs:
+            return child.attrs['alt']
+
+    return None
+
 
 def crawl_dc_listings(page_number=1, max_results=None):
 
@@ -105,9 +114,10 @@ def crawl_dc_listings(page_number=1, max_results=None):
         if product.attrs and 'href' in product.attrs:
             product_ulr = product.attrs['href']
             product_id = get_product_id(product)
+            product_alt = get_product_alt(product)
 
             if product_id and 'bundle' not in product_id.lower():
-                product_list.add(DmsGuildProduct(product_id, product_ulr))
+                product_list.add(DmsGuildProduct(product_id, product_ulr, alt=product_alt))
 
     # Trim the list down if max_results is set.
     # Useful for testing purposes.
