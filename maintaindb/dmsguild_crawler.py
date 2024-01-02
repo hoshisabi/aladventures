@@ -24,6 +24,8 @@ stream_handler = logging.StreamHandler(sys.stdout)
 logger.addHandler(stream_handler)
 
 root = str(pathlib.Path(__file__).parent.absolute())
+
+
 THROTTLING_SLEEP_TIME_LIST = [1, 1, 3, 5, 8, 13, 21]
 
 
@@ -111,6 +113,8 @@ def crawl_dc_listings(page_number=1, max_results=None):
     # Useful for testing purposes.
     product_list = list(product_list)
     if max_results:
+        logger.info(
+            f"Trimming {len(product_list)} to max_results={max_results}")
         product_list = product_list[:max_results]
 
     agents = 5
@@ -135,5 +139,5 @@ def crawl_dc_listings(page_number=1, max_results=None):
 
 
 if __name__ == '__main__':
-    crawl_dc_listings(page_number=1, max_results=15)
+    crawl_dc_listings(page_number=1, max_results=5)
     # crawl_dc_listings(page_number=2, max_results=15)
