@@ -34,7 +34,6 @@ DC_2_CAMPAIGN = {
 }
 
 
-
 class DungeonCraft:
 
     def __init__(self, product_id, title, authors, code, date_created, hours, tiers, apl, level_range, url, campaign) -> None:
@@ -50,10 +49,10 @@ class DungeonCraft:
         self.level_range = level_range
         self.url = url
         self.campaign = campaign
-        
+
     def __get_short_title(self, title):
         regex = r'[A-Z]{2,}-DC-([A-Z]{2,})([^\s]+)'
-        new_title = title.replace('(', '').replace(')', '')
+        new_title = title.replace('(', '').replace(')', '').replace(':', '')
         result = re.sub(regex, '', new_title)
         return result.strip()
 
@@ -64,7 +63,7 @@ class DungeonCraft:
         result = dict(
             product_id=self.product_id,
             full_title=self.full_title,
-            title = self.title,
+            title=self.title,
             authors=self.authors,
             code=self.code,
             date_created=self.date_created.strftime('%Y%m%d'),
@@ -72,8 +71,8 @@ class DungeonCraft:
             tiers=self.tiers,
             apl=self.apl,
             level_range=self.level_range,
-            url = self.url,
-            campaign = self.campaign,
+            url=self.url,
+            campaign=self.campaign,
         )
         return result
 
@@ -83,10 +82,12 @@ def get_patt_first_group(regex, text):
         return matches[1]
     return None
 
+
 def __get_dc_code(product_title):
     content = str(product_title).upper().split()
     for text in content:
-        text = text.replace(',', '').replace('(', '').replace(')', '').replace("'", '').replace(':', '-')
+        text = text.replace(',', '').replace(
+            '(', '').replace(')', '').replace("'", '').replace(':', '-')
         text = text.strip()
         if 'DC' in text:
             for code in DC_CODES:
@@ -94,17 +95,18 @@ def __get_dc_code(product_title):
                     return text
     return None
 
+
 def __get_campaign(code):
     for key, campaign in DC_2_CAMPAIGN.items():
         if code.startswith(key):
             return campaign
     return None
-        
+
 
 def __str_to_int(value):
     if not value:
         return None
-    
+
     try:
         number = int(value)
         return number
@@ -113,10 +115,6 @@ def __str_to_int(value):
         return number
     except Exception:
         return None
-    
-        
-        
-    
 
 
 def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> DungeonCraft:
@@ -172,8 +170,7 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
 
         dc = DungeonCraft(product_id, module_name, authors,
                           code, date_created, hours, tier, apl, level_range, input_url, campaign)
-        
-        
+
         logger.info(f'>> {product_id} processed')
         return dc
     except Exception as ex:
@@ -182,6 +179,7 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
 
 
 if __name__ == '__main__':
+    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
     url = 'https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0'
     dc = url_2_DC(url, product_alt='SJ-DC-DD-12 The End of the Line')
     print(str(dc))
