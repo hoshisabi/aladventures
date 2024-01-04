@@ -1,1 +1,166 @@
-[]
+[
+    {
+        "apl": 8,
+        "authors": [
+            "Paige Leitmen",
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-04",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-04 Kingdom, Rise!",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-04-Kingdom-Rise",
+        "tiers": 2,
+        "title": "Kingdom, Rise!",
+        "url": "https://www.dmsguild.com/product/431316/RVDCGC1504-Kingdom-Rise?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Miguel Luis de Jesus"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-PHP-1313-01",
+        "date_created": "20230416",
+        "full_title": "RV-DC-PHP-1313-01 On That Fateful Day",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-PHP-1313-01-On-That-Fateful-Day",
+        "tiers": null,
+        "title": "On That Fateful Day",
+        "url": "https://www.dmsguild.com/product/434117/RVDCPHP131301-On-That-Fateful-Day?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Teddy Benson",
+            "Paige Leitman"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-01",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-01 Expedition Into The Desert",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-01-Expedition-Into-The-Desert",
+        "tiers": 2,
+        "title": "Expedition Into The Desert",
+        "url": "https://www.dmsguild.com/product/431307/RVDCGC1501-Expedition-Into-The-Desert?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jay H Anderson",
+            "Paige Leitman"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-02",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-02 Domain Infringement",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-02-Domain-Infringement",
+        "tiers": 2,
+        "title": "Domain Infringement",
+        "url": "https://www.dmsguild.com/product/431311/RVDCGC1502-Domain-Infringement?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Nicholas Reed"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-OH01",
+        "date_created": "20230718",
+        "full_title": "RV-DC-OH01 In the Mists of Keening",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-OH01-In-the-Mists-of-Keening",
+        "tiers": 2,
+        "title": "In the Mists of Keening",
+        "url": "https://www.dmsguild.com/product/446081/RVDCOH01-In-the-Mists-of-Keening?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-HBI-003",
+        "date_created": "20230912",
+        "full_title": "Domains of Dread: Terror in Tombstone (RV-DC-HBI-003)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Domains-of-Dread--Terror-in-Tombstone-RV-DC-HBI-003",
+        "tiers": null,
+        "title": "Domains of Dread Terror in Tombstone",
+        "url": "https://www.dmsguild.com/product/451012/Domains-of-Dread-Terror-in-Tombstone-RVDCHBI003?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-HBI-001",
+        "date_created": "20230620",
+        "full_title": "Domains of Dread: the Braska Roadhouse Chainsaw Massacre (RV-DC-HBI-001)",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Domains-of-Dread--the-Braska-Roadhouse-Chainsaw-Massacre-RV-DC-HBI-001",
+        "tiers": null,
+        "title": "Domains of Dread the Braska Roadhouse Chainsaw Massacre",
+        "url": "https://www.dmsguild.com/product/442290/Domains-of-Dread-the-Braska-Roadhouse-Chainsaw-Massacre-RVDCHBI001?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Paige Leitman",
+            "Adrian Rhodes"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-03",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-03 False Faces",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-03-False-Faces",
+        "tiers": 2,
+        "title": "False Faces",
+        "url": "https://www.dmsguild.com/product/431313/RVDCGC1503-False-Faces?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-HBI-002",
+        "date_created": "20230731",
+        "full_title": "Domains of Dread: Doom Down in Boomtown (RV-DC-HBI-002)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Domains-of-Dread--Doom-Down-in-Boomtown-RV-DC-HBI-002",
+        "tiers": null,
+        "title": "Domains of Dread Doom Down in Boomtown",
+        "url": "https://www.dmsguild.com/product/447852/Domains-of-Dread-Doom-Down-in-Boomtown-RVDCHBI002?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Raymond Holding"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-DBH-01",
+        "date_created": "20210813",
+        "full_title": "RV-DC-DBH-01 And Then There Was a Murder",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-DBH-01-And-Then-There-Was-a-Murder",
+        "tiers": 1,
+        "title": "And Then There Was a Murder",
+        "url": "https://www.dmsguild.com/product/367527/RVDCDBH01-And-Then-There-Was-a-Murder?filters=0_0_100057_0_0_0_0_0"
+    }
+]

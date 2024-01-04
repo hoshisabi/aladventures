@@ -116,7 +116,7 @@ def crawl_dc_listings(page_number=1, max_results=None):
             product_id = get_product_id(product)
             product_alt = get_product_alt(product)
 
-            if product_id and 'bundle' not in product_id.lower():
+            if product_id and 'bundle' not in product_id.lower() and 'roll20' not in product_id.lower():
                 product_list.add(DmsGuildProduct(
                     product_id, product_ulr, alt=product_alt))
 
@@ -150,5 +150,14 @@ def crawl_dc_listings(page_number=1, max_results=None):
 
 
 if __name__ == '__main__':
-    crawl_dc_listings(page_number=1, max_results=3)
+    # crawl_dc_listings(page_number=1, max_results=3)
+    for i in range(1, 20):
+        sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
+        crawl_dc_listings(page_number=i)
+        logger.info(
+                f'----------')
+        logger.info(
+                f'Fetching {i}-th page in {sleep_time}s')
+        time.sleep(sleep_time)
+        
     # crawl_dc_listings(page_number=2, max_results=15)
