@@ -939,25 +939,6 @@
     {
         "apl": null,
         "authors": [
-            "Grim Press",
-            "Paul Gabat",
-            "Shannara",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-03",
-        "date_created": "20211107",
-        "full_title": "I Find That Familiar (WBW-DC-FDC-03) (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": "1-4",
-        "product_id": "I-Find-That-Familiar-WBW-DC-FDC-03-Fantasy-Grounds",
-        "tiers": null,
-        "title": "I Find That Familiar  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/376701/I-Find-That-Familiar-WBWDCFDC03-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Jacky Leung"
         ],
         "campaign": "Forgotten Realms",
@@ -2058,25 +2039,6 @@
         "url": "https://www.dmsguild.com/product/371098/WBWDCFDC05-Crumbling-Castles--Candy-Clouds?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
-        "authors": [
-            "Grim Press",
-            "Jacky Leung",
-            "Ross Nyhan",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-08",
-        "date_created": "20211124",
-        "full_title": "WBW-DC-FDC-08 The Great Toy Escape (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-FDC-08-The-Great-Toy-Escape-Fantasy-Grounds",
-        "tiers": null,
-        "title": "The Great Toy Escape Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/378332/WBWDCFDC08-The-Great-Toy-Escape-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
         "apl": 2,
         "authors": [
             "Matt Brown"
@@ -2188,22 +2150,6 @@
         "tiers": 1,
         "title": "Nothing Ventured",
         "url": "https://www.dmsguild.com/product/380175/WBWDCTRI02-Nothing-Ventured?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-MOR-01",
-        "date_created": "20230416",
-        "full_title": "WBW-DC-MOR-01 A Blight in Mordynia for Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-MOR-01-A-Blight-in-Mordynia-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "A Blight in Mordynia for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/434165/WBWDCMOR01-A-Blight-in-Mordynia-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 9,
@@ -2333,22 +2279,6 @@
         "tiers": 2,
         "title": "A Fey At The Races",
         "url": "https://www.dmsguild.com/product/401770/WBWDCZODIAC07-A-Fey-At-The-Races?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 4,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-MOR-02",
-        "date_created": "20230416",
-        "full_title": "WBW-DC-MOR-02 Dark Miasma of the Mausoleum for Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-MOR-02-Dark-Miasma-of-the-Mausoleum-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Dark Miasma of the Mausoleum for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/434170/WBWDCMOR02-Dark-Miasma-of-the-Mausoleum-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -2671,24 +2601,6 @@
         "tiers": 1,
         "title": "Barangay Bound",
         "url": "https://www.dmsguild.com/product/391325/WBWDCDCAF01B-Barangay-Bound?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Grim Press",
-            "Emily Harmon",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-05",
-        "date_created": "20211229",
-        "full_title": "WBW-DC-FDC-05 Crumbling Castles & Candy Clouds (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": "1-4",
-        "product_id": "WBW-DC-FDC-05-Crumbling-Castles-&-Candy-Clouds-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Crumbling Castles & Candy Clouds Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/382077/WBWDCFDC05-Crumbling-Castles--Candy-Clouds-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -3017,24 +2929,6 @@
         "url": "https://www.dmsguild.com/product/402604/WBWDCAMQ04-Brew-me-a-favor?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
-        "authors": [
-            "Grim Press",
-            "Anthony Joyce-Rivera",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-04",
-        "date_created": "20211125",
-        "full_title": "The Monster of Wonderia (WBW-DC-FDC-04) (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": "1-4",
-        "product_id": "The-Monster-of-Wonderia-WBW-DC-FDC-04-Fantasy-Grounds",
-        "tiers": null,
-        "title": "The Monster of Wonderia  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/378434/The-Monster-of-Wonderia-WBWDCFDC04-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
         "apl": 8,
         "authors": [
             "Jamie Chan",
@@ -3228,25 +3122,6 @@
         "tiers": 2,
         "title": "AFRAID OF THE DARK",
         "url": "https://www.dmsguild.com/product/400182/WBWDCAH01-AFRAID-OF-THE-DARK?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 8,
-        "authors": [
-            "Grim Press",
-            "Shu Qing Tan",
-            "Ross Nyhan",
-            "Shannara"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-CONMAR-06",
-        "date_created": "20220401",
-        "full_title": "WBW-DC-CONMAR-06 Two Hearts Apart (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-CONMAR-06-Two-Hearts-Apart-Fantasy-Grounds",
-        "tiers": 2,
-        "title": "Two Hearts Apart Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/392094/WBWDCCONMAR06-Two-Hearts-Apart-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
