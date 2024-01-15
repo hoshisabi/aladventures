@@ -1,0 +1,8 @@
+title: "AL DC Catalog"
+remote_theme: poole/hyde
+
+# url: "https://MaxShalom.github.io"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme

@@ -1,21 +1,27 @@
 ---
+layout: page
 title: AL Adventures
 ---
 
 <table class="sortable">
-  {% for row in site.data.adventures %}
-    {% if forloop.first %}
-    <thead><tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr></thead>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-{% endfor %}
+  <thead>
+    <tr>
+      <th>Code</th>
+      <th>Title</th>
+      <th>Authors</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in site.data.SJ-DC %}
+      <tr>
+        <td>{{ item.code }}</td>
+        <td>{{ item.title }}</td>
+        <td>{{ item.authors | join: ", " }}</td>
+        <td><a href="{{ item.url }}">{{ item.url }}</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
 </table>
 
 <link href="https://cdn.jsdelivr.net/gh/tofsjonas/sortable@latest/sortable.min.css" rel="stylesheet" />
