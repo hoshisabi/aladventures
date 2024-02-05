@@ -6,6 +6,22 @@
         ],
         "campaign": "Dragonlance",
         "code": "DL-DC-SDCC-03",
+        "date_created": "20230726",
+        "full_title": "Knight Fall (DL-DC-SDCC-03) for Fantasy Grounds",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Knight-Fall-DL-DC-SDCC-03-for-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "Knight Fall  for Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447231/Knight-Fall-DLDCSDCC03-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-03",
         "date_created": "20230717",
         "full_title": "Knight Fall (DL-DC-SDCC-03)",
         "hours": 2,
@@ -14,6 +30,22 @@
         "tiers": 1,
         "title": "Knight Fall",
         "url": "https://www.dmsguild.com/product/445912/Knight-Fall-DLDCSDCC03?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-04",
+        "date_created": "20230726",
+        "full_title": "The Inn of Forgotten Melodies (DL-DC-SDCC-04) for Fantasy Grounds",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "The-Inn-of-Forgotten-Melodies-DL-DC-SDCC-04-for-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "The Inn of Forgotten Melodies  for Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447232/The-Inn-of-Forgotten-Melodies-DLDCSDCC04-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 2,

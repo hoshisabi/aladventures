@@ -1,19 +1,35 @@
 [
     {
-        "apl": 2,
+        "apl": 8,
         "authors": [
-            "Steven Truong"
+            "Joseph George"
         ],
         "campaign": "Forgotten Realms",
-        "code": "FR-DC-GOBLIN-01",
-        "date_created": "20231108",
-        "full_title": "Goblin's Gambit (FR-DC-GOBLIN-01)",
-        "hours": null,
+        "code": "FR-DC-AEG-07",
+        "date_created": "20240122",
+        "full_title": "FR-DC-AEG-07 The Missing Adventurers",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": "FR-DC-AEG-07-The-Missing-Adventurers",
+        "tiers": 2,
+        "title": "The Missing Adventurers",
+        "url": "https://www.dmsguild.com/product/468312/FRDCAEG07-The-Missing-Adventurers?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Jeremy Cheong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-CURSE",
+        "date_created": "20231109",
+        "full_title": "FR-DC-CURSE Is this a Curse?",
+        "hours": 4,
         "level_range": null,
-        "product_id": "Goblins-Gambit-FR-DC-GOBLIN-01",
+        "product_id": "FR-DC-CURSE-Is-this-a-Curse",
         "tiers": 1,
-        "title": "Goblin's Gambit",
-        "url": "https://www.dmsguild.com/product/459410/Goblins-Gambit-FRDCGOBLIN01?filters=0_0_100057_0_0_0_0_0"
+        "title": "Is this a Curse?",
+        "url": "https://www.dmsguild.com/product/459561/FRDCCURSE-Is-this-a-Curse?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -32,20 +48,53 @@
         "url": "https://www.dmsguild.com/product/461261/FRDCPANDORAJWEI05-Chloe?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": 3,
+        "apl": 13,
         "authors": [
-            "Tom Klein"
+            "JWei\u4f1f"
         ],
         "campaign": "Forgotten Realms",
-        "code": "FR-DC-GHG-02",
-        "date_created": "20231214",
-        "full_title": "Owlbear Ascension (FR-DC-GHG-02)",
+        "code": "FR-DC-PANDORA-JWEI-06",
+        "date_created": "20240101",
+        "full_title": "FR-DC-PANDORA-JWEI-06, The Eternals",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-PANDORA-JWEI-06-The-Eternals",
+        "tiers": 3,
+        "title": "The Eternals",
+        "url": "https://www.dmsguild.com/product/465635/FRDCPANDORAJWEI06-The-Eternals?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-GOBLIN-01",
+        "date_created": "20231108",
+        "full_title": "Goblin's Gambit (FR-DC-GOBLIN-01)",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Goblins-Gambit-FR-DC-GOBLIN-01",
+        "tiers": 1,
+        "title": "Goblin's Gambit",
+        "url": "https://www.dmsguild.com/product/459410/Goblins-Gambit-FRDCGOBLIN01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Mike Wokasch",
+            "Winter Wokasch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-QLA-01",
+        "date_created": "20231224",
+        "full_title": "Mel\u2019s Pit (FR-DC-QLA-01)",
         "hours": 4,
         "level_range": null,
-        "product_id": "Owlbear-Ascension-FR-DC-GHG-02",
-        "tiers": 1,
-        "title": "Owlbear Ascension",
-        "url": "https://www.dmsguild.com/product/462901/Owlbear-Ascension-FRDCGHG02?filters=0_0_100057_0_0_0_0_0"
+        "product_id": "Mel\u2019s-Pit-FR-DC-QLA-01",
+        "tiers": 3,
+        "title": "Mel\u2019s Pit",
+        "url": "https://www.dmsguild.com/product/464961/Mels-Pit-FRDCQLA01?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -70,47 +119,15 @@
             "Tom Klein"
         ],
         "campaign": "Forgotten Realms",
-        "code": "FR-DC-GHG-01",
-        "date_created": "20231130",
-        "full_title": "The Griffons of Longsaddle (FR-DC-GHG-01)",
+        "code": "FR-DC-GHG-02",
+        "date_created": "20231214",
+        "full_title": "Owlbear Ascension (FR-DC-GHG-02)",
         "hours": 4,
         "level_range": null,
-        "product_id": "The-Griffons-of-Longsaddle-FR-DC-GHG-01",
+        "product_id": "Owlbear-Ascension-FR-DC-GHG-02",
         "tiers": 1,
-        "title": "The Griffons of Longsaddle",
-        "url": "https://www.dmsguild.com/product/461201/The-Griffons-of-Longsaddle-FRDCGHG01?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 13,
-        "authors": [
-            "JWei\u4f1f"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "FR-DC-PANDORA-JWEI-06",
-        "date_created": "20240101",
-        "full_title": "FR-DC-PANDORA-JWEI-06, The Eternals",
-        "hours": null,
-        "level_range": null,
-        "product_id": "FR-DC-PANDORA-JWEI-06-The-Eternals",
-        "tiers": 3,
-        "title": "The Eternals",
-        "url": "https://www.dmsguild.com/product/465635/FRDCPANDORAJWEI06-The-Eternals?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Jeremy Cheong"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "FR-DC-CURSE",
-        "date_created": "20231109",
-        "full_title": "FR-DC-CURSE Is this a Curse?",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "FR-DC-CURSE-Is-this-a-Curse",
-        "tiers": 1,
-        "title": "Is this a Curse?",
-        "url": "https://www.dmsguild.com/product/459561/FRDCCURSE-Is-this-a-Curse?filters=0_0_100057_0_0_0_0_0"
+        "title": "Owlbear Ascension",
+        "url": "https://www.dmsguild.com/product/462901/Owlbear-Ascension-FRDCGHG02?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -127,5 +144,21 @@
         "tiers": 3,
         "title": "The Flying Flame FR-DC-BG",
         "url": "https://www.dmsguild.com/product/461573/The-Flying-Flame-FRDCBG?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Tom Klein"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-GHG-01",
+        "date_created": "20231130",
+        "full_title": "The Griffons of Longsaddle (FR-DC-GHG-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "The-Griffons-of-Longsaddle-FR-DC-GHG-01",
+        "tiers": 1,
+        "title": "The Griffons of Longsaddle",
+        "url": "https://www.dmsguild.com/product/461201/The-Griffons-of-Longsaddle-FRDCGHG01?filters=0_0_100057_0_0_0_0_0"
     }
 ]
