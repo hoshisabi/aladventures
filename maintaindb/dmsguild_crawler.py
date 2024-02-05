@@ -14,7 +14,6 @@ import time
 import json
 
 from dmsguild_webpage import url_2_DC
-from dmsguild_webpage import DungeonCraft
 from enum import Enum
 
 
@@ -49,12 +48,11 @@ class DmsGuildProduct:
     def __hash__(self):
         return hash(self.product_id)
 
-
 def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
     try:
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
         json_output_path = os.path.join(
-            root, '_dc', f'{dmsGuildProduct.product_id}.json')
+            root, '_dc', f'{re.sub("[^-a-zA-Z0-9]", "", dmsGuildProduct.product_id)}.json')
 
         if not os.path.exists(json_output_path):
             logger.info(
