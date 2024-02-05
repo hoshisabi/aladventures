@@ -117,7 +117,7 @@ def summarize(data, dc_season):
 
     
 
-input_season = 'SJ-DC'
+input_season = 'FR-DC'
 
 
 if __name__ == '__main__':

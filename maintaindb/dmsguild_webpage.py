@@ -21,6 +21,7 @@ DC_CODES = [
     'WBW-DC',
     'DC-POA',
     'RV-DC',
+    'UNKNOWN',
 ]
 
 DC_2_CAMPAIGN = {
@@ -31,6 +32,7 @@ DC_2_CAMPAIGN = {
     'WBW-DC': 'Forgotten Realms',
     'DC-POA': 'Forgotten Realms',
     'RV-DC': 'Ravenloft',
+    'UNKNOWN': 'UNKNOWN',
 }
 
 
@@ -93,14 +95,14 @@ def __get_dc_code(product_title):
             for code in DC_CODES:
                 if text.startswith(code):
                     return text
-    return None
+    return 'UNKNOWN'
 
 
 def __get_campaign(code):
     for key, campaign in DC_2_CAMPAIGN.items():
         if code.startswith(key):
             return campaign
-    return None
+    return 'UNKNOWN'
 
 
 def __str_to_int(value):
@@ -166,6 +168,9 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
         campaign = None
         if product_alt:
             code = __get_dc_code(product_alt)
+            if not code:
+                logger.info(
+                f'No code available for:  {input_url}')
             campaign = __get_campaign(code)
 
         dc = DungeonCraft(product_id, module_name, authors,

@@ -71,6 +71,7 @@ def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
                 f'>> [CACHED] {dmsGuildProduct.product_id} already processed')
             return CrawlerStatus.CACHED
     except Exception as ex:
+        logger.info(f'>> [FAILURE] {dmsGuildProduct.product_id}')
         logger.error(str(ex))
         return CrawlerStatus.ERROR
 
@@ -86,7 +87,7 @@ def get_product_id(node):
     for child in children:
         if child.attrs and 'alt' in child.attrs:
             product_id = child.attrs['alt']
-            product_str = product_id.replace(',', '').replace(' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-').replace('!', '').replace('?', '').replace('/', '').replace('\\', '')
+            product_str = product_id.replace(',', '').replace(' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-').replace('!', '').replace('?', '').replace('/', '').replace('\\', '').replace('"', '').replace("’", '').replace("`", '')
             return product_str
 
     return None
@@ -116,7 +117,7 @@ def crawl_dc_listings(page_number=1, max_results=None):
             product_id = get_product_id(product)
             product_alt = get_product_alt(product)
 
-            if product_id and 'bundle' not in product_id.lower() and 'roll20' not in product_id.lower():
+            if product_id and 'bundle' not in product_id.lower() and 'roll20' not in product_id.lower() and 'grounds' not in product_id.lower():
                 product_list.add(DmsGuildProduct(
                     product_id, product_ulr, alt=product_alt))
 
@@ -147,17 +148,28 @@ def crawl_dc_listings(page_number=1, max_results=None):
     logger.info(f"  {len(success)} SUCCESS")
     logger.info(f"  {len(cached)} CACHED")
     logger.info(f"  {len(error)} ERROR")
+    
+    return success, cached, error
 
 
 if __name__ == '__main__':
     # crawl_dc_listings(page_number=1, max_results=3)
-    for i in range(1, 20):
+    cache_early_stop = 10
+    cached_count = 0
+    for i in range(0, 5):
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
-        crawl_dc_listings(page_number=i)
+        success, cached, error = crawl_dc_listings(page_number=i)
         logger.info(
                 f'----------')
         logger.info(
                 f'Fetching {i}-th page in {sleep_time}s')
-        time.sleep(sleep_time)
+        
+        if success == 0 and error == 0 and cached > 0:
+            cached_count += 1
+            
+        if cached_count >= cache_early_stop:
+           logger.info(f'----------') 
+           logger.info(f'Stopped early due to cached results only') 
+        
         
     # crawl_dc_listings(page_number=2, max_results=15)

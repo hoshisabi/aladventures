@@ -80,5 +80,5 @@ def aggregate():
 
 
 if __name__ == '__main__':
+    # crawl_dc_listings(page_number=1, max_results=15)
     aggregate()
-    # crawl_dc_listings(page_number=2, max_results=15)

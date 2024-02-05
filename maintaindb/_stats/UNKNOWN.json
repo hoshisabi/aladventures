@@ -1,0 +1,590 @@
+[
+    {
+        "apl": null,
+        "authors": [
+            "Aaron Marks"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230105",
+        "full_title": "A Dwarven Love",
+        "hours": null,
+        "level_range": null,
+        "product_id": "A-Dwarven-Love",
+        "tiers": null,
+        "title": "A Dwarven Love",
+        "url": "https://www.dmsguild.com/product/422218/A-Dwarven-Love?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Katriel Paige",
+            "Lex Winter"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20210319",
+        "full_title": "A Fateful Meading",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "A-Fateful-Meading",
+        "tiers": 1,
+        "title": "A Fateful Meading",
+        "url": "https://www.dmsguild.com/product/350954/A-Fateful-Meading?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Dungeon Masters Guild"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20210119",
+        "full_title": "Adventurers League Community Logo",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Adventurers-League-Community-Logo",
+        "tiers": null,
+        "title": "Adventurers League Community Logo",
+        "url": "https://www.dmsguild.com/product/343241/Adventurers-League-Community-Logo?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Justin Vandermeer"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231113",
+        "full_title": "BMG-MOON-MD-02 The Tarthwood Curse",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "BMG-MOON-MD-02-The-Tarthwood-Curse",
+        "tiers": null,
+        "title": "BMG-MOON-MD-02 The Tarthwood Curse",
+        "url": "https://www.dmsguild.com/product/460205/BMGMOONMD02-The-Tarthwood-Curse?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andy Dempz"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231115",
+        "full_title": "BMG-MOON-MD-03 The Lost Song",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "BMG-MOON-MD-03-The-Lost-Song",
+        "tiers": null,
+        "title": "BMG-MOON-MD-03 The Lost Song",
+        "url": "https://www.dmsguild.com/product/460208/BMGMOONMD03-The-Lost-Song?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Martine Lassen"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20201103",
+        "full_title": "CCC-ARCON01-03 - Pharmacist Wanted",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-ARCON01-03---Pharmacist-Wanted",
+        "tiers": 1,
+        "title": "CCC-ARCON01-03 - Pharmacist Wanted",
+        "url": "https://www.dmsguild.com/product/334450/CCCARCON0103--Pharmacist-Wanted?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Andy Dempz"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-1 Shattered Omens",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-1-Shattered-Omens",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-1 Shattered Omens",
+        "url": "https://www.dmsguild.com/product/384260/CCCBMGMOON151-Shattered-Omens?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Collette Quach"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-2 Forgotten Fealty",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-2-Forgotten-Fealty",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-2 Forgotten Fealty",
+        "url": "https://www.dmsguild.com/product/384264/CCCBMGMOON152-Forgotten-Fealty?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Jay H. Anderson"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-3 Fallen Wonder",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-3-Fallen-Wonder",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-3 Fallen Wonder",
+        "url": "https://www.dmsguild.com/product/384265/CCCBMGMOON153-Fallen-Wonder?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Leighton Eash"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220216",
+        "full_title": "CCC-BMG-MOON16-1 Augurs of Spring",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON16-1-Augurs-of-Spring",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON16-1 Augurs of Spring",
+        "url": "https://www.dmsguild.com/product/387185/CCCBMGMOON161-Augurs-of-Spring?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Marina Desmarais"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220216",
+        "full_title": "CCC-BMG-MOON16-2 Procession of the Sage",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON16-2-Procession-of-the-Sage",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON16-2 Procession of the Sage",
+        "url": "https://www.dmsguild.com/product/387188/CCCBMGMOON162-Procession-of-the-Sage?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Ma'at Crook"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220216",
+        "full_title": "CCC-BMG-MOON16-3 The Sacrificial Dance",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON16-3-The-Sacrificial-Dance",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON16-3 The Sacrificial Dance",
+        "url": "https://www.dmsguild.com/product/387190/CCCBMGMOON163-The-Sacrificial-Dance?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Casper Kirketerp-Helenius"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20201103",
+        "full_title": "CCC-CONMAR01-01 Helping Hands",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-CONMAR01-01-Helping-Hands",
+        "tiers": null,
+        "title": "CCC-CONMAR01-01 Helping Hands",
+        "url": "https://www.dmsguild.com/product/334449/CCCCONMAR0101-Helping-Hands?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20210519",
+        "full_title": "CCC-DC-POA-MDV01, \"Haven (Isn't too far Away)",
+        "hours": null,
+        "level_range": null,
+        "product_id": "CCC-DC-POA-MDV01-Haven-Isnt-too-far-Away",
+        "tiers": null,
+        "title": "\"Haven Isn't too far Away",
+        "url": "https://www.dmsguild.com/product/358204/CCCDCPOAMDV01-Haven-Isnt-too-far-Away?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Karl Sciberras"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20181028",
+        "full_title": "CCC-MCX-01 All in a Day\u2019s Work",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-MCX-01-All-in-a-Days-Work",
+        "tiers": 1,
+        "title": "CCC-MCX-01 All in a Day\u2019s Work",
+        "url": "https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Ed Stevens"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20190522",
+        "full_title": "CCC-PRETZ-PLA02 A Mine of Their Own",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-PRETZ-PLA02-A-Mine-of-Their-Own",
+        "tiers": 1,
+        "title": "CCC-PRETZ-PLA02 A Mine of Their Own",
+        "url": "https://www.dmsguild.com/product/277526/CCCPRETZPLA02-A-Mine-of-Their-Own?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Ed Stevens"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220724",
+        "full_title": "CCC-PRETZ-PLA03 The Necroforge (Foundry VTT Mod)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-PRETZ-PLA03-The-Necroforge-Foundry-VTT-Mod",
+        "tiers": 2,
+        "title": "CCC-PRETZ-PLA03 The Necroforge Foundry VTT Mod",
+        "url": "https://www.dmsguild.com/product/404072/CCCPRETZPLA03-The-Necroforge-Foundry-VTT-Mod?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Angelo Corsino",
+            "Karl Sciberras"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20201221",
+        "full_title": "CCC-UNITE-007 The Second Exodus of Syln Nahail",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-UNITE-007-The-Second-Exodus-of-Syln-Nahail",
+        "tiers": null,
+        "title": "CCC-UNITE-007 The Second Exodus of Syln Nahail",
+        "url": "https://www.dmsguild.com/product/340567/CCCUNITE007-The-Second-Exodus-of-Syln-Nahail?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Lu\u00eds Ricardo",
+            "Liga dos Aventureiros",
+            "GameHoleCon"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230606",
+        "full_title": "DC-HERO-01 Endless Songs",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DC-HERO-01-Endless-Songs",
+        "tiers": null,
+        "title": "DC-HERO-01 Endless Songs",
+        "url": "https://www.dmsguild.com/product/440439/DCHERO01-Endless-Songs?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Joel Sussenberger"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231229",
+        "full_title": "DC-SJ-OGC-01 - The Hunt: For Moby Duck",
+        "hours": null,
+        "level_range": null,
+        "product_id": "DC-SJ-OGC-01---The-Hunt--For-Moby-Duck",
+        "tiers": null,
+        "title": "DC-SJ-OGC-01 - The Hunt For Moby Duck",
+        "url": "https://www.dmsguild.com/product/465366/DCSJOGC01--The-Hunt-For-Moby-Duck?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Martin Blume"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231231",
+        "full_title": "DC Spelljammer HIPS Hiding in Plain Sight",
+        "hours": null,
+        "level_range": null,
+        "product_id": "DC-Spelljammer-HIPS-Hiding-in-Plain-Sight",
+        "tiers": 2,
+        "title": "DC Spelljammer HIPS Hiding in Plain Sight",
+        "url": "https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Toca do Coruja RPG"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20211024",
+        "full_title": "DDAL - FAQ v11.1 - PT-BR",
+        "hours": null,
+        "level_range": null,
+        "product_id": "DDAL---FAQ-v11.1---PT-BR",
+        "tiers": null,
+        "title": "DDAL - FAQ v11.1 - PT-BR",
+        "url": "https://www.dmsguild.com/product/375092/DDAL--FAQ-v111--PTBR?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Toca do Coruja RPG"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20210919",
+        "full_title": "DDAL - Guia do Jogador para D&D Adventures League - Or\u00e1culo da Guerra Vers\u00e3o 1.5 - PT-BR",
+        "hours": null,
+        "level_range": null,
+        "product_id": "DDAL---Guia-do-Jogador-para-D&D-Adventures-League---Or\u00e1culo-da-Guerra-Vers\u00e3o-1.5---PT-BR",
+        "tiers": null,
+        "title": "DDAL - Guia do Jogador para D&D Adventures League - Or\u00e1culo da Guerra Vers\u00e3o 1.5 - PT-BR",
+        "url": "https://www.dmsguild.com/product/371212/DDAL--Guia-do-Jogador-para-DD-Adventures-League--Oraculo-da-Guerra-Versao-15--PTBR?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Trevor Salla"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220822",
+        "full_title": "Domain of Delight Directory",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Domain-of-Delight-Directory",
+        "tiers": null,
+        "title": "Domain of Delight Directory",
+        "url": "https://www.dmsguild.com/product/407492/Domain-of-Delight-Directory?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 10,
+        "authors": [
+            "Jon Christian",
+            "Zac Goins",
+            "Troy Sandlin"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230314",
+        "full_title": "Eberron: The Ruin of Grave Metallus",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Eberron--The-Ruin-of-Grave-Metallus",
+        "tiers": null,
+        "title": "Eberron The Ruin of Grave Metallus",
+        "url": "https://www.dmsguild.com/product/430378/Eberron-The-Ruin-of-Grave-Metallus?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Legend Prime"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231222",
+        "full_title": "Eyes of the Beholder",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Eyes-of-the-Beholder",
+        "tiers": null,
+        "title": "Eyes of the Beholder",
+        "url": "https://www.dmsguild.com/product/464776/Eyes-of-the-Beholder?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20221010",
+        "full_title": "Fenndoor: An Adventure in Winterspace",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Fenndoor--An-Adventure-in-Winterspace",
+        "tiers": null,
+        "title": "Fenndoor An Adventure in Winterspace",
+        "url": "https://www.dmsguild.com/product/412998/Fenndoor-An-Adventure-in-Winterspace?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Gerge Coelho"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20210428",
+        "full_title": "Icedawn Over Ten Trail",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Icedawn-Over-Ten-Trail",
+        "tiers": null,
+        "title": "Icedawn Over Ten Trail",
+        "url": "https://www.dmsguild.com/product/355419/Icedawn-Over-Ten-Trail?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 18,
+        "authors": [
+            "Hunter Sinclair"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231212",
+        "full_title": "No Time to Die PS-DC-HYS-03 (5e)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "No-Time-to-Die-PS-DC-HYS-03-5e",
+        "tiers": 4,
+        "title": "No Time to Die  5e",
+        "url": "https://www.dmsguild.com/product/463637/No-Time-to-Die-PSDCHYS03-5e?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Jonathan Bennett"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231216",
+        "full_title": "Nowhere Fast (PS-DC-HNL-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Nowhere-Fast-PS-DC-HNL-01",
+        "tiers": 1,
+        "title": "Nowhere Fast",
+        "url": "https://www.dmsguild.com/product/464022/Nowhere-Fast-PSDCHNL01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Apple Cruz"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230322",
+        "full_title": "One Last Time Official Maps",
+        "hours": null,
+        "level_range": null,
+        "product_id": "One-Last-Time-Official-Maps",
+        "tiers": null,
+        "title": "One Last Time Official Maps",
+        "url": "https://www.dmsguild.com/product/431320/One-Last-Time-Official-Maps?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Apple Cruz"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20220831",
+        "full_title": "One Last Time",
+        "hours": null,
+        "level_range": null,
+        "product_id": "One-Last-Time",
+        "tiers": null,
+        "title": "One Last Time",
+        "url": "https://www.dmsguild.com/product/408440/One-Last-Time?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 18,
+        "authors": [
+            "Johnny Smith"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20231212",
+        "full_title": "PS-DC-AUG-01 Celestia Has Fallen",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-AUG-01-Celestia-Has-Fallen",
+        "tiers": 4,
+        "title": "Celestia Has Fallen",
+        "url": "https://www.dmsguild.com/product/463611/PSDCAUG01-Celestia-Has-Fallen?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "AJ Jernigan"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230326",
+        "full_title": "The Ill King, the Rotting Woods, and the Morterino",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "The-Ill-King-the-Rotting-Woods-and-the-Morterino",
+        "tiers": 1,
+        "title": "The Ill King, the Rotting Woods, and the Morterino",
+        "url": "https://www.dmsguild.com/product/431703/The-Ill-King-the-Rotting-Woods-and-the-Morterino?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeff Arnason"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230820",
+        "full_title": "the Intergalactic Rodeo",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "the-Intergalactic-Rodeo",
+        "tiers": 2,
+        "title": "the Intergalactic Rodeo",
+        "url": "https://www.dmsguild.com/product/450081/the-Intergalactic-Rodeo?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Aaron Marks"
+        ],
+        "campaign": "UNKNOWN",
+        "code": "UNKNOWN",
+        "date_created": "20230618",
+        "full_title": "Welcome to Farenway",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Welcome-to-Farenway",
+        "tiers": null,
+        "title": "Welcome to Farenway",
+        "url": "https://www.dmsguild.com/product/441900/Welcome-to-Farenway?filters=0_0_100057_0_0_0_0_0"
+    }
+]
