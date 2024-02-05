@@ -52,7 +52,7 @@ def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
     try:
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
         json_output_path = os.path.join(
-            root, '_dc', f'{re.sub("[^-a-zA-Z0-9]", "", dmsGuildProduct.product_id)}.json')
+            root, '_dc', f'{dmsGuildProduct.product_id}.json')
 
         if not os.path.exists(json_output_path):
             logger.info(
@@ -84,7 +84,8 @@ def get_product_id(node):
     for child in children:
         if child.attrs and 'alt' in child.attrs:
             product_id = child.attrs['alt']
-            product_str = product_id.replace(',', '').replace(' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-').replace('!', '').replace('?', '').replace('/', '').replace('\\', '')
+            product_str = re.sub(r"[ :-]", "_", product_id)
+            product_str = re.sub(r"\W", "", product_str).replace("_", "-")
             return product_str
 
     return None
