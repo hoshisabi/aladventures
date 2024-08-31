@@ -1,5 +1,70 @@
 [
     {
+        "apl": 3,
+        "authors": [
+            "Marcello De Velazquez",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA01",
+        "date_created": "20240821",
+        "full_title": "DL-DC-LIGA01 - A Silver Light",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-LIGA01---A-Silver-Light",
+        "tiers": 1,
+        "title": "- A Silver Light",
+        "url": "https://www.dmsguild.com/product/492361/DLDCLIGA01--A-Silver-Light?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 11,
+        "authors": [
+            "George Sanders"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SF-01",
+        "date_created": "20240311",
+        "full_title": "DL-DC-SF-01 Split or Fuse",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-SF-01-Split-or-Fuse",
+        "tiers": 3,
+        "title": "Split or Fuse",
+        "url": "https://www.dmsguild.com/product/473696/DLDCSF01-Split-or-Fuse?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Alexander Klement"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SOTH-01",
+        "date_created": "20240714",
+        "full_title": "Dragonlance: Echoes of war (DL-DC-SOTH-01)",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Dragonlance--Echoes-of-war-DL-DC-SOTH-01",
+        "tiers": 1,
+        "title": "Dragonlance Echoes of war",
+        "url": "https://www.dmsguild.com/product/487856/Dragonlance-Echoes-of-war-DLDCSOTH01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-03",
+        "date_created": "20230726",
+        "full_title": "Knight Fall (DL-DC-SDCC-03) for Fantasy Grounds",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Knight-Fall-DL-DC-SDCC-03-for-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "Knight Fall  for Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447231/Knight-Fall-DLDCSDCC03-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
         "apl": 2,
         "authors": [
             "JD McComb"
@@ -14,6 +79,22 @@
         "tiers": 1,
         "title": "Knight Fall",
         "url": "https://www.dmsguild.com/product/445912/Knight-Fall-DLDCSDCC03?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-04",
+        "date_created": "20230726",
+        "full_title": "The Inn of Forgotten Melodies (DL-DC-SDCC-04) for Fantasy Grounds",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "The-Inn-of-Forgotten-Melodies-DL-DC-SDCC-04-for-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "The Inn of Forgotten Melodies  for Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447232/The-Inn-of-Forgotten-Melodies-DLDCSDCC04-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 2,
