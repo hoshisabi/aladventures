@@ -100,10 +100,10 @@ def get_product_alt(node):
     return None
 
 
-def crawl_dc_listings(page_number=1, max_results=None):
+def crawl_dc_listings(base_url = "https://www.dmsguild.com/browse.php?filters=0_0_100057_0_0_0_0_0", page_number=1, max_results=None):
 
     product_list = set()
-    url = f'https://www.dmsguild.com/browse.php?filters=0_0_100057_0_0_0_0_0&page={page_number}&sort=4a'
+    url = f'{base_url}&page={page_number}&sort=4a'
 
     parsed_html = BeautifulSoup(requests.get(url).text, features="html.parser")
 
@@ -149,14 +149,16 @@ def crawl_dc_listings(page_number=1, max_results=None):
 
 
 if __name__ == '__main__':
-    # crawl_dc_listings(page_number=1, max_results=3)
+    base_url = "https://www.dmsguild.com/browse.php?filters=1000044_0_45393_0_0_0_0_0&sort=3a&src=fid45393"
+    if (len(sys.argv) > 1):
+        base_url = sys.argv[1]
+        print("Crawling base_url: " + base_url)
+
     for i in range(1, 20):
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
-        crawl_dc_listings(page_number=i)
+        crawl_dc_listings(base_url = base_url, page_number=i)
         logger.info(
                 f'----------')
         logger.info(
                 f'Fetching {i}-th page in {sleep_time}s')
         time.sleep(sleep_time)
-        
-    # crawl_dc_listings(page_number=2, max_results=15)

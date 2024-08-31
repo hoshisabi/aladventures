@@ -15,6 +15,7 @@ logger = logging.getLogger()
 
 DC_CODES = [
     'DL-DC',
+    'PS-DC',
     'EB-DC',
     'FR-DC',
     'SJ-DC',
@@ -27,12 +28,35 @@ DC_2_CAMPAIGN = {
     'DL-DC': 'Dragonlance',
     'EB-DC': 'Eberron',
     'FR-DC': 'Forgotten Realms',
+    'PO-': 'Forgotten Realms',
+    'PS-DC': 'Forgotten Realms',
     'SJ-DC': 'Forgotten Realms',
     'WBW-DC': 'Forgotten Realms',
     'DC-POA': 'Forgotten Realms',
+    'PO-BK': 'Forgotten Realms',
+    'BMG-DRW': 'Forgotten Realms',
+    'BMG-MOON': 'Forgotten Realms',
+    'BMG-DL': 'Dragonlance',
+    'CCC-': 'Forgotten Realms',
     'RV-DC': 'Ravenloft',
 }
 
+DDAL_CAMPAIGN = {
+    'DDAL4': ['Forgotten Realms', 'Ravenloft'],
+    'DDAL04': ['Forgotten Realms', 'Ravenloft'],
+    'DDEX1': ['Forgotten Realms'],
+    'DDEX2': ['Forgotten Realms'],
+    'DDEX3': ['Forgotten Realms'],
+    'DDAL5': ['Forgotten Realms'],
+    'DDAL6': ['Forgotten Realms'],
+    'DDAL7': ['Forgotten Realms'],
+    'DDAL8': ['Forgotten Realms'],
+    'DDAL9': ['Forgotten Realms'],
+    'DDAL10': ['Forgotten Realms'],
+    'DDAL-DRW': ['Forgotten Realms'],
+    'DDAL-ELW': ['Eberron'],
+    'EB': ['Eberron'],
+}
 
 class DungeonCraft:
 
@@ -77,9 +101,11 @@ class DungeonCraft:
         return result
 
 
-def get_patt_first_group(regex, text):
+def get_patt_first_matching_group(regex, text):
     if matches := re.search(regex, text, re.MULTILINE | re.IGNORECASE):
-        return matches[1]
+        for group in matches.groups():
+            if group:
+                return group
     return None
 
 
@@ -89,8 +115,11 @@ def __get_dc_code(product_title):
         text = text.replace(',', '').replace(
             '(', '').replace(')', '').replace("'", '').replace(':', '-')
         text = text.strip()
-        if 'DC' in text:
+        if text:
             for code in DC_CODES:
+                if text.startswith(code):
+                    return text
+            for code in DDAL_CAMPAIGN:
                 if text.startswith(code):
                     return text
     return None
@@ -154,13 +183,13 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
             "div", {"class": "alpha omega prod-content"})
         text = product_content.text
 
-        hours = get_patt_first_group(r"([0-9-]+|(two|four))[ -]hour", text)
+        hours = get_patt_first_matching_group(r"([0-9]+|(two|four))[to -]*([0-9]+|(two|four))?[- ]?hour", text)
         hours = __str_to_int(hours)
-        tier = get_patt_first_group(r"Tier ?([1-4])", text)
+        tier = get_patt_first_matching_group(r"Tier ?([1-4])", text)
         tier = __str_to_int(tier)
-        apl = get_patt_first_group(r"APL ?(\d+)", text)
+        apl = get_patt_first_matching_group(r"APL ?(\d+)", text)
         apl = __str_to_int(apl)
-        level_range = get_patt_first_group(r"Levels (\d+ ?-\d+)", text)
+        level_range = get_patt_first_matching_group(r"(?:Levels (\d+ ?-\d+)|(\d+.{2,3}-\d+.{2,3}) level)", text)
 
         code = None
         campaign = None
@@ -179,7 +208,10 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
 
 
 if __name__ == '__main__':
-    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
-    url = 'https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0'
-    dc = url_2_DC(url, product_alt='SJ-DC-DD-12 The End of the Line')
+#    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
+#    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
+#    url = 'https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0'
+#     url = 'https://www.dmsguild.com/product/419164/The-Moonshot-SJDCPAT00'
+    url = 'https://www.dmsguild.com/product/252925/DDALELW01-Murder-in-Skyway?filters=0_0_45393_0_45355_0_0_0'
+    dc = url_2_DC(url, product_alt='DDAL-ELW01 Murder in Skyway')
     print(str(dc))
