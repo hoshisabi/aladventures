@@ -66,6 +66,102 @@
         "url": "https://www.dmsguild.com/product/490000/ELDRITCH-EYE-WIDE-SHUT-FRDCVECNA02?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 1,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-01",
+        "date_created": "20231212",
+        "full_title": "FR-DC-AEG-01 The Ambush",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-01-The-Ambush",
+        "tiers": 1,
+        "title": "The Ambush",
+        "url": "https://www.dmsguild.com/product/463575/FRDCAEG01-The-Ambush?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-02",
+        "date_created": "20231212",
+        "full_title": "FR-DC-AEG-02 The Rescue",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-02-The-Rescue",
+        "tiers": 1,
+        "title": "The Rescue",
+        "url": "https://www.dmsguild.com/product/463576/FRDCAEG02-The-Rescue?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-03",
+        "date_created": "20231213",
+        "full_title": "FR-DC-AEG-03 The Escape",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-03-The-Escape",
+        "tiers": 1,
+        "title": "The Escape",
+        "url": "https://www.dmsguild.com/product/463667/FRDCAEG03-The-Escape?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 4,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-04",
+        "date_created": "20231213",
+        "full_title": "FR-DC-AEG-04 The School",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-04-The-School",
+        "tiers": 1,
+        "title": "The School",
+        "url": "https://www.dmsguild.com/product/463668/FRDCAEG04-The-School?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 6,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-05",
+        "date_created": "20231217",
+        "full_title": "FR-DC-AEG-05 The House in the Forest",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-05-The-House-in-the-Forest",
+        "tiers": 2,
+        "title": "The House in the Forest",
+        "url": "https://www.dmsguild.com/product/464141/FRDCAEG05-The-House-in-the-Forest?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 7,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-06",
+        "date_created": "20231223",
+        "full_title": "FR-DC-AEG-06 The Abandoned City",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-06-The-Abandoned-City",
+        "tiers": 2,
+        "title": "The Abandoned City",
+        "url": "https://www.dmsguild.com/product/464893/FRDCAEG06-The-Abandoned-City?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Joseph George"
@@ -80,6 +176,54 @@
         "tiers": 2,
         "title": "The Missing Adventurers",
         "url": "https://www.dmsguild.com/product/468312/FRDCAEG07-The-Missing-Adventurers?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 9,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-08",
+        "date_created": "20240128",
+        "full_title": "FR-DC-AEG-08 The Lost Artifact",
+        "hours": null,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-08-The-Lost-Artifact",
+        "tiers": 2,
+        "title": "The Lost Artifact",
+        "url": "https://www.dmsguild.com/product/468948/FRDCAEG08-The-Lost-Artifact?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 9,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-09",
+        "date_created": "20240211",
+        "full_title": "FR-DC-AEG-09 What's in the Box?",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-09-Whats-in-the-Box",
+        "tiers": 2,
+        "title": "What's in the Box?",
+        "url": "https://www.dmsguild.com/product/470654/FRDCAEG09-Whats-in-the-Box?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 12,
+        "authors": [
+            "Joseph George"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-AEG-10",
+        "date_created": "20240216",
+        "full_title": "FR-DC-AEG-10 The Ritual",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-AEG-10-The-Ritual",
+        "tiers": 3,
+        "title": "The Ritual",
+        "url": "https://www.dmsguild.com/product/471198/FRDCAEG10-The-Ritual?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -224,6 +368,54 @@
         "tiers": 2,
         "title": "Hoard of the Death Dragon",
         "url": "https://www.dmsguild.com/product/489959/FRDCDOBU0201-Hoard-of-the-Death-Dragon?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jia Jian Tin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LAX-01-01",
+        "date_created": "20240823",
+        "full_title": "FR-DC-LAX-01-01 A Bone to Pick",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-LAX-01-01-A-Bone-to-Pick",
+        "tiers": 2,
+        "title": "A Bone to Pick",
+        "url": "https://www.dmsguild.com/product/492551/FRDCLAX0101-A-Bone-to-Pick?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jia Jian Tin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LAX",
+        "date_created": "20240823",
+        "full_title": "FR-DC-LAX 01-02 No Strings Attached",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-LAX-01-02-No-Strings-Attached",
+        "tiers": 2,
+        "title": "01-02 No Strings Attached",
+        "url": "https://www.dmsguild.com/product/492553/FRDCLAX-0102-No-Strings-Attached?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 15,
+        "authors": [
+            "Dev Alva"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LGBTQ-01",
+        "date_created": "20240609",
+        "full_title": "FR-DC-LGBTQ-01 Pride for Phlan",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-LGBTQ-01-Pride-for-Phlan",
+        "tiers": 3,
+        "title": "Pride for Phlan",
+        "url": "https://www.dmsguild.com/product/484003/FRDCLGBTQ01-Pride-for-Phlan?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -623,6 +815,22 @@
         "url": "https://www.dmsguild.com/product/473806/FRDCRWIE03-Circus-Berserkus?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Kelly Samuelson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-SAC-07",
+        "date_created": "20240902",
+        "full_title": "FR-DC-SAC-07 Haunting in Gloomwood Cemetery",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "FR-DC-SAC-07-Haunting-in-Gloomwood-Cemetery",
+        "tiers": 1,
+        "title": "Haunting in Gloomwood Cemetery",
+        "url": "https://www.dmsguild.com/product/493743/FRDCSAC07-Haunting-in-Gloomwood-Cemetery?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Strategicon AL",
@@ -655,6 +863,22 @@
         "tiers": 2,
         "title": "Shadow on the Sands",
         "url": "https://www.dmsguild.com/product/481587/FRDCTRIDENMYKE05-Shadow-on-the-Sands?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Ting Yuen Tjiong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-TT-201",
+        "date_created": "20240430",
+        "full_title": "FR-DC-TT-201 Return to Mountain's Toe Gold Mine",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-TT-201-Return-to-Mountains-Toe-Gold-Mine",
+        "tiers": 2,
+        "title": "Return to Mountain's Toe Gold Mine",
+        "url": "https://www.dmsguild.com/product/479334/FRDCTT201-Return-to-Mountains-Toe-Gold-Mine?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -742,6 +966,22 @@
     {
         "apl": 8,
         "authors": [
+            "Mitch Gatt"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-MELB-01-01",
+        "date_created": "20240611",
+        "full_title": "Mistbourne: The Musical (FR-DC-MELB-01-01)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Mistbourne--The-Musical-FR-DC-MELB-01-01",
+        "tiers": 2,
+        "title": "Mistbourne The Musical",
+        "url": "https://www.dmsguild.com/product/484234/Mistbourne-The-Musical-FRDCMELB0101?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Jason Lee"
         ],
         "campaign": "Forgotten Realms",
@@ -818,6 +1058,22 @@
         "tiers": 2,
         "title": "Signs of Corruption",
         "url": "https://www.dmsguild.com/product/484589/Signs-of-Corruption-FRDCMELB0103?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Hunter Sinclair"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-XMAS-01",
+        "date_created": "20231211",
+        "full_title": "Silent Night (FR-DC-XMAS-01) (5e)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Silent-Night-FR-DC-XMAS-01-5e",
+        "tiers": 1,
+        "title": "Silent Night  5e",
+        "url": "https://www.dmsguild.com/product/463480/Silent-Night-FRDCXMAS01-5e?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -1027,6 +1283,23 @@
         "tiers": null,
         "title": "Those Who Plant",
         "url": "https://www.dmsguild.com/product/481540/Those-Who-Plant-FRDCTGT02?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Steven Truong",
+            "Cameron Pearce"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-VECNA-01",
+        "date_created": "20240521",
+        "full_title": "THREE BODY PROBLEM (FR-DC-VECNA-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "THREE-BODY-PROBLEM-FR-DC-VECNA-01",
+        "tiers": null,
+        "title": "THREE BODY PROBLEM",
+        "url": "https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,

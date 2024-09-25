@@ -180,6 +180,22 @@
         "url": "https://www.dmsguild.com/product/451316/Darkside-of-Selune-SJDCHYS02-5e?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Christian Brazil"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-VEN-03",
+        "date_created": "20231121",
+        "full_title": "Daylight Saving Time (SJ-DC-VEN-03)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Daylight-Saving-Time-SJ-DC-VEN-03",
+        "tiers": null,
+        "title": "Daylight Saving Time",
+        "url": "https://www.dmsguild.com/product/461144/Daylight-Saving-Time-SJDCVEN03?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Brendon Watson"
@@ -242,6 +258,22 @@
         "tiers": 2,
         "title": "Enter Mission",
         "url": "https://www.dmsguild.com/product/461977/Enter-Mission-SJDCBST08?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 12,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-ASLM-01",
+        "date_created": "20231229",
+        "full_title": "Escape from Toril (SJ-DC-ASLM-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Escape-from-Toril-SJ-DC-ASLM-01",
+        "tiers": 3,
+        "title": "Escape from Toril",
+        "url": "https://www.dmsguild.com/product/465379/Escape-from-Toril-SJDCASLM01?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -355,6 +387,22 @@
         "tiers": null,
         "title": "Hardy and Beholder Investigations The Stowaway",
         "url": "https://www.dmsguild.com/product/411601/Hardy-and-Beholder-Investigations-The-Stowaway-SJDCHBI001?filters=1000044_0_45393_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "S C Townsley"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-ASLM-02",
+        "date_created": "20231229",
+        "full_title": "Heart of Glass (SJ-DC-ASLM-02)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Heart-of-Glass-SJ-DC-ASLM-02",
+        "tiers": 3,
+        "title": "Heart of Glass",
+        "url": "https://www.dmsguild.com/product/465380/Heart-of-Glass-SJDCASLM02?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -564,6 +612,22 @@
         "tiers": 3,
         "title": "Missing Heir",
         "url": "https://www.dmsguild.com/product/464908/Missing-Heir-SJDCASLM03?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Hunter Sinclair"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-KGV-01",
+        "date_created": "20231027",
+        "full_title": "Moonlit Mysteries: A Heist to Remember (SJ-DC-KGV-01) (5e)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Moonlit-Mysteries--A-Heist-to-Remember-SJ-DC-KGV-01-5e",
+        "tiers": 2,
+        "title": "Moonlit Mysteries A Heist to Remember  5e",
+        "url": "https://www.dmsguild.com/product/458129/Moonlit-Mysteries-A-Heist-to-Remember-SJDCKGV01-5e?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -789,6 +853,60 @@
         "tiers": 2,
         "title": "Starlight\u2019s Lament",
         "url": "https://www.dmsguild.com/product/465326/SJDCAMAK-Starlights-Lament?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Alexis Paige",
+            "James Clark",
+            "Strategicon AL"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-AMOT-01",
+        "date_created": "20230901",
+        "full_title": "SJ-DC-AMOT-01 A Time to Heal",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-AMOT-01-A-Time-to-Heal",
+        "tiers": 3,
+        "title": "A Time to Heal",
+        "url": "https://www.dmsguild.com/product/451690/SJDCAMOT01-A-Time-to-Heal?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Noah Grand",
+            "Bryn Keeling",
+            "Strategicon AL"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-AMOT-02",
+        "date_created": "20230901",
+        "full_title": "SJ-DC-AMOT-02 Gone in a Flash",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-AMOT-02-Gone-in-a-Flash",
+        "tiers": 3,
+        "title": "Gone in a Flash",
+        "url": "https://www.dmsguild.com/product/451692/SJDCAMOT02-Gone-in-a-Flash?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jon Klucharits",
+            "Tim Hanson",
+            "Strategicon AL"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-AMOT-03",
+        "date_created": "20230901",
+        "full_title": "SJ-DC-AMOT-03 Playing the Odds",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-AMOT-03-Playing-the-Odds",
+        "tiers": 3,
+        "title": "Playing the Odds",
+        "url": "https://www.dmsguild.com/product/451697/SJDCAMOT03-Playing-the-Odds?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -1236,6 +1354,23 @@
         "url": "https://www.dmsguild.com/product/465399/SJDCCONMAR04-Finally-Saving-Marcus?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Christian Alhaug",
+            "Martine Lassen"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-CONMAR",
+        "date_created": "20240102",
+        "full_title": "SJ-DC-CONMAR Art & Info Pack",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "SJ-DC-CONMAR-Art--Info-Pack",
+        "tiers": 3,
+        "title": "Art & Info Pack",
+        "url": "https://www.dmsguild.com/product/465858/SJDCCONMAR-Art--Info-Pack?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 2,
         "authors": [
             "Jonathan Self"
@@ -1661,6 +1796,57 @@
     {
         "apl": 8,
         "authors": [
+            "David Sklenicka",
+            "Teddy Benson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-DRAGON-01",
+        "date_created": "20230901",
+        "full_title": "SJ-DC-DRAGON-01 : The Rock of Bral Caper",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-DRAGON-01---The-Rock-of-Bral-Caper",
+        "tiers": 2,
+        "title": "The Rock of Bral Caper",
+        "url": "https://www.dmsguild.com/product/451453/SJDCDRAGON01--The-Rock-of-Bral-Caper?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Teddy Benson",
+            "David Sklenicka"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-DRAGON-03",
+        "date_created": "20230926",
+        "full_title": "SJ-DC-DRAGON-03 : The Starfire Gambit!",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-DRAGON-03---The-Starfire-Gambit",
+        "tiers": 2,
+        "title": "The Starfire Gambit!",
+        "url": "https://www.dmsguild.com/product/451468/SJDCDRAGON03--The-Starfire-Gambit?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Teddy Benson",
+            "David Sklenicka"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-DRAGON-04",
+        "date_created": "20230926",
+        "full_title": "SJ-DC-DRAGON-04 : The Call from Space!",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-DRAGON-04---The-Call-from-Space",
+        "tiers": 2,
+        "title": "The Call from Space!",
+        "url": "https://www.dmsguild.com/product/451471/SJDCDRAGON04--The-Call-from-Space?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Darion Smith"
         ],
         "campaign": "Forgotten Realms",
@@ -1947,6 +2133,38 @@
         "tiers": 1,
         "title": "Flurry of Flumphs",
         "url": "https://www.dmsguild.com/product/411348/SJDCFLUMPH01-Flurry-of-Flumphs?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-FLUMPH-03",
+        "date_created": "20231231",
+        "full_title": "SJ-DC-FLUMPH-03 Flux Wars",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-FLUMPH-03-Flux-Wars",
+        "tiers": 3,
+        "title": "Flux Wars",
+        "url": "https://www.dmsguild.com/product/465708/SJDCFLUMPH03-Flux-Wars?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-FLUMPH-04",
+        "date_created": "20231231",
+        "full_title": "SJ-DC-FLUMPH-04 Flaw in the Machine",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-FLUMPH-04-Flaw-in-the-Machine",
+        "tiers": 3,
+        "title": "Flaw in the Machine",
+        "url": "https://www.dmsguild.com/product/465711/SJDCFLUMPH04-Flaw-in-the-Machine?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -2439,6 +2657,54 @@
         "url": "https://www.dmsguild.com/product/426879/SJDCMONSTER01-Phoenix?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 14,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-MONSTER-02",
+        "date_created": "20230911",
+        "full_title": "SJ-DC-MONSTER-02 Leviathan",
+        "hours": null,
+        "level_range": null,
+        "product_id": "SJ-DC-MONSTER-02-Leviathan",
+        "tiers": 3,
+        "title": "Leviathan",
+        "url": "https://www.dmsguild.com/product/452693/SJDCMONSTER02-Leviathan?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 14,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-MONSTER-03",
+        "date_created": "20231116",
+        "full_title": "SJ-DC-MONSTER-03 Zaratan",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "SJ-DC-MONSTER-03-Zaratan",
+        "tiers": 3,
+        "title": "Zaratan",
+        "url": "https://www.dmsguild.com/product/460523/SJDCMONSTER03-Zaratan?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 14,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-MONSTER-04",
+        "date_created": "20231230",
+        "full_title": "SJ-DC-MONSTER-04 Tempest",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-MONSTER-04-Tempest",
+        "tiers": 3,
+        "title": "Tempest",
+        "url": "https://www.dmsguild.com/product/465560/SJDCMONSTER04-Tempest?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Mitchell Tee"
@@ -2759,6 +3025,22 @@
         "tiers": 3,
         "title": "Thousand Tiny Ducks",
         "url": "https://www.dmsguild.com/product/465634/SJDCPHPORNG-Thousand-Tiny-Ducks?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 9,
+        "authors": [
+            "T.Y. Montiflor"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-PHP-TY-VAL-01",
+        "date_created": "20230902",
+        "full_title": "SJ-DC-PHP-TY-VAL-01 i give you this gift of wings",
+        "hours": null,
+        "level_range": null,
+        "product_id": "SJ-DC-PHP-TY-VAL-01-i-give-you-this-gift-of-wings",
+        "tiers": 2,
+        "title": "i give you this gift of wings",
+        "url": "https://www.dmsguild.com/product/451727/SJDCPHPTYVAL01-i-give-you-this-gift-of-wings?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -3427,6 +3709,22 @@
         "url": "https://www.dmsguild.com/product/424353/SJDCTRIDENSD-Shot-in-The-Dark?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "TRIDEN Games"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-TRIDEN-TFC",
+        "date_created": "20231231",
+        "full_title": "SJ-DC-TRIDEN-TFC The Final Countdown",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-TRIDEN-TFC-The-Final-Countdown",
+        "tiers": 3,
+        "title": "The Final Countdown",
+        "url": "https://www.dmsguild.com/product/465688/SJDCTRIDENTFC-The-Final-Countdown?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Matthew Barry"
@@ -3687,6 +3985,54 @@
         "url": "https://www.dmsguild.com/product/438392/SJDCWINE01-Thunderstorms--Wine?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-ZODIAC-14-01",
+        "date_created": "20230923",
+        "full_title": "SJ-DC-ZODIAC-14-01 Fortune's Favor",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-ZODIAC-14-01-Fortunes-Favor",
+        "tiers": 3,
+        "title": "Fortune's Favor",
+        "url": "https://www.dmsguild.com/product/453990/SJDCZODIAC1401-Fortunes-Favor?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 14,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-ZODIAC-14-02",
+        "date_created": "20231125",
+        "full_title": "SJ-DC-ZODIAC-14-02 Fey Inferno",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-ZODIAC-14-02-Fey-Inferno",
+        "tiers": 3,
+        "title": "Fey Inferno",
+        "url": "https://www.dmsguild.com/product/461558/SJDCZODIAC1402-Fey-Inferno?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 14,
+        "authors": [
+            "Steven Truong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-ZODIAC-14-03",
+        "date_created": "20231231",
+        "full_title": "SJ-DC-ZODIAC-14-03 Herald of War",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "SJ-DC-ZODIAC-14-03-Herald-of-War",
+        "tiers": 3,
+        "title": "Herald of War",
+        "url": "https://www.dmsguild.com/product/465580/SJDCZODIAC1403-Herald-of-War?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Darryl Ho",
@@ -3896,6 +4242,22 @@
         "tiers": 3,
         "title": "The Cods Must Be Crazy",
         "url": "https://www.dmsguild.com/product/465522/The-Cods-Must-Be-Crazy-SJDCCOD?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 5,
+        "authors": [
+            "Sergio Solorzano"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "SJ-DC-FLF-01",
+        "date_created": "20231219",
+        "full_title": "The Floof From Planet Floof (SJ-DC-FLF-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "The-Floof-From-Planet-Floof-SJ-DC-FLF-01",
+        "tiers": 2,
+        "title": "The Floof From Planet Floof",
+        "url": "https://www.dmsguild.com/product/464361/The-Floof-From-Planet-Floof-SJDCFLF01?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 14,

@@ -17,6 +17,22 @@
         "url": "https://www.dmsguild.com/product/492361/DLDCLIGA01--A-Silver-Light?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-MDV-01",
+        "date_created": "20231211",
+        "full_title": "DL-DC-MDV-01 A Mother's Love: A Dragonlance Adventures Experience",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": "DL-DC-MDV-01-A-Mothers-Love--A-Dragonlance-Adventures-Experience",
+        "tiers": 2,
+        "title": "A Mother's Love A Dragonlance Adventures Experience",
+        "url": "https://www.dmsguild.com/product/463522/DLDCMDV01-A-Mothers-Love-A-Dragonlance-Adventures-Experience?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 11,
         "authors": [
             "George Sanders"

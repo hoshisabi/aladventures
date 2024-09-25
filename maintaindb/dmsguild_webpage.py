@@ -9,22 +9,12 @@ import datetime
 import re
 import json
 from word2number import w2n
+import sys
 
 
 logger = logging.getLogger()
 
-DC_CODES = [
-    'DL-DC',
-    'PS-DC',
-    'EB-DC',
-    'FR-DC',
-    'SJ-DC',
-    'WBW-DC',
-    'DC-POA',
-    'RV-DC',
-]
-
-DC_2_CAMPAIGN = {
+DC_CAMPAIGNS = {
     'DL-DC': 'Dragonlance',
     'EB-DC': 'Eberron',
     'FR-DC': 'Forgotten Realms',
@@ -35,6 +25,7 @@ DC_2_CAMPAIGN = {
     'DC-POA': 'Forgotten Realms',
     'PO-BK': 'Forgotten Realms',
     'BMG-DRW': 'Forgotten Realms',
+    'BMG-DL': 'Dragonlance',
     'BMG-MOON': 'Forgotten Realms',
     'BMG-DL': 'Dragonlance',
     'CCC-': 'Forgotten Realms',
@@ -109,27 +100,21 @@ def get_patt_first_matching_group(regex, text):
     return None
 
 
-def __get_dc_code(product_title):
+def __get_dc_code_and_campaign(product_title):
     content = str(product_title).upper().split()
     for text in content:
         text = text.replace(',', '').replace(
             '(', '').replace(')', '').replace("'", '').replace(':', '-')
         text = text.strip()
         if text:
-            for code in DC_CODES:
+            for code in DC_CAMPAIGNS:
                 if text.startswith(code):
-                    return text
+                    return (text, DC_CAMPAIGNS.get(code))
             for code in DDAL_CAMPAIGN:
                 if text.startswith(code):
-                    return text
+                    return (text, DDAL_CAMPAIGN.get(code))
     return None
 
-
-def __get_campaign(code):
-    for key, campaign in DC_2_CAMPAIGN.items():
-        if code.startswith(key):
-            return campaign
-    return None
 
 
 def __str_to_int(value):
@@ -183,19 +168,19 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
             "div", {"class": "alpha omega prod-content"})
         text = product_content.text
 
-        hours = get_patt_first_matching_group(r"([0-9]+|(two|four))[to -]*([0-9]+|(two|four))?[- ]?hour", text)
+        hours = get_patt_first_matching_group(r"(?i)(two|four|\d)+(?:hour|to|through|\+|-|\s+)*(?:(\d|two|four|eight|\s)+)*Hour", text)
         hours = __str_to_int(hours)
         tier = get_patt_first_matching_group(r"Tier ?([1-4])", text)
         tier = __str_to_int(tier)
         apl = get_patt_first_matching_group(r"APL ?(\d+)", text)
         apl = __str_to_int(apl)
-        level_range = get_patt_first_matching_group(r"(?:Levels (\d+ ?-\d+)|(\d+.{2,3}-\d+.{2,3}) level)", text)
+        level_range = get_patt_first_matching_group(r"(?i)(?:levels ?)?(\d+)(?:nd|th)?(?:[ -]|through|to)*(\d+)(?:nd|th)?[- ](?:level)?", text)
+	
 
         code = None
         campaign = None
         if product_alt:
-            code = __get_dc_code(product_alt)
-            campaign = __get_campaign(code)
+            (code,campaign) = __get_dc_code_and_campaign(product_alt)
 
         dc = DungeonCraft(product_id, module_name, authors,
                           code, date_created, hours, tier, apl, level_range, input_url, campaign)
@@ -208,10 +193,8 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
 
 
 if __name__ == '__main__':
-#    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
-#    problematic_url = 'https://www.dmsguild.com/product/465594/DC-Spelljammer-HIPS-Hiding-in-Plain-Sight?term=DC-Spelljammer-HIPS'
-#    url = 'https://www.dmsguild.com/product/465468/SJDCDD12-The-End-of-the-Line?filters=0_0_100057_0_0_0_0_0'
-#     url = 'https://www.dmsguild.com/product/419164/The-Moonshot-SJDCPAT00'
-    url = 'https://www.dmsguild.com/product/252925/DDALELW01-Murder-in-Skyway?filters=0_0_45393_0_45355_0_0_0'
-    dc = url_2_DC(url, product_alt='DDAL-ELW01 Murder in Skyway')
+    url = sys.argv[1]
+    product_alt = sys.argv[2]
+
+    dc = url_2_DC(url, product_alt=product_alt)
     print(str(dc))
