@@ -25,11 +25,27 @@
         "date_created": "20240906",
         "full_title": "Its Always Boring in Automata (PS-DC-NOS-03)",
         "hours": 2,
-        "level_range": null,
+        "level_range": "17-20",
         "product_id": "Its-Always-Boring-in-Automata-PS-DC-NOS-03",
         "tiers": 4,
         "title": "Its Always Boring in Automata",
         "url": "https://www.dmsguild.com/product/494242/Its-Always-Boring-in-Automata-PSDCNOS03?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Nick Stefanski"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-MORD-01",
+        "date_created": "20240909",
+        "full_title": "Mordenkainen's Memory Palace (PS-DC-MORD-01)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Mordenkainens-Memory-Palace-PS-DC-MORD-01",
+        "tiers": 2,
+        "title": "Mordenkainen's Memory Palace",
+        "url": "https://www.dmsguild.com/product/494546/Mordenkainens-Memory-Palace-PSDCMORD01?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 18,
@@ -200,6 +216,22 @@
     {
         "apl": 18,
         "authors": [
+            "Death 101010"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-ELEMENT-DEATH-02",
+        "date_created": "20240924",
+        "full_title": "PS-DC-ELEMENT-DEATH-02 And Then They Attacked",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "PS-DC-ELEMENT-DEATH-02-And-Then-They-Attacked",
+        "tiers": 4,
+        "title": "And Then They Attacked",
+        "url": "https://www.dmsguild.com/product/496426/PSDCELEMENTDEATH02-And-Then-They-Attacked?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 18,
+        "authors": [
             "Dev Alva",
             "Nguyen Le"
         ],
@@ -277,6 +309,102 @@
         "tiers": 3,
         "title": "Qubicorubikonomicon",
         "url": "https://www.dmsguild.com/product/489877/PSDCPHPCKA2-Qubicorubikonomicon?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-05",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-05 Mass Hysteria",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-05-Mass-Hysteria",
+        "tiers": 2,
+        "title": "Mass Hysteria",
+        "url": "https://www.dmsguild.com/product/494610/PSDCPKL05-Mass-Hysteria?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-06",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-06 It's A Toss-Up",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-06-Its-A-Toss-Up",
+        "tiers": 2,
+        "title": "It's A Toss-Up",
+        "url": "https://www.dmsguild.com/product/494613/PSDCPKL06-Its-A-TossUp?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-07",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-07 Back to the Abyss",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-07-Back-to-the-Abyss",
+        "tiers": 2,
+        "title": "Back to the Abyss",
+        "url": "https://www.dmsguild.com/product/494614/PSDCPKL07-Back-to-the-Abyss?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-08",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-08 Darker Shade of Pale",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-08-Darker-Shade-of-Pale",
+        "tiers": 2,
+        "title": "Darker Shade of Pale",
+        "url": "https://www.dmsguild.com/product/494615/PSDCPKL08-Darker-Shade-of-Pale?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-09",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-09 'Someday'",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-09-Someday",
+        "tiers": 2,
+        "title": "'Someday'",
+        "url": "https://www.dmsguild.com/product/494617/PSDCPKL09-Someday?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PKL-10",
+        "date_created": "20240910",
+        "full_title": "PS-DC-PKL-10 Behind Blue Eyes",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PKL-10-Behind-Blue-Eyes",
+        "tiers": 2,
+        "title": "Behind Blue Eyes",
+        "url": "https://www.dmsguild.com/product/494618/PSDCPKL10-Behind-Blue-Eyes?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 13,

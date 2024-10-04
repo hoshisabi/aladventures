@@ -18,7 +18,6 @@ DC_CAMPAIGNS = {
     'DL-DC': 'Dragonlance',
     'EB-DC': 'Eberron',
     'FR-DC': 'Forgotten Realms',
-    'PO-': 'Forgotten Realms',
     'PS-DC': 'Forgotten Realms',
     'SJ-DC': 'Forgotten Realms',
     'WBW-DC': 'Forgotten Realms',

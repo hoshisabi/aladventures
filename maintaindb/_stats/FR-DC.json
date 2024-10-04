@@ -49,6 +49,22 @@
         "url": "https://www.dmsguild.com/product/489397/Cathedral-of-Ice-FRDCFALL01?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Brendon Watson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-MELB-00-01",
+        "date_created": "20240916",
+        "full_title": "Dead in Daggerford (FR-DC-MELB-00-01)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Dead-in-Daggerford-FR-DC-MELB-00-01",
+        "tiers": 1,
+        "title": "Dead in Daggerford",
+        "url": "https://www.dmsguild.com/product/495431/Dead-in-Daggerford-FRDCMELB0001?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Steven Truong",
@@ -352,6 +368,38 @@
         "tiers": 3,
         "title": "Debilitating Dairy",
         "url": "https://www.dmsguild.com/product/485765/FRDCDEATH-Debilitating-Dairy?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Matt Houser"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-DIGM-01-01",
+        "date_created": "20240924",
+        "full_title": "FR-DC-DIGM-01-01 Sweet Tooth",
+        "hours": 4,
+        "level_range": "01",
+        "product_id": "FR-DC-DIGM-01-01-Sweet-Tooth",
+        "tiers": 1,
+        "title": "Sweet Tooth",
+        "url": "https://www.dmsguild.com/product/496429/FRDCDIGM0101-Sweet-Tooth?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Andrew Geesy"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-DILL-01",
+        "date_created": "20240913",
+        "full_title": "FR-DC-DILL-01 Labor Day",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-DILL-01-Labor-Day",
+        "tiers": 2,
+        "title": "Labor Day",
+        "url": "https://www.dmsguild.com/product/495119/FRDCDILL01-Labor-Day?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,

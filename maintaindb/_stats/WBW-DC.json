@@ -210,6 +210,22 @@
         "url": "https://www.dmsguild.com/product/408478/Cats-Paws-WBWDCNTP01?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Aileen Adriane Cerrudo"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-TST-01",
+        "date_created": "20220401",
+        "full_title": "Color in Light (WBW-DC-TST-01)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Color-in-Light-WBW-DC-TST-01",
+        "tiers": 2,
+        "title": "Color in Light",
+        "url": "https://www.dmsguild.com/product/391503/Color-in-Light-WBWDCTST01?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "David Hardie"
@@ -515,6 +531,22 @@
         "tiers": 1,
         "title": "Sugar & Spice & Everything Nice",
         "url": "https://www.dmsguild.com/product/407624/Sugar--Spice--Everything-Nice-WBWDCLSN04?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Christopher Moreman"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-LSN-03",
+        "date_created": "20220628",
+        "full_title": "That Nice Old Lady (WBW-DC-LSN-03)",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "That-Nice-Old-Lady-WBW-DC-LSN-03",
+        "tiers": 1,
+        "title": "That Nice Old Lady",
+        "url": "https://www.dmsguild.com/product/401224/That-Nice-Old-Lady-WBWDCLSN03?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -1066,6 +1098,23 @@
         "url": "https://www.dmsguild.com/product/405358/WBWDCARCON04-The-Multivertshus-II?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Johnny Smith",
+            "Triden Games"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-AUG-01",
+        "date_created": "20220823",
+        "full_title": "WBW-DC-AUG-01 Last Hour",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-AUG-01-Last-Hour",
+        "tiers": 2,
+        "title": "Last Hour",
+        "url": "https://www.dmsguild.com/product/407553/WBWDCAUG01-Last-Hour?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Backyard Adventure Games",
@@ -1594,6 +1643,23 @@
         "url": "https://www.dmsguild.com/product/408252/WBWDCCONMAR12-Dreams-of-the-Wet-Wizard?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Casper Akto Kanstrup",
+            "Martin Akto Kanstrup"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-CONMAR-13",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-CONMAR-13 Losing ConTroll",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-CONMAR-13-Losing-ConTroll",
+        "tiers": 1,
+        "title": "Losing ConTroll",
+        "url": "https://www.dmsguild.com/product/408549/WBWDCCONMAR13-Losing-ConTroll?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Daniel Ellingsen"
@@ -1969,6 +2035,26 @@
     {
         "apl": 3,
         "authors": [
+            "Grim Press",
+            "Ethan Stanhope",
+            "Te\u00e4n Stanhope",
+            "Leprekorn",
+            "Thomas Carpenter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-FEN-01",
+        "date_created": "20220722",
+        "full_title": "WBW-DC-FEN-01 Tiddy Mun and the Stranger Stone (Fantasy Grounds)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "WBW-DC-FEN-01-Tiddy-Mun-and-the-Stranger-Stone-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "Tiddy Mun and the Stranger Stone Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/403805/WBWDCFEN01-Tiddy-Mun-and-the-Stranger-Stone-Fantasy-Grounds?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
             "Ethan Stanhope",
             "Te\u00e4n Stanhope"
         ],
@@ -1982,6 +2068,27 @@
         "tiers": 1,
         "title": "Tiddy Mun and the Stranger Stone",
         "url": "https://www.dmsguild.com/product/397975/WBWDCFEN01-Tiddy-Mun-and-the-Stranger-Stone?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Grim Press",
+            "Ethan Stanhope",
+            "Te\u00e4n Stanhope",
+            "James Twigg",
+            "Leprekorn",
+            "Matt Hornsby"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-FEN-02",
+        "date_created": "20220726",
+        "full_title": "WBW-DC-FEN-02 Tiddy Mun and the Burrow of Bandits (Fantasy Grounds)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-FEN-02-Tiddy-Mun-and-the-Burrow-of-Bandits-Fantasy-Grounds",
+        "tiers": null,
+        "title": "Tiddy Mun and the Burrow of Bandits Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/404246/WBWDCFEN02-Tiddy-Mun-and-the-Burrow-of-Bandits-Fantasy-Grounds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -2000,6 +2107,27 @@
         "tiers": 1,
         "title": "Tiddy Mun and the Burrow of Bandits",
         "url": "https://www.dmsguild.com/product/403080/WBWDCFEN02-Tiddy-Mun-and-the-Burrow-of-Bandits?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Grim Press",
+            "Ethan Stanhope",
+            "Te\u00e4n Stanhope",
+            "James Twigg",
+            "John McConnell",
+            "Trevor Armstrong"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-FEN-03",
+        "date_created": "20230115",
+        "full_title": "WBW-DC-FEN-03 Tiddy Mun and the Legends of Fennebog (Fantasy Grounds)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "WBW-DC-FEN-03-Tiddy-Mun-and-the-Legends-of-Fennebog-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "Tiddy Mun and the Legends of Fennebog Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/423454/WBWDCFEN03-Tiddy-Mun-and-the-Legends-of-Fennebog-Fantasy-Grounds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -2199,6 +2327,22 @@
     {
         "apl": 8,
         "authors": [
+            "Addy Tortosa"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-IDL-02",
+        "date_created": "20220627",
+        "full_title": "WBW-DC-IDL-02 Two For Flinching",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "WBW-DC-IDL-02-Two-For-Flinching",
+        "tiers": 2,
+        "title": "Two For Flinching",
+        "url": "https://www.dmsguild.com/product/401019/WBWDCIDL02-Two-For-Flinching?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Addy Tortosa",
             "Big Mike"
         ],
@@ -2358,6 +2502,70 @@
         "url": "https://www.dmsguild.com/product/390247/WBWDCKW01-Pinepetals-Petty-Pilfering?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Kat Wynne"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-KW-02",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-KW-02 Fair Felonious Faces",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-KW-02-Fair-Felonious-Faces",
+        "tiers": 2,
+        "title": "Fair Felonious Faces",
+        "url": "https://www.dmsguild.com/product/408445/WBWDCKW02-Fair-Felonious-Faces?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Kat Wynne"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-KW-03",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-KW-03 Druscilla's Dangerous Day",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-KW-03-Druscillas-Dangerous-Day",
+        "tiers": 2,
+        "title": "Druscilla's Dangerous Day",
+        "url": "https://www.dmsguild.com/product/408446/WBWDCKW03-Druscillas-Dangerous-Day?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Kat Wynne"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-KW-04",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-KW-04 Morena's Mysterious Mark",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-KW-04-Morenas-Mysterious-Mark",
+        "tiers": 2,
+        "title": "Morena's Mysterious Mark",
+        "url": "https://www.dmsguild.com/product/408448/WBWDCKW04-Morenas-Mysterious-Mark?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Kat Wynne"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-KW-05",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-KW-05 Heavenly Hare Hunt",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-KW-05-Heavenly-Hare-Hunt",
+        "tiers": 2,
+        "title": "Heavenly Hare Hunt",
+        "url": "https://www.dmsguild.com/product/408449/WBWDCKW05-Heavenly-Hare-Hunt?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Lu\u00eds Ricardo",
@@ -2407,6 +2615,39 @@
         "tiers": null,
         "title": "Clash of Reality",
         "url": "https://www.dmsguild.com/product/408587/WBWDCLIGA03-Clash-of-Reality?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Sonja Dunbar",
+            "Matthew Rihan"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-LUN-01",
+        "date_created": "20220816",
+        "full_title": "WBW-DC-LUN-01 Spectacle at Shrineholt",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "WBW-DC-LUN-01-Spectacle-at-Shrineholt",
+        "tiers": null,
+        "title": "Spectacle at Shrineholt",
+        "url": "https://www.dmsguild.com/product/406782/WBWDCLUN01-Spectacle-at-Shrineholt?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Ma'at Crook"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-MC-01",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-MC-01 Memento Motus: S\u00e9ance for the Lost",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-MC-01-Memento-Motus--S\u00e9ance-for-the-Lost",
+        "tiers": null,
+        "title": "Memento Motus S\u00e9ance for the Lost",
+        "url": "https://www.dmsguild.com/product/408609/WBWDCMC01-Memento-Motus-Seance-for-the-Lost?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -2702,6 +2943,22 @@
     {
         "apl": 8,
         "authors": [
+            "jio alba"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-PHP-ORNG-02",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-PHP-ORNG-02 Where do they Go?",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-PHP-ORNG-02-Where-do-they-Go",
+        "tiers": 2,
+        "title": "Where do they Go?",
+        "url": "https://www.dmsguild.com/product/408595/WBWDCPHPORNG02-Where-do-they-Go?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Joey Cole"
         ],
         "campaign": "Forgotten Realms",
@@ -2812,6 +3069,22 @@
         "url": "https://www.dmsguild.com/product/408076/WBWDCPHPTYM01-i-dreamt-that-i-was-falling?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 9,
+        "authors": [
+            "T.Y. Montiflor"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-PHP-TYM-02",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-PHP-TYM-02 we woke up in the sky",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-PHP-TYM-02-we-woke-up-in-the-sky",
+        "tiers": 2,
+        "title": "we woke up in the sky",
+        "url": "https://www.dmsguild.com/product/408528/WBWDCPHPTYM02-we-woke-up-in-the-sky?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "James Clark"
@@ -2860,6 +3133,54 @@
         "url": "https://www.dmsguild.com/product/408532/WBWDCROBIN012-Warmth-of-Winter?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROG-01",
+        "date_created": "20220829",
+        "full_title": "WBW-DC-ROG-01 Imagination Lost",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-ROG-01-Imagination-Lost",
+        "tiers": 2,
+        "title": "Imagination Lost",
+        "url": "https://www.dmsguild.com/product/408191/WBWDCROG01-Imagination-Lost?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 9,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROG-02",
+        "date_created": "20220829",
+        "full_title": "WBW-DC-ROG-02 A Giant Dilemma",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-ROG-02-A-Giant-Dilemma",
+        "tiers": 2,
+        "title": "A Giant Dilemma",
+        "url": "https://www.dmsguild.com/product/408192/WBWDCROG02-A-Giant-Dilemma?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 10,
+        "authors": [
+            "JD McComb"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROG-03",
+        "date_created": "20220829",
+        "full_title": "WBW-DC-ROG-03 Hope In A Medusa\u2019s Eye",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-ROG-03-Hope-In-A-Medusas-Eye",
+        "tiers": 2,
+        "title": "Hope In A Medusa\u2019s Eye",
+        "url": "https://www.dmsguild.com/product/408193/WBWDCROG03-Hope-In-A-Medusas-Eye?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 2,
         "authors": [
             "Chris Valentine"
@@ -2874,6 +3195,22 @@
         "tiers": 1,
         "title": "WBW-DC-Rook-1-1 The Care and Maintenance of the Rookery",
         "url": "https://www.dmsguild.com/product/390440/WBWDCRook11-The-Care-and-Maintenance-of-the-Rookery?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-1-2",
+        "date_created": "20220406",
+        "full_title": "WBW-DC-Rook-1-2 The Rookery: Rise of the Everplume",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-1-2-The-Rookery--Rise-of-the-Everplume",
+        "tiers": 1,
+        "title": "WBW-DC-Rook-1-2 The Rookery Rise of the Everplume",
+        "url": "https://www.dmsguild.com/product/392772/WBWDCRook12-The-Rookery-Rise-of-the-Everplume?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 4,
@@ -2913,6 +3250,22 @@
             "Chris Valentine"
         ],
         "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-2-1",
+        "date_created": "20220319",
+        "full_title": "WBW-DC-Rook-2-1 Rapid Resettlement in the Rookery",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-2-1-Rapid-Resettlement-in-the-Rookery",
+        "tiers": 2,
+        "title": "WBW-DC-Rook-2-1 Rapid Resettlement in the Rookery",
+        "url": "https://www.dmsguild.com/product/390649/WBWDCRook21-Rapid-Resettlement-in-the-Rookery?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
         "code": "WBW-DC-ROOK-2-2",
         "date_created": "20220802",
         "full_title": "WBW-DC-Rook-2-2 The Rookery: Into the Velarium",
@@ -2922,6 +3275,70 @@
         "tiers": 2,
         "title": "WBW-DC-Rook-2-2 The Rookery Into the Velarium",
         "url": "https://www.dmsguild.com/product/405242/WBWDCRook22-The-Rookery-Into-the-Velarium?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-2-3",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-Rook-2-3 The Rookery: The Court of the Crown",
+        "hours": null,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-2-3-The-Rookery--The-Court-of-the-Crown",
+        "tiers": null,
+        "title": "WBW-DC-Rook-2-3 The Rookery The Court of the Crown",
+        "url": "https://www.dmsguild.com/product/408488/WBWDCRook23-The-Rookery-The-Court-of-the-Crown?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-3-1",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-Rook-3-1 The Rookery: High Kaldir",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-3-1-The-Rookery--High-Kaldir",
+        "tiers": 2,
+        "title": "WBW-DC-Rook-3-1 The Rookery High Kaldir",
+        "url": "https://www.dmsguild.com/product/408490/WBWDCRook31-The-Rookery-High-Kaldir?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-3-2",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-Rook-3-2 The Rookery: Frogs of War",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-3-2-The-Rookery--Frogs-of-War",
+        "tiers": 2,
+        "title": "WBW-DC-Rook-3-2 The Rookery Frogs of War",
+        "url": "https://www.dmsguild.com/product/408491/WBWDCRook32-The-Rookery-Frogs-of-War?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ROOK-3-3",
+        "date_created": "20220831",
+        "full_title": "WBW-DC-Rook-3-3 The Rookery: The Crook in the Rook",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "WBW-DC-Rook-3-3-The-Rookery--The-Crook-in-the-Rook",
+        "tiers": 2,
+        "title": "WBW-DC-Rook-3-3 The Rookery The Crook in the Rook",
+        "url": "https://www.dmsguild.com/product/408492/WBWDCRook33-The-Rookery-The-Crook-in-the-Rook?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -3519,6 +3936,22 @@
         "tiers": null,
         "title": "What is Heroism",
         "url": "https://www.dmsguild.com/product/382223/What-is-Heroism-WBWDCHH01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 6,
+        "authors": [
+            "Michelle Churchill"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-WRT-00",
+        "date_created": "20220825",
+        "full_title": "Writer's Block (WBW-DC-WRT-00)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Writers-Block-WBW-DC-WRT-00",
+        "tiers": 2,
+        "title": "Writer's Block",
+        "url": "https://www.dmsguild.com/product/407835/Writers-Block-WBWDCWRT00?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,

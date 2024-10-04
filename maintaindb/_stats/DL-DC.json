@@ -17,6 +17,23 @@
         "url": "https://www.dmsguild.com/product/492361/DLDCLIGA01--A-Silver-Light?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "DMGMorais",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA02",
+        "date_created": "20240919",
+        "full_title": "DL-DC-LIGA02 - Wickedness over Dargaard",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-LIGA02---Wickedness-over-Dargaard",
+        "tiers": 1,
+        "title": "- Wickedness over Dargaard",
+        "url": "https://www.dmsguild.com/product/495850/DLDCLIGA02--Wickedness-over-Dargaard?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Marcello De Velazquez"
@@ -67,6 +84,38 @@
     {
         "apl": 2,
         "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-01",
+        "date_created": "20230726",
+        "full_title": "Greenshield (DL-DC-SDCC-01) (Fantasy Grounds)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Greenshield-DL-DC-SDCC-01-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "Greenshield  Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447146/Greenshield-DLDCSDCC01-Fantasy-Grounds?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-01",
+        "date_created": "20230717",
+        "full_title": "Greenshield (DL-DC-SDCC-01)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Greenshield-DL-DC-SDCC-01",
+        "tiers": 1,
+        "title": "Greenshield",
+        "url": "https://www.dmsguild.com/product/445922/Greenshield-DLDCSDCC01?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
             "JD McComb"
         ],
         "campaign": "Dragonlance",
@@ -95,6 +144,38 @@
         "tiers": 1,
         "title": "Knight Fall",
         "url": "https://www.dmsguild.com/product/445912/Knight-Fall-DLDCSDCC03?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-02",
+        "date_created": "20230726",
+        "full_title": "The Dog Days of Solamnia (DL-DC-SDCC-02) (Fantasy Grounds)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "The-Dog-Days-of-Solamnia-DL-DC-SDCC-02-Fantasy-Grounds",
+        "tiers": 1,
+        "title": "The Dog Days of Solamnia  Fantasy Grounds",
+        "url": "https://www.dmsguild.com/product/447150/The-Dog-Days-of-Solamnia-DLDCSDCC02-Fantasy-Grounds?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-02",
+        "date_created": "20230717",
+        "full_title": "The Dog Days of Solamnia (DL-DC-SDCC-02)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "The-Dog-Days-of-Solamnia-DL-DC-SDCC-02",
+        "tiers": 1,
+        "title": "The Dog Days of Solamnia",
+        "url": "https://www.dmsguild.com/product/445925/The-Dog-Days-of-Solamnia-DLDCSDCC02?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 2,

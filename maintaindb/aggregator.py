@@ -16,7 +16,7 @@ import glob
 from collections import defaultdict
 
 from dmsguild_webpage import url_2_DC
-from dmsguild_webpage import DC_CODES
+from dmsguild_webpage import DC_CAMPAIGNS
 from enum import Enum
 import glob
 
@@ -36,7 +36,7 @@ def __add_to_map(data, aggregated_by_dc_code):
         return
 
     dc_code = None
-    for code in DC_CODES:
+    for code in DC_CAMPAIGNS:
         if data['code'].upper().startswith(code.upper()):
             dc_code = code
             break
@@ -46,7 +46,7 @@ def __add_to_map(data, aggregated_by_dc_code):
 
 def aggregate():
     aggregated_by_dc_code = defaultdict(list)
-    for code in DC_CODES:
+    for code in DC_CAMPAIGNS:
         aggregated_by_dc_code[code.upper()] = []
 
     logger.info(f'Reading all files at: {input_path}')

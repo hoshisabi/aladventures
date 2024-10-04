@@ -149,7 +149,7 @@ def crawl_dc_listings(base_url = "https://www.dmsguild.com/browse.php?filters=0_
 
 
 if __name__ == '__main__':
-    base_url = "https://www.dmsguild.com/browse.php?filters=1000044_0_45393_0_0_0_0_0&sort=3a&src=fid45393"
+    base_url = "https://www.dmsguild.com/browse.php?filters=45470_0_0_0_0_0"
     if (len(sys.argv) > 1):
         base_url = sys.argv[1]
         print("Crawling base_url: " + base_url)
