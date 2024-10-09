@@ -437,6 +437,22 @@
         "url": "https://www.dmsguild.com/product/408581/Noctis-Sacrifice-WBWDCZION03?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Apple Cruz"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-ABC-01",
+        "date_created": "20220831",
+        "full_title": "One Last Time",
+        "hours": 2,
+        "level_range": "5-10",
+        "product_id": "One-Last-Time",
+        "tiers": 2,
+        "title": "One Last Time",
+        "url": "https://www.dmsguild.com/product/408440/One-Last-Time?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Michelle Churchill"
@@ -499,6 +515,22 @@
         "tiers": 2,
         "title": "Snow Ice",
         "url": "https://www.dmsguild.com/product/400851/Snow-Ice-WBWDCPHPPOLAR01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jonathan Self"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-DES-01-09",
+        "date_created": "20220831",
+        "full_title": "Strahd Must Die!",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": null,
+        "tiers": 2,
+        "title": "Strahd Must Die!",
+        "url": "https://www.dmsguild.com/product/408602/Strahd-Must-Die?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -612,6 +644,22 @@
         "tiers": 2,
         "title": "The Calamity Jar",
         "url": "https://www.dmsguild.com/product/399490/The-Calamity-Jar-WBWDCLEGITSV06?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jonathan Self"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "WBW-DC-DES-01-08",
+        "date_created": "20220831",
+        "full_title": "The Cathedral of the Fomorian Hierophant",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": 408601,
+        "tiers": 2,
+        "title": "The Cathedral of the Fomorian Hierophant",
+        "url": "https://www.dmsguild.com/product/408601/The-Cathedral-of-the-Fomorian-Hierophant?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,

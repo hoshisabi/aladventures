@@ -43,6 +43,7 @@ DDAL_CAMPAIGN = {
     'DDAL7': ['Forgotten Realms'],
     'DDAL8': ['Forgotten Realms'],
     'DDAL9': ['Forgotten Realms'],
+    'DDAL0': ['Forgotten Realms'],
     'DDAL10': ['Forgotten Realms'],
     'DDAL-DRW': ['Forgotten Realms'],
     'DDAL-ELW': ['Eberron'],

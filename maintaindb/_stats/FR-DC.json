@@ -16,6 +16,22 @@
         "url": "https://www.dmsguild.com/product/476395/Battlefield-Blooms-FRDCONI02?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Pauline Feraren"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-IMP-01",
+        "date_created": "20240331",
+        "full_title": "Blood Price (FR DC IMP 01)",
+        "hours": 4,
+        "level_range": "2",
+        "product_id": null,
+        "tiers": 3,
+        "title": "Blood Price FR DC IMP 01",
+        "url": "https://www.dmsguild.com/product/476113/Blood-Price-FR-DC-IMP-01?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Steven Truong",
@@ -976,6 +992,22 @@
         "tiers": 1,
         "title": "To Be an Apprentice",
         "url": "https://www.dmsguild.com/product/492266/FRDCUNITESHADOW01-To-Be-an-Apprentice?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "R.P. Marsh"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-DRESS-01",
+        "date_created": "20241003",
+        "full_title": "Goblin In A Dress",
+        "hours": null,
+        "level_range": null,
+        "product_id": null,
+        "tiers": null,
+        "title": "Goblin In A Dress",
+        "url": "https://www.dmsguild.com/product/497468/Goblin-In-A-Dress"
     },
     {
         "apl": 2,
