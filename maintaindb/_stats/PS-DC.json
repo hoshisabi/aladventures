@@ -230,6 +230,22 @@
         "url": "https://www.dmsguild.com/product/496426/PSDCELEMENTDEATH02-And-Then-They-Attacked?filters=45470_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Joshua Nelson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-FOT-01",
+        "date_created": "20240930",
+        "full_title": "PS-DC-FOT-01 When Faunel Attacks: Riverwood Under Siege",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-FOT-01-When-Faunel-Attacks--Riverwood-Under-Siege",
+        "tiers": 1,
+        "title": "When Faunel Attacks Riverwood Under Siege",
+        "url": "https://www.dmsguild.com/product/497173/PSDCFOT01-When-Faunel-Attacks-Riverwood-Under-Siege?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 18,
         "authors": [
             "Dev Alva",

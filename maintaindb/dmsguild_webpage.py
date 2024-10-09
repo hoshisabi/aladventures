@@ -32,6 +32,7 @@ DC_CAMPAIGNS = {
 }
 
 DDAL_CAMPAIGN = {
+    'RMH': ['Ravenloft'],
     'DDAL4': ['Forgotten Realms', 'Ravenloft'],
     'DDAL04': ['Forgotten Realms', 'Ravenloft'],
     'DDEX1': ['Forgotten Realms'],

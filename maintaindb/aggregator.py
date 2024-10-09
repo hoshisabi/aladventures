@@ -31,7 +31,7 @@ output_path = os.path.join(root, '_stats')
 
 
 def __add_to_map(data, aggregated_by_dc_code):
-    if 'code' not in data:
+    if 'code' not in data or data['code'] is None:
         logger.info(f">> {data['full_title']} missing DC code")
         return
 
