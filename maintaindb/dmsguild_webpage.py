@@ -179,7 +179,8 @@ def url_2_DC(input_url: str, product_id: str = None, product_alt=None) -> Dungeo
         code = None
         campaign = None
         if product_alt:
-            (code,campaign) = __get_dc_code_and_campaign(product_alt)
+            result = __get_dc_code_and_campaign(product_alt)
+            if result is not None: (code, campaign) = result
 
         dc = DungeonCraft(product_id, module_name, authors,
                           code, date_created, hours, tier, apl, level_range, input_url, campaign)
