@@ -17,6 +17,7 @@ logger = logging.getLogger()
 DC_CAMPAIGNS = {
     'DL-DC': 'Dragonlance',
     'EB-DC': 'Eberron',
+    'EB-SM': 'Eberron',
     'FR-DC': 'Forgotten Realms',
     'PS-DC': 'Forgotten Realms',
     'SJ-DC': 'Forgotten Realms',

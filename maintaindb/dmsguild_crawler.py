@@ -150,11 +150,16 @@ def crawl_dc_listings(base_url = "https://www.dmsguild.com/browse.php?filters=0_
 
 if __name__ == '__main__':
     base_url = "https://www.dmsguild.com/browse.php?filters=45470_0_0_0_0_0"
+    max_range = 5
     if (len(sys.argv) > 1):
         base_url = sys.argv[1]
-        print("Crawling base_url: " + base_url)
+        if (len(sys.argv) > 2):
+          max_range = int(sys.argv[2])
+     
+    print("Crawling base_url: " + base_url)
+    print(f"Crawling {max_range} pages")
 
-    for i in range(1, 20):
+    for i in range(1, max_range + 1):
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
         crawl_dc_listings(base_url = base_url, page_number=i)
         logger.info(

@@ -112,7 +112,7 @@ def summarize(data, dc_season):
         logger.info(f"    {month} =\t{len(dc_per_month[month])}")
 
 
-input_season = 'SJ-DC'
+input_season = 'RV-DC'
 
 if __name__ == '__main__':
 
