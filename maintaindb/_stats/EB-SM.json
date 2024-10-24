@@ -1,0 +1,232 @@
+[
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": null,
+        "code": "EB-SM-DREAMS",
+        "date_created": "20200428",
+        "full_title": "Dreams of Salvation: A 4 hour Tier 1 Salvage Mission",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Dreams-of-Salvation--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": 1,
+        "title": "Dreams of Salvation A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/311419/Dreams-of-Salvation-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Christian Eichhorn"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-GULGO-13",
+        "date_created": "20200330",
+        "full_title": "Gulgo-13 | An Eberron Salvage Mission for Oracle of War",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Gulgo-13--An-Eberron-Salvage-Mission-for-Oracle-of-War",
+        "tiers": 1,
+        "title": "Gulgo-13 | An Eberron Salvage Mission for Oracle of War",
+        "url": "https://www.dmsguild.com/product/308079/Gulgo13--An-Eberron-Salvage-Mission-for-Oracle-of-War"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-HOUSE",
+        "date_created": "20200407",
+        "full_title": "House Hunting: A 4 hour Tier 1 Salvage Mission",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "House-Hunting--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": 1,
+        "title": "House Hunting A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/309087/House-Hunting-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 1,
+        "authors": [
+            "Nicholas Reed"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-GREATBEYOND",
+        "date_created": "20210101",
+        "full_title": "Into the Great Beyond: A Salvage Mission",
+        "hours": null,
+        "level_range": "1-4",
+        "product_id": "Into-the-Great-Beyond--A-Salvage-Mission",
+        "tiers": 1,
+        "title": "Into the Great Beyond A Salvage Mission",
+        "url": "https://www.dmsguild.com/product/342001/Into-the-Great-Beyond-A-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Stacey Allan"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-COPPER",
+        "date_created": "20201102",
+        "full_title": "Last Stand at Copper Canyon",
+        "hours": 3,
+        "level_range": "3",
+        "product_id": "Last-Stand-at-Copper-Canyon",
+        "tiers": 2,
+        "title": "Last Stand at Copper Canyon",
+        "url": "https://www.dmsguild.com/product/334451/Last-Stand-at-Copper-Canyon?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 18,
+        "authors": [
+            "Nicholas Reed"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-MABAR",
+        "date_created": "20210816",
+        "full_title": "Salvage Mission: The Mabar Conspiracy",
+        "hours": null,
+        "level_range": "1",
+        "product_id": "Salvage-Mission--The-Mabar-Conspiracy",
+        "tiers": 4,
+        "title": "Salvage Mission The Mabar Conspiracy",
+        "url": "https://www.dmsguild.com/product/367908/Salvage-Mission-The-Mabar-Conspiracy?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-INSPECTION",
+        "date_created": "20200420",
+        "full_title": "Salvation Inspection: A 4 hour Tier 1 Salvage Mission",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Salvation-Inspection--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": 1,
+        "title": "Salvation Inspection A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/310606/Salvation-Inspection-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Bum Lee"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-SEASIDE",
+        "date_created": "20210308",
+        "full_title": "Seaside Salvage: Eberron Salvage Mission Anthology",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "Seaside-Salvage--Eberron-Salvage-Mission-Anthology",
+        "tiers": 2,
+        "title": "Seaside Salvage Eberron Salvage Mission Anthology",
+        "url": "https://www.dmsguild.com/product/349569/Seaside-Salvage-Eberron-Salvage-Mission-Anthology?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-SNAIL",
+        "date_created": "20200410",
+        "full_title": "Snail Tale: A 4 hour Tier 1 Salvage Mission",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Snail-Tale--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": null,
+        "title": "Snail Tale A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/309600/Snail-Tale-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "M.T. Black"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-CANNITH",
+        "date_created": "20200420",
+        "full_title": "The Cannith Schematica",
+        "hours": 3,
+        "level_range": "3",
+        "product_id": "The-Cannith-Schematica",
+        "tiers": 1,
+        "title": "The Cannith Schematica",
+        "url": "https://www.dmsguild.com/product/310611/The-Cannith-Schematica?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Nors"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-KHYBER",
+        "date_created": "20200809",
+        "full_title": "The Khyber Heart: A Salvage Mission",
+        "hours": 3,
+        "level_range": null,
+        "product_id": "The-Khyber-Heart--A-Salvage-Mission",
+        "tiers": null,
+        "title": "The Khyber Heart A Salvage Mission",
+        "url": "https://www.dmsguild.com/product/323626/The-Khyber-Heart-A-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-VISIONS",
+        "date_created": "20200422",
+        "full_title": "Visions of Salvation: A 4 hour Tier 1 Salvage Mission",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Visions-of-Salvation--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": null,
+        "title": "Visions of Salvation A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/310775/Visions-of-Salvation-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Nicol\u00e1s Carrillo"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-WRONGS",
+        "date_created": "20201016",
+        "full_title": "Wrongs and Punishment: An Eberron Salvage Mission",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Wrongs-and-Punishment--An-Eberron-Salvage-Mission",
+        "tiers": null,
+        "title": "Wrongs and Punishment An Eberron Salvage Mission",
+        "url": "https://www.dmsguild.com/product/332476/Wrongs-and-Punishment-An-Eberron-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    }
+]
