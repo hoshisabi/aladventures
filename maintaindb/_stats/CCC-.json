@@ -182,6 +182,40 @@
         "url": "https://www.dmsguild.com/product/295799/CCCALMOG-ESC0301-Thoughts-Lost?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Jia Jian Tin",
+            "Derek Gray"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ALMOG",
+        "date_created": "20191203",
+        "full_title": "CCC-ALMOG ESC03-02 Mind Blank",
+        "hours": 4,
+        "level_range": "03",
+        "product_id": "CCC-ALMOG-ESC03-02-Mind-Blank",
+        "tiers": null,
+        "title": "CCC-ALMOG ESC03-02 Mind Blank",
+        "url": "https://www.dmsguild.com/product/295801/CCCALMOG-ESC0302-Mind-Blank"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Jia Jian Tin",
+            "Derek Gray"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ALMOG",
+        "date_created": "20191203",
+        "full_title": "CCC-ALMOG ESC03-03- Memory Leak",
+        "hours": 4,
+        "level_range": "03",
+        "product_id": "CCC-ALMOG-ESC03-03--Memory-Leak",
+        "tiers": null,
+        "title": "CCC-ALMOG ESC03-03- Memory Leak",
+        "url": "https://www.dmsguild.com/product/295803/CCCALMOG-ESC0303-Memory-Leak"
+    },
+    {
         "apl": 4,
         "authors": [
             "Brogan Powlesland"
@@ -341,6 +375,22 @@
         "tiers": 1,
         "title": "CCC-ARCON01-03 - Pharmacist Wanted",
         "url": "https://www.dmsguild.com/product/334450/CCCARCON0103--Pharmacist-Wanted?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Dennis R Hall"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-AWE-01-02",
+        "date_created": "20200720",
+        "full_title": "CCC-AWE-01-02 The Chi Directive",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-AWE-01-02-The-Chi-Directive",
+        "tiers": null,
+        "title": "CCC-AWE-01-02 The Chi Directive",
+        "url": "https://www.dmsguild.com/product/320477/CCCAWE0102-The-Chi-Directive"
     },
     {
         "apl": 8,
@@ -1574,6 +1624,57 @@
         "apl": 8,
         "authors": [
             "Baldman Games",
+            "Andy Dempz"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BMG-MOON15-1",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-1 Shattered Omens",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-1-Shattered-Omens",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-1 Shattered Omens",
+        "url": "https://www.dmsguild.com/product/384260/CCCBMGMOON151-Shattered-Omens"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Collette Quach"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BMG-MOON15-2",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-2 Forgotten Fealty",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-2-Forgotten-Fealty",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-2 Forgotten Fealty",
+        "url": "https://www.dmsguild.com/product/384264/CCCBMGMOON152-Forgotten-Fealty"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
+            "Jay H. Anderson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BMG-MOON15-3",
+        "date_created": "20220126",
+        "full_title": "CCC-BMG-MOON15-3 Fallen Wonder",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-BMG-MOON15-3-Fallen-Wonder",
+        "tiers": 2,
+        "title": "CCC-BMG-MOON15-3 Fallen Wonder",
+        "url": "https://www.dmsguild.com/product/384265/CCCBMGMOON153-Fallen-Wonder"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Baldman Games",
             "Leighton Eash"
         ],
         "campaign": "Forgotten Realms",
@@ -2219,6 +2320,22 @@
         "url": "https://www.dmsguild.com/product/253539/CCCBWM001-Howling-on-the-Moonsea?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "JAWSH MURDOCK"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BWM-005",
+        "date_created": "20190624",
+        "full_title": "CCC-BWM-005 Chasing Madness",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-BWM-005-Chasing-Madness",
+        "tiers": 2,
+        "title": "CCC-BWM-005 Chasing Madness",
+        "url": "https://www.dmsguild.com/product/279463/CCCBWM005-Chasing-Madness"
+    },
+    {
         "apl": 13,
         "authors": [
             "JAWSH MURDOCK"
@@ -2336,6 +2453,22 @@
         "tiers": 1,
         "title": "CCC-CENTRIC 01-02 Road to Reconciliation",
         "url": "https://www.dmsguild.com/product/321273/CCCCENTRIC-0102-Road-to-Reconciliation?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Steve Hill"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-CENTRIC01-03",
+        "date_created": "20200807",
+        "full_title": "CCC-CENTRIC01-03    The Patchwork Tower",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": "CCC-CENTRIC01-03----The-Patchwork-Tower",
+        "tiers": 1,
+        "title": "CCC-CENTRIC01-03    The Patchwork Tower",
+        "url": "https://www.dmsguild.com/product/322508/CCCCENTRIC0103----The-Patchwork-Tower"
     },
     {
         "apl": null,
@@ -2626,6 +2759,22 @@
         "url": "https://www.dmsguild.com/product/254018/CCCCNE03-Into-The-Depths?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Casper Kirketerp-Helenius"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-CONMAR01-01",
+        "date_created": "20201103",
+        "full_title": "CCC-CONMAR01-01 Helping Hands",
+        "hours": 2,
+        "level_range": "1",
+        "product_id": "CCC-CONMAR01-01-Helping-Hands",
+        "tiers": null,
+        "title": "CCC-CONMAR01-01 Helping Hands",
+        "url": "https://www.dmsguild.com/product/334449/CCCCONMAR0101-Helping-Hands"
+    },
+    {
         "apl": 8,
         "authors": [
             "Martine Lassen"
@@ -2657,6 +2806,39 @@
         "tiers": 2,
         "title": "CCC-COS-01 The Only Way To Be Sure",
         "url": "https://www.dmsguild.com/product/285292/CCCCOS01-The-Only-Way-To-Be-Sure?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jason Panella",
+            "Bonnie Boguszewski"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-COS-02-01",
+        "date_created": "20200605",
+        "full_title": "CCC-COS-02-01 38 Souls",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-COS-02-01-38-Souls",
+        "tiers": 2,
+        "title": "CCC-COS-02-01 38 Souls",
+        "url": "https://www.dmsguild.com/product/315756/CCCCOS0201-38-Souls"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Marcello Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-COTN-01-01-BY",
+        "date_created": "20190228",
+        "full_title": "CCC-COTN-01-01-By The Seashore: A Red War Tale",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-COTN-01-01-By-The-Seashore--A-Red-War-Tale",
+        "tiers": null,
+        "title": "CCC-COTN-01-01-By The Seashore A Red War Tale",
+        "url": "https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale"
     },
     {
         "apl": null,
@@ -2693,6 +2875,22 @@
     {
         "apl": null,
         "authors": [
+            "Eric Weberg"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-01-01",
+        "date_created": "20181202",
+        "full_title": "CCC-DES-01-01 Finding the Rabbit Hole",
+        "hours": 4,
+        "level_range": "01",
+        "product_id": "CCC-DES-01-01-Finding-the-Rabbit-Hole",
+        "tiers": null,
+        "title": "CCC-DES-01-01 Finding the Rabbit Hole",
+        "url": "https://www.dmsguild.com/product/260395/CCCDES0101-Finding-the-Rabbit-Hole"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Jonathan Connor Self"
         ],
         "campaign": "Forgotten Realms",
@@ -2705,6 +2903,22 @@
         "tiers": null,
         "title": "CCC-DES-01-02 A Sanity Never Questioned",
         "url": "https://www.dmsguild.com/product/260385/CCCDES0102-A-Sanity-Never-Questioned?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Eric Weberg"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-01-03",
+        "date_created": "20191216",
+        "full_title": "CCC-DES-01-03 A Question Never Asked",
+        "hours": 2,
+        "level_range": "01",
+        "product_id": "CCC-DES-01-03-A-Question-Never-Asked",
+        "tiers": 2,
+        "title": "CCC-DES-01-03 A Question Never Asked",
+        "url": "https://www.dmsguild.com/product/298056/CCCDES0103-A-Question-Never-Asked"
     },
     {
         "apl": 8,
@@ -2725,6 +2939,22 @@
     {
         "apl": 8,
         "authors": [
+            "Jonathan Connor Self"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-01-05",
+        "date_created": "20191217",
+        "full_title": "CCC-DES-01-05 The Die is Cast",
+        "hours": 2,
+        "level_range": "01",
+        "product_id": "CCC-DES-01-05-The-Die-is-Cast",
+        "tiers": 2,
+        "title": "CCC-DES-01-05 The Die is Cast",
+        "url": "https://www.dmsguild.com/product/297616/CCCDES0105-The-Die-is-Cast"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Jonathan Connor Self",
             "Eric Weberg"
         ],
@@ -2738,6 +2968,55 @@
         "tiers": 2,
         "title": "CCC-DES-01-06 One Last Job",
         "url": "https://www.dmsguild.com/product/322754/CCCDES0106-One-Last-Job?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Rebecca Porter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-02-01",
+        "date_created": "20200420",
+        "full_title": "CCC-DES-02-01 Those Who Are Eaten",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": "CCC-DES-02-01-Those-Who-Are-Eaten",
+        "tiers": 1,
+        "title": "CCC-DES-02-01 Those Who Are Eaten",
+        "url": "https://www.dmsguild.com/product/307309/CCCDES0201-Those-Who-Are-Eaten"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Jason Pesch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-02-02",
+        "date_created": "20200420",
+        "full_title": "CCC-DES-02-02 On a Six-Fingered Trail",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": "CCC-DES-02-02-On-a-Six-Fingered-Trail",
+        "tiers": 1,
+        "title": "CCC-DES-02-02 On a Six-Fingered Trail",
+        "url": "https://www.dmsguild.com/product/307311/CCCDES0202-On-a-SixFingered-Trail"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fenway Jones",
+            "Jonathan Connor Self"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DES-02-03",
+        "date_created": "20200420",
+        "full_title": "CCC-DES-02-03 Those Who Eat",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": "CCC-DES-02-03-Those-Who-Eat",
+        "tiers": 1,
+        "title": "CCC-DES-02-03 Those Who Eat",
+        "url": "https://www.dmsguild.com/product/307312/CCCDES0203-Those-Who-Eat"
     },
     {
         "apl": 13,
@@ -2805,6 +3084,70 @@
         "url": "https://www.dmsguild.com/product/334717/CCCDES0403-In-Accordance-with-Plans?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Wyndll Robertson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DFW-01-01",
+        "date_created": "20190602",
+        "full_title": "CCC-DFW-01-01 Shadows of Ironfang Keep",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "CCC-DFW-01-01-Shadows-of-Ironfang-Keep",
+        "tiers": null,
+        "title": "CCC-DFW-01-01 Shadows of Ironfang Keep",
+        "url": "https://www.dmsguild.com/product/278716/CCCDFW0101-Shadows-of-Ironfang-Keep"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Andrew Epps & Wyndll Robertson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DFW-01-02",
+        "date_created": "20190721",
+        "full_title": "CCC-DFW-01-02 Behind the Veil",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "CCC-DFW-01-02-Behind-the-Veil",
+        "tiers": null,
+        "title": "CCC-DFW-01-02 Behind the Veil",
+        "url": "https://www.dmsguild.com/product/283562/CCCDFW0102-Behind-the-Veil"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "George DeMeglio"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DPIP-01",
+        "date_created": "20201220",
+        "full_title": "CCC-DPIP-01 The Toils And Troubles of Minauros",
+        "hours": null,
+        "level_range": "6",
+        "product_id": "CCC-DPIP-01-The-Toils-And-Troubles-of-Minauros",
+        "tiers": 1,
+        "title": "CCC-DPIP-01 The Toils And Troubles of Minauros",
+        "url": "https://www.dmsguild.com/product/340726/CCCDPIP01-The-Toils-And-Troubles-of-Minauros"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jay Africa"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DRUID-01",
+        "date_created": "20180912",
+        "full_title": "CCC-DRUID-01 The Scourge Unseen",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "CCC-DRUID-01-The-Scourge-Unseen",
+        "tiers": null,
+        "title": "CCC-DRUID-01 The Scourge Unseen",
+        "url": "https://www.dmsguild.com/product/252111/CCCDRUID01-The-Scourge-Unseen"
+    },
+    {
         "apl": 7,
         "authors": [
             "Robby Jones"
@@ -2853,6 +3196,22 @@
         "url": "https://www.dmsguild.com/product/340592/CCCDWBANH1-A-Negotiated-Heist?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-CW-01",
+        "date_created": "20200131",
+        "full_title": "CCC-DWB-CW-01 The Clockwork Caravan",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-DWB-CW-01-The-Clockwork-Caravan",
+        "tiers": 1,
+        "title": "CCC-DWB-CW-01 The Clockwork Caravan",
+        "url": "https://www.dmsguild.com/product/301901/CCCDWBCW01-The-Clockwork-Caravan"
+    },
+    {
         "apl": 8,
         "authors": [
             "Lex Winter"
@@ -2869,6 +3228,38 @@
         "url": "https://www.dmsguild.com/product/341466/CCCDWBDFT1-Digging-For-Trouble?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 2,
+        "authors": [
+            "Daddywarrbux"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-EOG-1",
+        "date_created": "20201229",
+        "full_title": "CCC-DWB-EoG-1 The Enemy of Greed",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-DWB-EoG-1-The-Enemy-of-Greed",
+        "tiers": null,
+        "title": "CCC-DWB-EoG-1 The Enemy of Greed",
+        "url": "https://www.dmsguild.com/product/340596/CCCDWBEoG1-The-Enemy-of-Greed"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-ESR-01",
+        "date_created": "20200129",
+        "full_title": "CCC-DWB-ESR-01 An Enchanting Shade of Red",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-DWB-ESR-01-An-Enchanting-Shade-of-Red",
+        "tiers": null,
+        "title": "CCC-DWB-ESR-01 An Enchanting Shade of Red",
+        "url": "https://www.dmsguild.com/product/301899/CCCDWBESR01-An-Enchanting-Shade-of-Red"
+    },
+    {
         "apl": null,
         "authors": [
             "Matthew Whitby"
@@ -2883,6 +3274,54 @@
         "tiers": null,
         "title": "CCC-DWB-GAT-1 To Give and to Take",
         "url": "https://www.dmsguild.com/product/340994/CCCDWBGAT1-To-Give-and-to-Take?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-GNA-1",
+        "date_created": "20200504",
+        "full_title": "CCC-DWB-GNA-1 Gallery of the Nightmare Artist",
+        "hours": null,
+        "level_range": null,
+        "product_id": "CCC-DWB-GNA-1-Gallery-of-the-Nightmare-Artist",
+        "tiers": null,
+        "title": "CCC-DWB-GNA-1 Gallery of the Nightmare Artist",
+        "url": "https://www.dmsguild.com/product/311687/CCCDWBGNA1-Gallery-of-the-Nightmare-Artist"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-Q01",
+        "date_created": "20200131",
+        "full_title": "CCC-DWB-Q01 Quarantine",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-DWB-Q01-Quarantine",
+        "tiers": null,
+        "title": "CCC-DWB-Q01 Quarantine",
+        "url": "https://www.dmsguild.com/product/301902/CCCDWBQ01-Quarantine"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-TFG",
+        "date_created": "20200504",
+        "full_title": "CCC-DWB-TFG 1: The Frostbane Garden",
+        "hours": null,
+        "level_range": null,
+        "product_id": "CCC-DWB-TFG-1--The-Frostbane-Garden",
+        "tiers": null,
+        "title": "CCC-DWB-TFG 1 The Frostbane Garden",
+        "url": "https://www.dmsguild.com/product/311689/CCCDWBTFG-1-The-Frostbane-Garden"
     },
     {
         "apl": 3,
@@ -2915,6 +3354,22 @@
         "tiers": 1,
         "title": "CCC-DWB-TMG-1 The Mournful Golem",
         "url": "https://www.dmsguild.com/product/340996/CCCDWBTMG1-The-Mournful-Golem?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Robby Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DWB-TRM-1-",
+        "date_created": "20200504",
+        "full_title": "CCC-DWB-TRM-1: Red Mirage",
+        "hours": null,
+        "level_range": null,
+        "product_id": "CCC-DWB-TRM-1--Red-Mirage",
+        "tiers": null,
+        "title": "CCC-DWB-TRM-1 Red Mirage",
+        "url": "https://www.dmsguild.com/product/311688/CCCDWBTRM1-Red-Mirage"
     },
     {
         "apl": null,
@@ -2981,6 +3436,55 @@
         "url": "https://www.dmsguild.com/product/309290/CCCELF04-Blood-of-the-Covenent?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Adam Gordier"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ELO-01",
+        "date_created": "20181117",
+        "full_title": "CCC-ELO-01 For the Kids!",
+        "hours": null,
+        "level_range": "6",
+        "product_id": "CCC-ELO-01-For-the-Kids",
+        "tiers": null,
+        "title": "CCC-ELO-01 For the Kids!",
+        "url": "https://www.dmsguild.com/product/259022/CCCELO01-For-the-Kids"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Marcello Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ELO-02",
+        "date_created": "20200114",
+        "full_title": "CCC-ELO-02 The Four Kids",
+        "hours": null,
+        "level_range": null,
+        "product_id": "CCC-ELO-02-The-Four-Kids",
+        "tiers": null,
+        "title": "CCC-ELO-02 The Four Kids",
+        "url": "https://www.dmsguild.com/product/299859/CCCELO02-The-Four-Kids"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Lance Tan",
+            "Adventurers Anonymous Manila"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-EPI01-01",
+        "date_created": "20191125",
+        "full_title": "CCC-EPI01-01 Hordes of Thar - The White Hand of Death",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "CCC-EPI01-01-Hordes-of-Thar---The-White-Hand-of-Death",
+        "tiers": null,
+        "title": "CCC-EPI01-01 Hordes of Thar - The White Hand of Death",
+        "url": "https://www.dmsguild.com/product/295621/CCCEPI0101-Hordes-of-Thar--The-White-Hand-of-Death"
+    },
+    {
         "apl": 8,
         "authors": [
             "Lance Tan"
@@ -3029,6 +3533,23 @@
         "tiers": null,
         "title": "CCC-FC3-01-02 Tales of Estirwald Corruption of the Elderoak",
         "url": "https://www.dmsguild.com/product/267821/CCCFC30102-Tales-of-Estirwald-Corruption-of-the-Elderoak?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Malcolm Wood",
+            "Bruce Wood"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-FC3-03",
+        "date_created": "20190311",
+        "full_title": "CCC-FC3-03 Tales of Estirwald: The Fun House",
+        "hours": 4,
+        "level_range": "3",
+        "product_id": "CCC-FC3-03-Tales-of-Estirwald--The-Fun-House",
+        "tiers": 3,
+        "title": "CCC-FC3-03 Tales of Estirwald The Fun House",
+        "url": "https://www.dmsguild.com/product/269392/CCCFC303-Tales-of-Estirwald-The-Fun-House"
     },
     {
         "apl": 13,
@@ -3291,6 +3812,23 @@
         "url": "https://www.dmsguild.com/product/338351/CCCGARY16-My-Immortal-Loneliness?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Cat Evans",
+            "Paige Leitman"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GARY-17",
+        "date_created": "20201228",
+        "full_title": "CCC-GARY-17 A Simple Plan",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-GARY-17-A-Simple-Plan",
+        "tiers": 1,
+        "title": "CCC-GARY-17 A Simple Plan",
+        "url": "https://www.dmsguild.com/product/341259/CCCGARY17-A-Simple-Plan"
+    },
+    {
         "apl": null,
         "authors": [
             "Thomas Valley",
@@ -3306,6 +3844,22 @@
         "tiers": null,
         "title": "CCC-GARY01 A Night to Remember",
         "url": "https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Brad Bound"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GARY01-03-",
+        "date_created": "20170414",
+        "full_title": "CCC-GARY01-03: Map and Illustration Pack",
+        "hours": null,
+        "level_range": "0",
+        "product_id": "CCC-GARY01-03--Map-and-Illustration-Pack",
+        "tiers": null,
+        "title": "CCC-GARY01-03 Map and Illustration Pack",
+        "url": "https://www.dmsguild.com/product/209695/CCCGARY0103-Map-and-Illustration-Pack"
     },
     {
         "apl": null,
@@ -3374,6 +3928,75 @@
         "tiers": null,
         "title": "CCC-GEL-01 Bedlam at the Benefit",
         "url": "https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GGC02-01",
+        "date_created": "20201102",
+        "full_title": "CCC-GGC02-01 Entombed",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "CCC-GGC02-01-Entombed",
+        "tiers": 2,
+        "title": "CCC-GGC02-01 Entombed",
+        "url": "https://www.dmsguild.com/product/334410/CCCGGC0201-Entombed"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Alex Kammer",
+            "Gamehole Con"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GHC-01",
+        "date_created": "20161215",
+        "full_title": "CCC-GHC-01 Tharaera Lost",
+        "hours": null,
+        "level_range": "201",
+        "product_id": "CCC-GHC-01-Tharaera-Lost",
+        "tiers": null,
+        "title": "CCC-GHC-01 Tharaera Lost",
+        "url": "https://www.dmsguild.com/product/200723/CCCGHC01-Tharaera-Lost"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Ed Greenwood",
+            "Alex Kammer",
+            "Gamehole Con"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GHC-02",
+        "date_created": "20161215",
+        "full_title": "CCC-GHC-02 Skulljaw Hill",
+        "hours": null,
+        "level_range": "201",
+        "product_id": "CCC-GHC-02-Skulljaw-Hill",
+        "tiers": null,
+        "title": "CCC-GHC-02 Skulljaw Hill",
+        "url": "https://www.dmsguild.com/product/200738/CCCGHC02-Skulljaw-Hill"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Ed Greenwood",
+            "Alex Kammer",
+            "Gamehole Con"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GHC-03",
+        "date_created": "20161215",
+        "full_title": "CCC-GHC-03 Facing the Dark",
+        "hours": null,
+        "level_range": "201",
+        "product_id": "CCC-GHC-03-Facing-the-Dark",
+        "tiers": null,
+        "title": "CCC-GHC-03 Facing the Dark",
+        "url": "https://www.dmsguild.com/product/200739/CCCGHC03-Facing-the-Dark"
     },
     {
         "apl": null,
@@ -3755,6 +4378,23 @@
     {
         "apl": null,
         "authors": [
+            "Bill Benham",
+            "Gamehole Con"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GHC-BK1-08",
+        "date_created": "20181207",
+        "full_title": "CCC-GHC-BK1-08 The Hunt for Cutter Jack",
+        "hours": 2,
+        "level_range": "10",
+        "product_id": "CCC-GHC-BK1-08-The-Hunt-for-Cutter-Jack",
+        "tiers": 1,
+        "title": "CCC-GHC-BK1-08 The Hunt for Cutter Jack",
+        "url": "https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Alan Patrick",
             "Gamehole Con"
         ],
@@ -4079,6 +4719,23 @@
         "url": "https://www.dmsguild.com/product/285712/CCCGSPFEAR0101-Beneath-the-Bleeding-Tree?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 7,
+        "authors": [
+            "Greasy Snitches",
+            "Ramon Macutay"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP-MON01-01",
+        "date_created": "20200204",
+        "full_title": "CCC-GSP-MON01-01 Shadows of Despair",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-GSP-MON01-01-Shadows-of-Despair",
+        "tiers": 2,
+        "title": "CCC-GSP-MON01-01 Shadows of Despair",
+        "url": "https://www.dmsguild.com/product/302031/CCCGSPMON0101-Shadows-of-Despair"
+    },
+    {
         "apl": 14,
         "authors": [
             "Greasy Snitches",
@@ -4149,6 +4806,91 @@
     {
         "apl": null,
         "authors": [
+            "Greasy Snitches",
+            "Paul Gabat"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP01-01",
+        "date_created": "20181012",
+        "full_title": "CCC-GSP01-01 A Dragon's Breath",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-GSP01-01-A-Dragons-Breath",
+        "tiers": null,
+        "title": "CCC-GSP01-01 A Dragon's Breath",
+        "url": "https://www.dmsguild.com/product/254786/CCCGSP0101-A-Dragons-Breath"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Greasy Snitches",
+            "Paul Gabat"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP01-02",
+        "date_created": "20190814",
+        "full_title": "CCC-GSP01-02 Brotherhood",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-GSP01-02-Brotherhood",
+        "tiers": null,
+        "title": "CCC-GSP01-02 Brotherhood",
+        "url": "https://www.dmsguild.com/product/285688/CCCGSP0102-Brotherhood"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Greasy Snitches",
+            "Paul Gabat"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP01-03",
+        "date_created": "20200204",
+        "full_title": "CCC-GSP01-03 Tainted Love",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-GSP01-03-Tainted-Love",
+        "tiers": null,
+        "title": "CCC-GSP01-03 Tainted Love",
+        "url": "https://www.dmsguild.com/product/301973/CCCGSP0103-Tainted-Love"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Greasy Snitches",
+            "Paul Gabat"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP02-01",
+        "date_created": "20200303",
+        "full_title": "CCC-GSP02-01 Minauros Unchained",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-GSP02-01-Minauros-Unchained",
+        "tiers": null,
+        "title": "CCC-GSP02-01 Minauros Unchained",
+        "url": "https://www.dmsguild.com/product/303699/CCCGSP0201-Minauros-Unchained"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Greasy Snitches",
+            "Paul Gabat"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GSP02-02",
+        "date_created": "20200420",
+        "full_title": "CCC-GSP02-02 Stygia Untamed",
+        "hours": 4,
+        "level_range": "202",
+        "product_id": "CCC-GSP02-02-Stygia-Untamed",
+        "tiers": null,
+        "title": "CCC-GSP02-02 Stygia Untamed",
+        "url": "https://www.dmsguild.com/product/307480/CCCGSP0202-Stygia-Untamed"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Paul Gabat"
         ],
         "campaign": "Forgotten Realms",
@@ -4195,6 +4937,22 @@
         "tiers": null,
         "title": "CCC-HAL-01 Fate of the Nightworms",
         "url": "https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Joel Marsh"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-HATMS",
+        "date_created": "20190408",
+        "full_title": "CCC-HATMS 02-01 Illithid Activities",
+        "hours": 4,
+        "level_range": "02",
+        "product_id": "CCC-HATMS-02-01-Illithid-Activities",
+        "tiers": 2,
+        "title": "CCC-HATMS 02-01 Illithid Activities",
+        "url": "https://www.dmsguild.com/product/269519/CCCHATMS-0201-Illithid-Activities"
     },
     {
         "apl": 14,
@@ -4261,6 +5019,23 @@
         "tiers": 2,
         "title": "CCC-HERO-BK-02-02 Flight of the Wyvern",
         "url": "https://www.dmsguild.com/product/308336/CCCHEROBK0202-Flight-of-the-Wyvern?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Gamehole Con",
+            "Rick O'Donnell"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-HERO-BK-02-03",
+        "date_created": "20200331",
+        "full_title": "CCC-HERO-BK-02-03 Winters Bane",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-HERO-BK-02-03-Winters-Bane",
+        "tiers": 2,
+        "title": "CCC-HERO-BK-02-03 Winters Bane",
+        "url": "https://www.dmsguild.com/product/308337/CCCHEROBK0203-Winters-Bane"
     },
     {
         "apl": 3,
@@ -4415,6 +5190,22 @@
         "url": "https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 1,
+        "authors": [
+            "Ma'at Crook"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-KUMORI-02-01",
+        "date_created": "20190121",
+        "full_title": "CCC-KUMORI-02-01 Vacant",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": "CCC-KUMORI-02-01-Vacant",
+        "tiers": null,
+        "title": "CCC-KUMORI-02-01 Vacant",
+        "url": "https://www.dmsguild.com/product/264732/CCCKUMORI0201-Vacant"
+    },
+    {
         "apl": null,
         "authors": [
             "Drew Wood"
@@ -4429,6 +5220,22 @@
         "tiers": null,
         "title": "CCC-KUMORI-02-02 School Magic",
         "url": "https://www.dmsguild.com/product/261266/CCCKUMORI0202-School-Magic?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jay Africa"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-KUMORI-02-04",
+        "date_created": "20181126",
+        "full_title": "CCC-KUMORI-02-04 To Be the Very Best",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-KUMORI-02-04-To-Be-the-Very-Best",
+        "tiers": null,
+        "title": "CCC-KUMORI-02-04 To Be the Very Best",
+        "url": "https://www.dmsguild.com/product/259775/CCCKUMORI0204-To-Be-the-Very-Best"
     },
     {
         "apl": 3,
@@ -4613,6 +5420,22 @@
         "url": "https://www.dmsguild.com/product/320986/CCCMAG0103-The-Clock-that-Didnt-Tick?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Steve Hill"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-MAYDAYS-01",
+        "date_created": "20200701",
+        "full_title": "CCC-MAYDAYS-01 The Bandit's Mark",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-MAYDAYS-01-The-Bandits-Mark",
+        "tiers": 1,
+        "title": "CCC-MAYDAYS-01 The Bandit's Mark",
+        "url": "https://www.dmsguild.com/product/318715/CCCMAYDAYS01-The-Bandits-Mark"
+    },
+    {
         "apl": 13,
         "authors": [
             "Jonathan Connor Self"
@@ -4643,6 +5466,38 @@
         "tiers": 1,
         "title": "CCC-MCX-01 All in a Day\u2019s Work",
         "url": "https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Robert Hughes"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-MELB-01",
+        "date_created": "20201130",
+        "full_title": "CCC-MELB-01 A Single Tearfall",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "CCC-MELB-01-A-Single-Tearfall",
+        "tiers": null,
+        "title": "CCC-MELB-01 A Single Tearfall",
+        "url": "https://www.dmsguild.com/product/337763/CCCMELB01-A-Single-Tearfall"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "RICHARD HAYWARD"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-MELB-02",
+        "date_created": "20200807",
+        "full_title": "CCC-MELB-02 The Sunken Sepulcher",
+        "hours": 2,
+        "level_range": "202",
+        "product_id": "CCC-MELB-02-The-Sunken-Sepulcher",
+        "tiers": 1,
+        "title": "CCC-MELB-02 The Sunken Sepulcher",
+        "url": "https://www.dmsguild.com/product/322502/CCCMELB02-The-Sunken-Sepulcher"
     },
     {
         "apl": null,
@@ -4847,6 +5702,54 @@
         "url": "https://www.dmsguild.com/product/310358/CCCNBDD0102-Where-Can-She-Be?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Marcello Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-NUKE-01-01",
+        "date_created": "20181009",
+        "full_title": "CCC-NUKE-01-01 The Blighted Sun",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-NUKE-01-01-The-Blighted-Sun",
+        "tiers": null,
+        "title": "CCC-NUKE-01-01 The Blighted Sun",
+        "url": "https://www.dmsguild.com/product/254451/CCCNUKE0101-The-Blighted-Sun"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Marcello Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-NUKE-01-02",
+        "date_created": "20181009",
+        "full_title": "CCC-NUKE-01-02 Hide and Seek",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-NUKE-01-02-Hide-and-Seek",
+        "tiers": null,
+        "title": "CCC-NUKE-01-02 Hide and Seek",
+        "url": "https://www.dmsguild.com/product/254453/CCCNUKE0102-Hide-and-Seek"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-NUKE-01-03",
+        "date_created": "20191112",
+        "full_title": "CCC-NUKE-01-03, \"The Gift of Arvandor\"",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-NUKE-01-03-The-Gift-of-Arvandor",
+        "tiers": null,
+        "title": "CCC-NUKE-01-03, \"The Gift of Arvandor\"",
+        "url": "https://www.dmsguild.com/product/293948/CCCNUKE0103-The-Gift-of-Arvandor"
+    },
+    {
         "apl": 8,
         "authors": [
             "Travis Fuller"
@@ -4861,6 +5764,22 @@
         "tiers": 2,
         "title": "CCC-NUKE-01-04 Honey Pass the Preserves",
         "url": "https://www.dmsguild.com/product/293955/CCCNUKE0104-Honey-Pass-the-Preserves?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Marcello Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-NUKE-01-05",
+        "date_created": "20201104",
+        "full_title": "CCC-NUKE-01-05 Take A Bough (Plan Bee From Outer Space)",
+        "hours": null,
+        "level_range": "3",
+        "product_id": "CCC-NUKE-01-05-Take-A-Bough-Plan-Bee-From-Outer-Space",
+        "tiers": null,
+        "title": "CCC-NUKE-01-05 Take A Bough Plan Bee From Outer Space",
+        "url": "https://www.dmsguild.com/product/334581/CCCNUKE0105-Take-A-Bough-Plan-Bee-From-Outer-Space"
     },
     {
         "apl": 4,
@@ -5023,6 +5942,38 @@
         "url": "https://www.dmsguild.com/product/245631/CCCODFC0203-Nights-Bright-Dawning?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Leigh Smith"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ODFC03-02",
+        "date_created": "20200420",
+        "full_title": "CCC-ODFC03-02 Orchestration of Havoc",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-ODFC03-02-Orchestration-of-Havoc",
+        "tiers": 2,
+        "title": "CCC-ODFC03-02 Orchestration of Havoc",
+        "url": "https://www.dmsguild.com/product/308175/CCCODFC0302-Orchestration-of-Havoc"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Dennis R Hall"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ODFC04-01",
+        "date_created": "20200720",
+        "full_title": "CCC-ODFC04-01 The Cause of All Life\u2019s Problems",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-ODFC04-01-The-Cause-of-All-Lifes-Problems",
+        "tiers": null,
+        "title": "CCC-ODFC04-01 The Cause of All Life\u2019s Problems",
+        "url": "https://www.dmsguild.com/product/320479/CCCODFC0401-The-Cause-of-All-Lifes-Problems"
+    },
+    {
         "apl": null,
         "authors": [
             "Andrew Bishkinskyi"
@@ -5089,6 +6040,22 @@
         "url": "https://www.dmsguild.com/product/334208/CCCPFF0301-Hints-at-Imbalance-Rumors-of-Moloch?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Chris Valentine"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PFF02-01",
+        "date_created": "20201102",
+        "full_title": "CCC-PFF02-01 Mystery of the White Worm",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "CCC-PFF02-01-Mystery-of-the-White-Worm",
+        "tiers": 2,
+        "title": "CCC-PFF02-01 Mystery of the White Worm",
+        "url": "https://www.dmsguild.com/product/334409/CCCPFF0201-Mystery-of-the-White-Worm"
+    },
+    {
         "apl": 13,
         "authors": [
             "Trevor Duston"
@@ -5103,6 +6070,22 @@
         "tiers": 3,
         "title": "CCC-Pipyap-PhAL03-01 Lost Holy Man Portal Chase through Maladomini",
         "url": "https://www.dmsguild.com/product/334210/CCCPipyapPhAL0301-Lost-Holy-Man-Portal-Chase-through-Maladomini?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Dennis R Hall"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PIPYAPS-DH1",
+        "date_created": "20200720",
+        "full_title": "CCC-PIPYAPS-DH1 Breaking Bes",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-PIPYAPS-DH1-Breaking-Bes",
+        "tiers": null,
+        "title": "CCC-PIPYAPS-DH1 Breaking Bes",
+        "url": "https://www.dmsguild.com/product/320481/CCCPIPYAPSDH1-Breaking-Bes"
     },
     {
         "apl": null,
@@ -5135,6 +6118,86 @@
         "tiers": 1,
         "title": "CCC-PRETZ-PLA01 The Mystery at Coppertop Manor",
         "url": "https://www.dmsguild.com/product/277524/CCCPRETZPLA01-The-Mystery-at-Coppertop-Manor?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Ed Stevens"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PRETZ-PLA02",
+        "date_created": "20190522",
+        "full_title": "CCC-PRETZ-PLA02 A Mine of Their Own",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "CCC-PRETZ-PLA02-A-Mine-of-Their-Own",
+        "tiers": 1,
+        "title": "CCC-PRETZ-PLA02 A Mine of Their Own",
+        "url": "https://www.dmsguild.com/product/277526/CCCPRETZPLA02-A-Mine-of-Their-Own"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Ed Stevens"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PRETZ-PLA03",
+        "date_created": "20200803",
+        "full_title": "CCC-PRETZ-PLA03 The Necroforge",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "CCC-PRETZ-PLA03-The-Necroforge",
+        "tiers": 2,
+        "title": "CCC-PRETZ-PLA03 The Necroforge",
+        "url": "https://www.dmsguild.com/product/315649/CCCPRETZPLA03-The-Necroforge"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Adam Gordier"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PRIORY-01",
+        "date_created": "20180429",
+        "full_title": "CCC-PRIORY-01 Maritime Mayhem",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "CCC-PRIORY-01-Maritime-Mayhem",
+        "tiers": null,
+        "title": "CCC-PRIORY-01 Maritime Mayhem",
+        "url": "https://www.dmsguild.com/product/240922/CCCPRIORY01-Maritime-Mayhem"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Adam Gordier"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PRIORY-02",
+        "date_created": "20180429",
+        "full_title": "CCC-PRIORY-02 Prison Pitfalls",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "CCC-PRIORY-02-Prison-Pitfalls",
+        "tiers": null,
+        "title": "CCC-PRIORY-02 Prison Pitfalls",
+        "url": "https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Adam Gordier"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-PRIORY-03",
+        "date_created": "20180429",
+        "full_title": "CCC-PRIORY-03 Truths in Time",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "CCC-PRIORY-03-Truths-in-Time",
+        "tiers": null,
+        "title": "CCC-PRIORY-03 Truths in Time",
+        "url": "https://www.dmsguild.com/product/240925/CCCPRIORY03-Truths-in-Time"
     },
     {
         "apl": 3,
@@ -5199,6 +6262,54 @@
         "tiers": null,
         "title": "CCC-QCC2018-02 Heart and Soul",
         "url": "https://www.dmsguild.com/product/252178/CCCQCC201802-Heart-and-Soul?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Jonathan Kennedy-Ellis"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-QCC2019-01",
+        "date_created": "20190714",
+        "full_title": "CCC-QCC2019-01 Hillsfar's Rancid Webs",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": "CCC-QCC2019-01-Hillsfars-Rancid-Webs",
+        "tiers": 1,
+        "title": "CCC-QCC2019-01 Hillsfar's Rancid Webs",
+        "url": "https://www.dmsguild.com/product/282851/CCCQCC201901-Hillsfars-Rancid-Webs"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Garrett Crowe"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-QCC2019-02",
+        "date_created": "20190715",
+        "full_title": "CCC-QCC2019-02 Hag of Tricks",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": "CCC-QCC2019-02-Hag-of-Tricks",
+        "tiers": 2,
+        "title": "CCC-QCC2019-02 Hag of Tricks",
+        "url": "https://www.dmsguild.com/product/282984/CCCQCC201902-Hag-of-Tricks"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Scott Moore"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-QCC2019-03",
+        "date_created": "20190715",
+        "full_title": "CCC-QCC2019-03 The Scarlet Divide",
+        "hours": 4,
+        "level_range": "201",
+        "product_id": "CCC-QCC2019-03-The-Scarlet-Divide",
+        "tiers": 3,
+        "title": "CCC-QCC2019-03 The Scarlet Divide",
+        "url": "https://www.dmsguild.com/product/282991/CCCQCC201903-The-Scarlet-Divide"
     },
     {
         "apl": 13,
@@ -5542,6 +6653,38 @@
         "tiers": 2,
         "title": "CCC-SAF01-01 Between Garrock and a Hard Place",
         "url": "https://www.dmsguild.com/product/299621/CCCSAF0101-Between-Garrock-and-a-Hard-Place?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Paul Duggan"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-SAF02-01",
+        "date_created": "20201230",
+        "full_title": "CCC-SAF02-01 Stygia: A Refuge In the Cold",
+        "hours": null,
+        "level_range": "7",
+        "product_id": "CCC-SAF02-01-Stygia--A-Refuge-In-the-Cold",
+        "tiers": null,
+        "title": "CCC-SAF02-01 Stygia A Refuge In the Cold",
+        "url": "https://www.dmsguild.com/product/341614/CCCSAF0201-Stygia-A-Refuge-In-the-Cold"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Steve Hill"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-SAF02-02",
+        "date_created": "20201105",
+        "full_title": "CCC-SAF02-02 Frozen Contract",
+        "hours": 4,
+        "level_range": "7",
+        "product_id": "CCC-SAF02-02-Frozen-Contract",
+        "tiers": 2,
+        "title": "CCC-SAF02-02 Frozen Contract",
+        "url": "https://www.dmsguild.com/product/334734/CCCSAF0202-Frozen-Contract"
     },
     {
         "apl": null,
@@ -6061,6 +7204,22 @@
     {
         "apl": 8,
         "authors": [
+            "Emily Harmon"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-SQC-003-01",
+        "date_created": "20191212",
+        "full_title": "CCC-SQC-003-01 Consumption",
+        "hours": 4,
+        "level_range": "03",
+        "product_id": "CCC-SQC-003-01-Consumption",
+        "tiers": 2,
+        "title": "CCC-SQC-003-01 Consumption",
+        "url": "https://www.dmsguild.com/product/295761/CCCSQC00301-Consumption"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Noah Grand"
         ],
         "campaign": "Forgotten Realms",
@@ -6313,6 +7472,22 @@
         "url": "https://www.dmsguild.com/product/301715/CCCTarot0209-The-Thentia-Job?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 8,
+        "authors": [
+            "Blake Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-TAROT-02-10",
+        "date_created": "20200803",
+        "full_title": "CCC-TAROT-02-10 Facades Undone",
+        "hours": null,
+        "level_range": "1",
+        "product_id": "CCC-TAROT-02-10-Facades-Undone",
+        "tiers": 2,
+        "title": "CCC-TAROT-02-10 Facades Undone",
+        "url": "https://www.dmsguild.com/product/321118/CCCTAROT0210-Facades-Undone"
+    },
+    {
         "apl": 3,
         "authors": [
             "Blake Jones"
@@ -6519,6 +7694,22 @@
         "tiers": 2,
         "title": "CCC-TAROT02-07 Moonlit Waves Part 2",
         "url": "https://www.dmsguild.com/product/308588/CCCTAROT0207-Moonlit-Waves-Part-2?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Bernard Jericho Velasco"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-TCW-WSF-1",
+        "date_created": "20201223",
+        "full_title": "CCC-TCW-WSF-1 A Change of Heart",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-TCW-WSF-1-A-Change-of-Heart",
+        "tiers": 1,
+        "title": "CCC-TCW-WSF-1 A Change of Heart",
+        "url": "https://www.dmsguild.com/product/340424/CCCTCWWSF1-A-Change-of-Heart"
     },
     {
         "apl": 13,
@@ -7100,6 +8291,22 @@
     {
         "apl": null,
         "authors": [
+            "Garrett A Crowe"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-UBCON2020-02-REALM",
+        "date_created": "20200602",
+        "full_title": "CCC-UBCON2020-02-Realm of the Brand",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "CCC-UBCON2020-02-Realm-of-the-Brand",
+        "tiers": 1,
+        "title": "CCC-UBCON2020-02-Realm of the Brand",
+        "url": "https://www.dmsguild.com/product/315872/CCCUBCON202002Realm-of-the-Brand"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Alan Patrick"
         ],
         "campaign": "Forgotten Realms",
@@ -7224,6 +8431,23 @@
         "tiers": null,
         "title": "CCC-UK-4 Bourne of Candles",
         "url": "https://www.dmsguild.com/product/283657/CCCUK4-Bourne-of-Candles?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Angelo Corsino",
+            "Karl Sciberras"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-UNITE-007",
+        "date_created": "20201221",
+        "full_title": "CCC-UNITE-007 The Second Exodus of Syln Nahail",
+        "hours": 2,
+        "level_range": "5",
+        "product_id": "CCC-UNITE-007-The-Second-Exodus-of-Syln-Nahail",
+        "tiers": null,
+        "title": "CCC-UNITE-007 The Second Exodus of Syln Nahail",
+        "url": "https://www.dmsguild.com/product/340567/CCCUNITE007-The-Second-Exodus-of-Syln-Nahail"
     },
     {
         "apl": 8,
@@ -7452,6 +8676,70 @@
     {
         "apl": null,
         "authors": [
+            "Mike Olson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-YLRA-SDCC01-1",
+        "date_created": "20200503",
+        "full_title": "CCC-YLRA-SDCC01-1 Exploratory Arts",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-YLRA-SDCC01-1-Exploratory-Arts",
+        "tiers": 1,
+        "title": "CCC-YLRA-SDCC01-1 Exploratory Arts",
+        "url": "https://www.dmsguild.com/product/312289/CCCYLRASDCC011-Exploratory-Arts"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Mike Olson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-YLRA-SDCC01-2",
+        "date_created": "20200504",
+        "full_title": "CCC-YLRA-SDCC01-2 No Good Deed",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-YLRA-SDCC01-2-No-Good-Deed",
+        "tiers": 1,
+        "title": "CCC-YLRA-SDCC01-2 No Good Deed",
+        "url": "https://www.dmsguild.com/product/312294/CCCYLRASDCC012-No-Good-Deed"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Mike Olson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-YLRA-SDCC01-3",
+        "date_created": "20200504",
+        "full_title": "CCC-YLRA-SDCC01-3 Cast In Shadow",
+        "hours": 4,
+        "level_range": "1",
+        "product_id": "CCC-YLRA-SDCC01-3-Cast-In-Shadow",
+        "tiers": 1,
+        "title": "CCC-YLRA-SDCC01-3 Cast In Shadow",
+        "url": "https://www.dmsguild.com/product/312295/CCCYLRASDCC013-Cast-In-Shadow"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Forbing"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-YLRA01-01",
+        "date_created": "20170702",
+        "full_title": "CCC-YLRA01-01 Her Dying Wish",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "CCC-YLRA01-01-Her-Dying-Wish",
+        "tiers": null,
+        "title": "CCC-YLRA01-01 Her Dying Wish",
+        "url": "https://www.dmsguild.com/product/215448/CCCYLRA0101-Her-Dying-Wish"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Ryan Cannon"
         ],
         "campaign": "Forgotten Realms",
@@ -7464,6 +8752,89 @@
         "tiers": null,
         "title": "CCC-YLRA01-02 Uneasy Lies the Head",
         "url": "https://www.dmsguild.com/product/215484/CCCYLRA0102-Uneasy-Lies-the-Head?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Jay Africa",
+            "Strategicon AL"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-YLRA01-03",
+        "date_created": "20170702",
+        "full_title": "CCC-YLRA01-03 Bound By Duty",
+        "hours": 4,
+        "level_range": "01",
+        "product_id": "CCC-YLRA01-03-Bound-By-Duty",
+        "tiers": 2,
+        "title": "CCC-YLRA01-03 Bound By Duty",
+        "url": "https://www.dmsguild.com/product/215508/CCCYLRA0103-Bound-By-Duty"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jessie Swinton",
+            "Aaron Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ZIEGE-01",
+        "date_created": "20181031",
+        "full_title": "CCC-Ziege-01 Shadows of Blood Moon",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-Ziege-01-Shadows-of-Blood-Moon",
+        "tiers": null,
+        "title": "CCC-Ziege-01 Shadows of Blood Moon",
+        "url": "https://www.dmsguild.com/product/257622/CCCZiege01-Shadows-of-Blood-Moon"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jessie Swinton",
+            "Aaron Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ZIEGE_02",
+        "date_created": "20181031",
+        "full_title": "CCC-Ziege_02 Storm of the Blood Moon",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "CCC-Ziege-02-Storm-of-the-Blood-Moon",
+        "tiers": null,
+        "title": "CCC-Ziege_02 Storm of the Blood Moon",
+        "url": "https://www.dmsguild.com/product/257623/CCCZiege02-Storm-of-the-Blood-Moon"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Fenway Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ZIEGE-03",
+        "date_created": "20181031",
+        "full_title": "CCC-Ziege-03 Dead Men Feel No Cold",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": "CCC-Ziege-03-Dead-Men-Feel-No-Cold",
+        "tiers": 2,
+        "title": "CCC-Ziege-03 Dead Men Feel No Cold",
+        "url": "https://www.dmsguild.com/product/257607/CCCZiege03-Dead-Men-Feel-No-Cold"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Scott Ketner"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GOC01-01",
+        "date_created": "20180924",
+        "full_title": "CCCGOC01-01 Tree Rot",
+        "hours": 2,
+        "level_range": null,
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCGOC01-01 Tree Rot",
+        "url": "https://www.dmsguild.com/product/253211/CCCGOC0101-Tree-Rot?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -7480,6 +8851,54 @@
         "tiers": null,
         "title": "CCCROZK01-01 Binder's Torment",
         "url": "https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-THENT01-01",
+        "date_created": "20171010",
+        "full_title": "CCCTHENT01-01 Beneath the Surface",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCTHENT01-01 Beneath the Surface",
+        "url": "https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-THENT01-02",
+        "date_created": "20171010",
+        "full_title": "CCCTHENT01-02 Those That Dwell Beneath",
+        "hours": 2,
+        "level_range": "201",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCTHENT01-02 Those That Dwell Beneath",
+        "url": "https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-THENT01-03",
+        "date_created": "20171010",
+        "full_title": "CCCTHENT01-03 The Dreaming Relic",
+        "hours": 4,
+        "level_range": "201",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCTHENT01-03 The Dreaming Relic",
+        "url": "https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,

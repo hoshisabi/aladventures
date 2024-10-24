@@ -112,10 +112,13 @@ def summarize(data, dc_season):
         logger.info(f"    {month} =\t{len(dc_per_month[month])}")
 
 
-input_season = 'RV-DC'
+input_season = 'FR-DC'
 
 if __name__ == '__main__':
+    if (len(sys.argv) > 1):
+        input_season = sys.argv[1]
 
+    print(f"Printing stats for {input_season} season.")
     for dc_season in DC_CAMPAIGNS.keys():
         # TODO: add flag
         if input_season == dc_season:

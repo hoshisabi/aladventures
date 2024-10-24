@@ -650,6 +650,23 @@
         "url": "https://www.dmsguild.com/product/491875/FRDCLIGA07--The-Lurking-Blade?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Jose Jimenez aka Lucifernus",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LIGA-08",
+        "date_created": "20241014",
+        "full_title": "FR-DC-LIGA-08 - A Song of Closure",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "FR-DC-LIGA-08---A-Song-of-Closure",
+        "tiers": 3,
+        "title": "- A Song of Closure",
+        "url": "https://www.dmsguild.com/product/498884/FRDCLIGA08--A-Song-of-Closure?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "N. M. Brickle"
@@ -664,6 +681,22 @@
         "tiers": 1,
         "title": "Better Together",
         "url": "https://www.dmsguild.com/product/465190/FRDCNMB201-Better-Together?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Randall Harris"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-NUKE-02",
+        "date_created": "20241012",
+        "full_title": "FR-DC-NUKE-02 The Black Wyrm of Bog Hold",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-NUKE-02-The-Black-Wyrm-of-Bog-Hold",
+        "tiers": 2,
+        "title": "The Black Wyrm of Bog Hold",
+        "url": "https://www.dmsguild.com/product/498680/FRDCNUKE02-The-Black-Wyrm-of-Bog-Hold?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -925,6 +958,42 @@
         "tiers": 1,
         "title": "Haunting in Gloomwood Cemetery",
         "url": "https://www.dmsguild.com/product/493743/FRDCSAC07-Haunting-in-Gloomwood-Cemetery?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Strategicon AL",
+            "Noah Grand",
+            "Bryn Keeling"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-STRAT-DRAGON-01",
+        "date_created": "20241021",
+        "full_title": "FR-DC-STRAT-DRAGON-01 Dancing in the Moonlight",
+        "hours": 4,
+        "level_range": "202",
+        "product_id": "FR-DC-STRAT-DRAGON-01-Dancing-in-the-Moonlight",
+        "tiers": 2,
+        "title": "Dancing in the Moonlight",
+        "url": "https://www.dmsguild.com/product/499514/FRDCSTRATDRAGON01-Dancing-in-the-Moonlight?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Strategicon AL",
+            "Noah Grand",
+            "Bryn Keeling"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-STRAT-DRAGON-02",
+        "date_created": "20241021",
+        "full_title": "FR-DC-STRAT-DRAGON-02 Head in the Clouds",
+        "hours": 4,
+        "level_range": "202",
+        "product_id": "FR-DC-STRAT-DRAGON-02-Head-in-the-Clouds",
+        "tiers": 2,
+        "title": "Head in the Clouds",
+        "url": "https://www.dmsguild.com/product/499515/FRDCSTRATDRAGON02-Head-in-the-Clouds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -1477,5 +1546,21 @@
         "tiers": null,
         "title": "What's Within",
         "url": "https://www.dmsguild.com/product/492836/Whats-Within-FRDCTKMWW?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Hunter Sinclair"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-DUNG-01",
+        "date_created": "20241023",
+        "full_title": "Witch, Please - It's a Carnival (FR-DC-DUNG-01) (5e)",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "Witch-Please---Its-a-Carnival-FR-DC-DUNG-01-5e",
+        "tiers": 1,
+        "title": "Witch, Please - It's a Carnival  5e",
+        "url": "https://www.dmsguild.com/product/499777/Witch-Please--Its-a-Carnival-FRDCDUNG01-5e?filters=45470_0_0_0_0_0"
     }
 ]
