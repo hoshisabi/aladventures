@@ -3,14 +3,16 @@
     "authors": [
         "D&D Adventurers League"
     ],
-    "campaign": null,
+    "campaign": [
+        "Forgotten Realms"
+    ],
     "code": "DDAL-DRW-15",
     "date_created": "20211116",
     "full_title": "DDAL-DRW-15 Frozen Whispers",
     "hours": 4,
-    "level_range": null,
+    "level_range": "1",
     "product_id": "DDAL-DRW-15-Frozen-Whispers",
     "tiers": null,
     "title": "DDAL-DRW-15 Frozen Whispers",
-    "url": "https://www.dmsguild.com/product/377557/DDALDRW15-Frozen-Whispers?filters=45470_0_0_0_0_0"
+    "url": "https://www.dmsguild.com/product/377557/DDALDRW15-Frozen-Whispers"
 }

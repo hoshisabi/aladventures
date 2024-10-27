@@ -3,8 +3,10 @@
     "authors": [
         "Wizards of the Coast"
     ],
-    "campaign": null,
-    "code": null,
+    "campaign": [
+        "Forgotten Realms"
+    ],
+    "code": "DDEX03-15",
     "date_created": "20160322",
     "full_title": "DDEX03-15 Szith Morcane Unbound (5e)",
     "hours": 4,
@@ -12,5 +14,5 @@
     "product_id": "DDEX03-15-Szith-Morcane-Unbound-5e",
     "tiers": null,
     "title": "DDEX03-15 Szith Morcane Unbound 5e",
-    "url": "https://www.dmsguild.com/product/177570/DDEX0315-Szith-Morcane-Unbound-5e?filters=45470_0_0_0_0_0_0_0"
+    "url": "https://www.dmsguild.com/product/177570/DDEX0315-Szith-Morcane-Unbound-5e"
 }

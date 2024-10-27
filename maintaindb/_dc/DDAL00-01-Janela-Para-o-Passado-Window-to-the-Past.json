@@ -3,8 +3,10 @@
     "authors": [
         "Alan Patrick"
     ],
-    "campaign": null,
-    "code": null,
+    "campaign": [
+        "Forgotten Realms"
+    ],
+    "code": "DDAL00-01",
     "date_created": "20211029",
     "full_title": "DDAL00-01 Janela Para o Passado (Window to the Past)",
     "hours": null,
@@ -12,5 +14,5 @@
     "product_id": "DDAL00-01-Janela-Para-o-Passado-Window-to-the-Past",
     "tiers": null,
     "title": "DDAL00-01 Janela Para o Passado Window to the Past",
-    "url": "https://www.dmsguild.com/product/375788/DDAL0001-Janela-Para-o-Passado-Window-to-the-Past?filters=45470_0_0_0_0_0"
+    "url": "https://www.dmsguild.com/product/375788/DDAL0001-Janela-Para-o-Passado-Window-to-the-Past"
 }

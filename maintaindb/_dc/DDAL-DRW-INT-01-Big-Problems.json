@@ -3,14 +3,16 @@
     "authors": [
         "D&D Adventurers League"
     ],
-    "campaign": null,
+    "campaign": [
+        "Forgotten Realms"
+    ],
     "code": "DDAL-DRW-INT-01",
     "date_created": "20221005",
     "full_title": "DDAL-DRW-INT-01 Big Problems",
     "hours": 2,
-    "level_range": null,
+    "level_range": "0",
     "product_id": "DDAL-DRW-INT-01-Big-Problems",
     "tiers": null,
     "title": "DDAL-DRW-INT-01 Big Problems",
-    "url": "https://www.dmsguild.com/product/412528/DDALDRWINT01-Big-Problems?filters=45470_0_0_0_0_0"
+    "url": "https://www.dmsguild.com/product/412528/DDALDRWINT01-Big-Problems"
 }
