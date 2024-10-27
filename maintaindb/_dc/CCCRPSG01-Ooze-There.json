@@ -1,17 +1,17 @@
 {
-    "apl": null,
-    "authors": [
-        "Darryl Ho",
-        "Jason Koh"
-    ],
-    "campaign": null,
-    "code": null,
-    "date_created": "20180609",
-    "full_title": "CCC\u2010RPSG\u201001 Ooze There",
-    "hours": 4,
-    "level_range": "201",
-    "product_id": "CCCRPSG01-Ooze-There",
-    "tiers": 1,
-    "title": "CCC\u2010RPSG\u201001 Ooze There",
-    "url": "https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There?filters=45470_0_0_0_0_0_0_0"
+  "apl": null,
+  "authors": [
+    "Darryl Ho",
+    "Jason Koh"
+  ],
+  "campaign": "Forgotten Realms",
+  "code": "CCC-RPSG-01",
+  "date_created": "20180609",
+  "full_title": "CCC-RPSG-01 Ooze There",
+  "hours": 4,
+  "level_range": "201",
+  "product_id": null,
+  "tiers": 1,
+  "title": "CCC-RPSG-01 Ooze There",
+  "url": "https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There?filters=45470_0_0_0_0_0_0_0"
 }

@@ -149,6 +149,22 @@
         "url": "https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "William Kerney"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-SQC-02-02",
+        "date_created": "20180930",
+        "full_title": "CCC - SQC - 02 - 02 Last Gasp",
+        "hours": null,
+        "level_range": "00",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - SQC - 02 - 02 Last Gasp",
+        "url": "https://www.dmsguild.com/product/253726/CCC--SQC--02--02-Last-Gasp?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Jia Jian Tin"
@@ -9071,6 +9087,22 @@
             "Jeremy Hochhalter"
         ],
         "campaign": "Forgotten Realms",
+        "code": "CCC-ROZK-01-02",
+        "date_created": "20170918",
+        "full_title": "CCCROZK01-02 Zhentarim's Lament",
+        "hours": 4,
+        "level_range": "11",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCROZK01-02 Zhentarim's Lament",
+        "url": "https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
         "code": "CCC-ROZK01-03",
         "date_created": "20170918",
         "full_title": "CCCROZK01-03 Necromancer's Ascent",
@@ -9080,6 +9112,23 @@
         "tiers": null,
         "title": "CCCROZK01-03 Necromancer's Ascent",
         "url": "https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Darryl Ho",
+            "Jason Koh"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-RPSG-01",
+        "date_created": "20180609",
+        "full_title": "CCC-RPSG-01 Ooze There",
+        "hours": 4,
+        "level_range": "201",
+        "product_id": null,
+        "tiers": 1,
+        "title": "CCC-RPSG-01 Ooze There",
+        "url": "https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
