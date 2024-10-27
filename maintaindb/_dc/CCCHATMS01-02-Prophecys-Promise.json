@@ -1,16 +1,16 @@
 {
-    "apl": null,
-    "authors": [
-        "Jeremy Hochhalter"
-    ],
-    "campaign": null,
-    "code": null,
-    "date_created": "20180417",
-    "full_title": "CCCHATMS01-02 Prophecy's Promise",
-    "hours": 4,
-    "level_range": "5",
-    "product_id": "CCCHATMS01-02-Prophecys-Promise",
-    "tiers": null,
-    "title": "CCCHATMS01-02 Prophecy's Promise",
-    "url": "https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise?filters=45470_0_0_0_0_0_0_0"
+  "apl": null,
+  "authors": [
+    "Jeremy Hochhalter"
+  ],
+  "campaign": "Forgotten Realms",
+  "code": "CCC-HATMS01-02",
+  "date_created": "20180417",
+  "full_title": "CCCHATMS01-02 Prophecy's Promise",
+  "hours": 4,
+  "level_range": "5",
+  "product_id": null,
+  "tiers": null,
+  "title": "CCCHATMS01-02 Prophecy's Promise",
+  "url": "https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise?filters=45470_0_0_0_0_0_0_0"
 }

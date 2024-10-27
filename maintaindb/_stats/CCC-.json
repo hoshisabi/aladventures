@@ -17,6 +17,106 @@
         "url": "https://www.dmsguild.com/product/284732/Beneath-Ironfang-Keep?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "David Morris",
+            "MOGC"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ANIME-1-1",
+        "date_created": "20180313",
+        "full_title": "CCC - Anime - 1-1 Legend of the Sword Bandit Surprise",
+        "hours": 2,
+        "level_range": null,
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - Anime - 1-1 Legend of the Sword Bandit Surprise",
+        "url": "https://www.dmsguild.com/product/236786/CCC--Anime--11-Legend-of-the-Sword-Bandit-Surprise?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Dave Knighton",
+            "MOGC"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ANIME-1-2",
+        "date_created": "20180313",
+        "full_title": "CCC - Anime - 1-2 Let's Find the Sword, GO!",
+        "hours": 2,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - Anime - 1-2 Let's Find the Sword, GO!",
+        "url": "https://www.dmsguild.com/product/236787/CCC--Anime--12-Lets-Find-the-Sword-GO?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Derek Gray",
+            "MOGC"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ANIME-1-3",
+        "date_created": "20180313",
+        "full_title": "CCC - Anime - 1-3 Star Sword Return",
+        "hours": 2,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - Anime - 1-3 Star Sword Return",
+        "url": "https://www.dmsguild.com/product/236788/CCC--Anime--13-Star-Sword-Return?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "The Seer"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BWM-002",
+        "date_created": "20181002",
+        "full_title": "CCC - BWM - 002 The City in the Depths",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - BWM - 002 The City in the Depths",
+        "url": "https://www.dmsguild.com/product/253855/CCC--BWM--002-The-City-in-the-Depths?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jia Jian Tin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-BWM-003",
+        "date_created": "20180929",
+        "full_title": "CCC - BWM - 003 A Tale of Two Towers",
+        "hours": 4,
+        "level_range": "11",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - BWM - 003 A Tale of Two Towers",
+        "url": "https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Paul Johnson",
+            "Jia Jian Tin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ELF-001",
+        "date_created": "20181221",
+        "full_title": "CCC - ELF - 001 Life's a Party",
+        "hours": 4,
+        "level_range": null,
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - ELF - 001 Life's a Party",
+        "url": "https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Jia Jian Tin"
@@ -31,6 +131,22 @@
         "tiers": 1,
         "title": "CCC - FCC - 001 Isle of Moss",
         "url": "https://www.dmsguild.com/product/307811/CCC--FCC--001-Isle-of-Moss?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jia Jian Tin"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-SQC-02-01",
+        "date_created": "20180929",
+        "full_title": "CCC - SQC - 02 - 01 None the Wiser",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCC - SQC - 02 - 01 None the Wiser",
+        "url": "https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -7223,7 +7339,7 @@
             "Noah Grand"
         ],
         "campaign": "Forgotten Realms",
-        "code": "CCC-SQC",
+        "code": "CCC-SQC-03-03",
         "date_created": "20191212",
         "full_title": "CCC-SQC 03-03 Toxicity",
         "hours": 2,
@@ -8839,6 +8955,103 @@
     {
         "apl": null,
         "authors": [
+            "Bryan Gillispie",
+            "GameMasterB"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GOC01-02",
+        "date_created": "20180924",
+        "full_title": "CCCGOC01-02 Cairns of Rot",
+        "hours": 2,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCGOC01-02 Cairns of Rot",
+        "url": "https://www.dmsguild.com/product/253210/CCCGOC0102-Cairns-of-Rot?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-GOC01-03",
+        "date_created": "20180924",
+        "full_title": "CCCGOC01-03 Winds of Rot",
+        "hours": 4,
+        "level_range": "3",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCGOC01-03 Winds of Rot",
+        "url": "https://www.dmsguild.com/product/253212/CCCGOC0103-Winds-of-Rot?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-HATMS01-01",
+        "date_created": "20180417",
+        "full_title": "CCCHATMS01-01 Threatening Tides",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCHATMS01-01 Threatening Tides",
+        "url": "https://www.dmsguild.com/product/239986/CCCHATMS0101-Threatening-Tides?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-HATMS01-02",
+        "date_created": "20180417",
+        "full_title": "CCCHATMS01-02 Prophecy's Promise",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCHATMS01-02 Prophecy's Promise",
+        "url": "https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-HATMS01-03",
+        "date_created": "20180417",
+        "full_title": "CCCHATMS01-03 Destiny Defied",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCHATMS01-03 Destiny Defied",
+        "url": "https://www.dmsguild.com/product/239988/CCCHATMS0103-Destiny-Defied?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Dennis R Hall"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ODFC-03-01",
+        "date_created": "20191201",
+        "full_title": "CCC\u2010ODFC03\u201001 A Momentary Lapse of Reason",
+        "hours": 4,
+        "level_range": null,
+        "product_id": null,
+        "tiers": 1,
+        "title": "CCC\u2010ODFC03\u201001 A Momentary Lapse of Reason",
+        "url": "https://www.dmsguild.com/product/296435/CCCODFC0301-A-Momentary-Lapse-of-Reason"
+    },
+    {
+        "apl": null,
+        "authors": [
             "Jeremy Hochhalter"
         ],
         "campaign": "Forgotten Realms",
@@ -8851,6 +9064,22 @@
         "tiers": null,
         "title": "CCCROZK01-01 Binder's Torment",
         "url": "https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Jeremy Hochhalter"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ROZK01-03",
+        "date_created": "20170918",
+        "full_title": "CCCROZK01-03 Necromancer's Ascent",
+        "hours": 4,
+        "level_range": "11",
+        "product_id": null,
+        "tiers": null,
+        "title": "CCCROZK01-03 Necromancer's Ascent",
+        "url": "https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -8899,6 +9128,40 @@
         "tiers": null,
         "title": "CCCTHENT01-03 The Dreaming Relic",
         "url": "https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Chance Curell",
+            "Lucas Curell",
+            "Fenway Jones"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-JGD-03",
+        "date_created": "20191008",
+        "full_title": "CCC-JGD-03 Tortle Tribulations",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": 291016,
+        "tiers": 2,
+        "title": "DDAL-JGD-03 Tortle Tribulations",
+        "url": "https://www.dmsguild.com/product/291016/DDALJGD03-Tortle-Tribulations"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Tim Kubik"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-DRUIDS-03",
+        "date_created": "20191210",
+        "full_title": "DDALCCC-DRUIDS-03 In Tents",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": null,
+        "tiers": 1,
+        "title": "DDALCCC-DRUIDS-03 In Tents",
+        "url": "https://www.dmsguild.com/product/297088/DDALCCCDRUIDS03-In-Tents"
     },
     {
         "apl": null,

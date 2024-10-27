@@ -1,17 +1,17 @@
 {
-    "apl": null,
-    "authors": [
-        "Paul Johnson",
-        "Jia Jian Tin"
-    ],
-    "campaign": null,
-    "code": null,
-    "date_created": "20181221",
-    "full_title": "CCC - ELF - 001 Life's a Party",
-    "hours": 4,
-    "level_range": null,
-    "product_id": "CCC---ELF---001-Lifes-a-Party",
-    "tiers": null,
-    "title": "CCC - ELF - 001 Life's a Party",
-    "url": "https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party?filters=45470_0_0_0_0_0_0_0"
+  "apl": null,
+  "authors": [
+    "Paul Johnson",
+    "Jia Jian Tin"
+  ],
+  "campaign": "Forgotten Realms",
+  "code": "CCC-ELF-001",
+  "date_created": "20181221",
+  "full_title": "CCC - ELF - 001 Life's a Party",
+  "hours": 4,
+  "level_range": null,
+  "product_id": null,
+  "tiers": null,
+  "title": "CCC - ELF - 001 Life's a Party",
+  "url": "https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party?filters=45470_0_0_0_0_0_0_0"
 }
