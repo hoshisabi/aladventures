@@ -731,25 +731,6 @@
         "apl": null,
         "authors": [
             "Brian Balagot",
-            "Triden Games",
-            "Jeffrey Lovins",
-            "Rob Twohy"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "SJ-DC-TRIDEN-MW",
-        "date_created": "20221107",
-        "full_title": "Mighty Wings (SJ-DC-TRIDEN-MW) - Fantasy Grounds",
-        "hours": 4,
-        "level_range": "1-4",
-        "product_id": "Mighty-Wings-SJ-DC-TRIDEN-MW---Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Mighty Wings  - Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/416003/Mighty-Wings-SJDCTRIDENMW--Fantasy-Grounds?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Brian Balagot",
             "Triden Games"
         ],
         "campaign": "Forgotten Realms",
@@ -4729,22 +4710,6 @@
         "tiers": 1,
         "title": "The Horror in Darkfall",
         "url": "https://www.dmsguild.com/product/423827/The-Horror-in-Darkfall-SJDCTHIDMB04?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 8,
-        "authors": [
-            "Belinda Baldwin"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "SJ-DC-BEB-01",
-        "date_created": "20230503",
-        "full_title": "The Hunger (SJ-DC-BEB-01) (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "The-Hunger-SJ-DC-BEB-01-Fantasy-Grounds",
-        "tiers": 2,
-        "title": "The Hunger  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/436352/The-Hunger-SJDCBEB01-Fantasy-Grounds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,

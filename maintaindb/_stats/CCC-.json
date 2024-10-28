@@ -1,5 +1,22 @@
 [
     {
+        "apl": 3,
+        "authors": [
+            "Sean Payne",
+            "MOGC"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ALMOG-24",
+        "date_created": "20191122",
+        "full_title": "A Glow in the Galenas",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": null,
+        "tiers": 1,
+        "title": "A Glow in the Galenas",
+        "url": "https://www.dmsguild.com/product/284788/A-Glow-in-the-Galenas?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 8,
         "authors": [
             "Chelsea Steverson",
@@ -75,28 +92,28 @@
         "campaign": "Forgotten Realms",
         "code": "CCC-BWM-002",
         "date_created": "20181002",
-        "full_title": "CCC - BWM - 002 The City in the Depths",
+        "full_title": "CCC-BWM-002 The City in the Depths",
         "hours": 4,
         "level_range": "5",
         "product_id": null,
         "tiers": null,
-        "title": "CCC - BWM - 002 The City in the Depths",
+        "title": "CCC-BWM-002 The City in the Depths",
         "url": "https://www.dmsguild.com/product/253855/CCC--BWM--002-The-City-in-the-Depths?filters=45470_0_0_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 13,
         "authors": [
             "Jia Jian Tin"
         ],
         "campaign": "Forgotten Realms",
         "code": "CCC-BWM-003",
         "date_created": "20180929",
-        "full_title": "CCC - BWM - 003 A Tale of Two Towers",
+        "full_title": "CCC-BWM-003 A Tale of Two Towers",
         "hours": 4,
-        "level_range": "11",
+        "level_range": "11-16",
         "product_id": null,
-        "tiers": null,
-        "title": "CCC - BWM - 003 A Tale of Two Towers",
+        "tiers": 3,
+        "title": "CCC-BWM-003 A Tale of Two Towers",
         "url": "https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers?filters=45470_0_0_0_0_0_0_0"
     },
     {
@@ -3976,22 +3993,6 @@
         "tiers": null,
         "title": "CCC-GARY01 A Night to Remember",
         "url": "https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Brad Bound"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "CCC-GARY01-03-",
-        "date_created": "20170414",
-        "full_title": "CCC-GARY01-03: Map and Illustration Pack",
-        "hours": null,
-        "level_range": "0",
-        "product_id": "CCC-GARY01-03--Map-and-Illustration-Pack",
-        "tiers": null,
-        "title": "CCC-GARY01-03 Map and Illustration Pack",
-        "url": "https://www.dmsguild.com/product/209695/CCCGARY0103-Map-and-Illustration-Pack"
     },
     {
         "apl": null,
@@ -9341,6 +9342,23 @@
         "url": "https://www.dmsguild.com/product/303290/House-of-Webs-CCCMTL03?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Remley Farr",
+            "MOGC"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "CCC-ALMOG-26",
+        "date_created": "20190814",
+        "full_title": "Shadowed Bellview",
+        "hours": 2,
+        "level_range": "1-4",
+        "product_id": null,
+        "tiers": 1,
+        "title": "Shadowed Bellview",
+        "url": "https://www.dmsguild.com/product/284824/Shadowed-Bellview?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Andrew Bishkinskyi"
@@ -9364,12 +9382,12 @@
         "campaign": "Forgotten Realms",
         "code": "CCC-6SWORDS-01",
         "date_created": "20200720",
-        "full_title": "Six Swords Out of Hell",
+        "full_title": "CCC-6SWORDS-01 Six Swords Out of Hell",
         "hours": 8,
         "level_range": "1",
         "product_id": null,
         "tiers": null,
-        "title": "Six Swords Out of Hell",
+        "title": "CCC-6SWORDS-01 Six Swords Out of Hell",
         "url": "https://www.dmsguild.com/product/313874/Six-Swords-Out-of-Hell?filters=45470_0_0_0_0_0_0_0"
     },
     {

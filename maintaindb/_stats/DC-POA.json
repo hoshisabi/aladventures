@@ -212,26 +212,6 @@
     {
         "apl": 3,
         "authors": [
-            "Grim Press",
-            "Darryl Ho",
-            "Jason Koh",
-            "Ross Nyhan",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-CODEX-01",
-        "date_created": "20211210",
-        "full_title": "DC-POA-CODEX-01 Bear the Lode (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-CODEX-01-Bear-the-Lode-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "DC-POA-CODEX-01 Bear the Lode Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/380327/DCPOACODEX01-Bear-the-Lode-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
             "Darryl Ho",
             "Jason Koh"
         ],
@@ -249,26 +229,6 @@
     {
         "apl": 3,
         "authors": [
-            "Grim Press",
-            "Darryl Ho",
-            "Jason Koh",
-            "Ross Nyhan",
-            "Trevor Armstrong"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-CODEX-02",
-        "date_created": "20220114",
-        "full_title": "DC-POA-CODEX-02 Bear in Mind (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-CODEX-02-Bear-in-Mind-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "DC-POA-CODEX-02 Bear in Mind Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/383546/DCPOACODEX02-Bear-in-Mind-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
             "Darryl Ho",
             "Jason Koh"
         ],
@@ -282,26 +242,6 @@
         "tiers": 1,
         "title": "DC-POA-CODEX-02 Bear in Mind",
         "url": "https://www.dmsguild.com/product/359195/DCPOACODEX02-Bear-in-Mind?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 8,
-        "authors": [
-            "Grim Press",
-            "Darryl Ho",
-            "Jason Koh",
-            "Ross Nyhan",
-            "MarshViper"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-CODEX-03",
-        "date_created": "20220126",
-        "full_title": "DC-POA-CODEX-03 Bring to Bear (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-CODEX-03-Bring-to-Bear-Fantasy-Grounds",
-        "tiers": 2,
-        "title": "DC-POA-CODEX-03 Bring to Bear Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/384750/DCPOACODEX03-Bring-to-Bear-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -1602,25 +1542,6 @@
     {
         "apl": null,
         "authors": [
-            "Grim Press",
-            "Kerry Jordan",
-            "Eduardo Felipe",
-            "Trevor Armstrong"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-KJ2108",
-        "date_created": "20211014",
-        "full_title": "DC-PoA-KJ2108 The Needs of the Many (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-PoA-KJ2108-The-Needs-of-the-Many-Fantasy-Grounds",
-        "tiers": null,
-        "title": "DC-PoA-KJ2108 The Needs of the Many Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/374054/DCPoAKJ2108-The-Needs-of-the-Many-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Kerry Jordan"
         ],
         "campaign": "Forgotten Realms",
@@ -2493,22 +2414,6 @@
         ],
         "campaign": "Forgotten Realms",
         "code": "DC-POA-Z-T1S1",
-        "date_created": "20211009",
-        "full_title": "DC-POA-Z-T1S1 Auril's Worship - Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-Z-T1S1-Aurils-Worship---Fantasy-Grounds",
-        "tiers": 1,
-        "title": "DC-POA-Z-T1S1 Auril's Worship - Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/373593/DCPOAZT1S1-Aurils-Worship--Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 2,
-        "authors": [
-            "Zardak123"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-Z-T1S1",
         "date_created": "20210827",
         "full_title": "DC-POA-Z-T1S1 Auril's Worship",
         "hours": 4,
@@ -2517,22 +2422,6 @@
         "tiers": 1,
         "title": "DC-POA-Z-T1S1 Auril's Worship",
         "url": "https://www.dmsguild.com/product/369057/DCPOAZT1S1-Aurils-Worship?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Zardak123"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-Z-T1S3",
-        "date_created": "20211016",
-        "full_title": "DC-POA-Z-T1S3 Oh Brother Where Art Thou? - Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-Z-T1S3-Oh-Brother-Where-Art-Thou---Fantasy-Grounds",
-        "tiers": 1,
-        "title": "DC-POA-Z-T1S3 Oh Brother Where Art Thou? - Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/374219/DCPOAZT1S3-Oh-Brother-Where-Art-Thou--Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -2557,22 +2446,6 @@
         ],
         "campaign": "Forgotten Realms",
         "code": "DC-POA-Z-T2S1",
-        "date_created": "20211023",
-        "full_title": "DC-POA-Z-T2S1 You Have a Friend in Me - Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-Z-T2S1-You-Have-a-Friend-in-Me---Fantasy-Grounds",
-        "tiers": 2,
-        "title": "DC-POA-Z-T2S1 You Have a Friend in Me - Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/375026/DCPOAZT2S1-You-Have-a-Friend-in-Me--Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 7,
-        "authors": [
-            "Zardak123"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-Z-T2S1",
         "date_created": "20210829",
         "full_title": "DC-POA-Z-T2S1 You Have a Friend in Me",
         "hours": 4,
@@ -2581,22 +2454,6 @@
         "tiers": 2,
         "title": "DC-POA-Z-T2S1 You Have a Friend in Me",
         "url": "https://www.dmsguild.com/product/369244/DCPOAZT2S1-You-Have-a-Friend-in-Me?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 7,
-        "authors": [
-            "Zardak123"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "DC-POA-Z-T2S2",
-        "date_created": "20211028",
-        "full_title": "DC-POA-Z-T2S2 Iggy\u2019s Folly - Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "DC-POA-Z-T2S2-Iggys-Folly---Fantasy-Grounds",
-        "tiers": 2,
-        "title": "DC-POA-Z-T2S2 Iggy\u2019s Folly - Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/375616/DCPOAZT2S2-Iggys-Folly--Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 7,

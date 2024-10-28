@@ -308,25 +308,6 @@
     {
         "apl": null,
         "authors": [
-            "Grim Press",
-            "Paul Gabat",
-            "Shannara",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-03",
-        "date_created": "20211107",
-        "full_title": "I Find That Familiar (WBW-DC-FDC-03) (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": "1-4",
-        "product_id": "I-Find-That-Familiar-WBW-DC-FDC-03-Fantasy-Grounds",
-        "tiers": null,
-        "title": "I Find That Familiar  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/376701/I-Find-That-Familiar-WBWDCFDC03-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Paul Gabat"
         ],
         "campaign": "Forgotten Realms",
@@ -788,24 +769,6 @@
         "tiers": 1,
         "title": "The Last Resort",
         "url": "https://www.dmsguild.com/product/382720/The-Last-Resort-WBWDCTLRMB02?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Grim Press",
-            "Anthony Joyce-Rivera",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-04",
-        "date_created": "20211125",
-        "full_title": "The Monster of Wonderia (WBW-DC-FDC-04) (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": "1-4",
-        "product_id": "The-Monster-of-Wonderia-WBW-DC-FDC-04-Fantasy-Grounds",
-        "tiers": null,
-        "title": "The Monster of Wonderia  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/378434/The-Monster-of-Wonderia-WBWDCFDC04-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -1544,25 +1507,6 @@
     {
         "apl": 8,
         "authors": [
-            "Grim Press",
-            "Shu Qing Tan",
-            "Ross Nyhan",
-            "Shannara"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-CONMAR-06",
-        "date_created": "20220401",
-        "full_title": "WBW-DC-CONMAR-06 Two Hearts Apart (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-CONMAR-06-Two-Hearts-Apart-Fantasy-Grounds",
-        "tiers": 2,
-        "title": "Two Hearts Apart Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/392094/WBWDCCONMAR06-Two-Hearts-Apart-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 8,
-        "authors": [
             "Shu Qing Tan"
         ],
         "campaign": "Forgotten Realms",
@@ -2014,24 +1958,6 @@
     {
         "apl": 3,
         "authors": [
-            "Grim Press",
-            "Emily Harmon",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-05",
-        "date_created": "20211229",
-        "full_title": "WBW-DC-FDC-05 Crumbling Castles & Candy Clouds (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": "1-4",
-        "product_id": "WBW-DC-FDC-05-Crumbling-Castles--Candy-Clouds-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Crumbling Castles & Candy Clouds Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/382077/WBWDCFDC05-Crumbling-Castles--Candy-Clouds-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
             "Emily Harmon"
         ],
         "campaign": "Forgotten Realms",
@@ -2044,25 +1970,6 @@
         "tiers": 1,
         "title": "Crumbling Castles & Candy Clouds",
         "url": "https://www.dmsguild.com/product/371098/WBWDCFDC05-Crumbling-Castles--Candy-Clouds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Grim Press",
-            "Jacky Leung",
-            "Ross Nyhan",
-            "Joanna DeLaune"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FDC-08",
-        "date_created": "20211124",
-        "full_title": "WBW-DC-FDC-08 The Great Toy Escape (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-FDC-08-The-Great-Toy-Escape-Fantasy-Grounds",
-        "tiers": null,
-        "title": "The Great Toy Escape Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/378332/WBWDCFDC08-The-Great-Toy-Escape-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -2083,26 +1990,6 @@
     {
         "apl": 3,
         "authors": [
-            "Grim Press",
-            "Ethan Stanhope",
-            "Te\u00e4n Stanhope",
-            "Leprekorn",
-            "Thomas Carpenter"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FEN-01",
-        "date_created": "20220722",
-        "full_title": "WBW-DC-FEN-01 Tiddy Mun and the Stranger Stone (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "WBW-DC-FEN-01-Tiddy-Mun-and-the-Stranger-Stone-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Tiddy Mun and the Stranger Stone Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/403805/WBWDCFEN01-Tiddy-Mun-and-the-Stranger-Stone-Fantasy-Grounds?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
             "Ethan Stanhope",
             "Te\u00e4n Stanhope"
         ],
@@ -2116,27 +2003,6 @@
         "tiers": 1,
         "title": "Tiddy Mun and the Stranger Stone",
         "url": "https://www.dmsguild.com/product/397975/WBWDCFEN01-Tiddy-Mun-and-the-Stranger-Stone?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Grim Press",
-            "Ethan Stanhope",
-            "Te\u00e4n Stanhope",
-            "James Twigg",
-            "Leprekorn",
-            "Matt Hornsby"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FEN-02",
-        "date_created": "20220726",
-        "full_title": "WBW-DC-FEN-02 Tiddy Mun and the Burrow of Bandits (Fantasy Grounds)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-FEN-02-Tiddy-Mun-and-the-Burrow-of-Bandits-Fantasy-Grounds",
-        "tiers": null,
-        "title": "Tiddy Mun and the Burrow of Bandits Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/404246/WBWDCFEN02-Tiddy-Mun-and-the-Burrow-of-Bandits-Fantasy-Grounds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -2155,27 +2021,6 @@
         "tiers": 1,
         "title": "Tiddy Mun and the Burrow of Bandits",
         "url": "https://www.dmsguild.com/product/403080/WBWDCFEN02-Tiddy-Mun-and-the-Burrow-of-Bandits?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Grim Press",
-            "Ethan Stanhope",
-            "Te\u00e4n Stanhope",
-            "James Twigg",
-            "John McConnell",
-            "Trevor Armstrong"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-FEN-03",
-        "date_created": "20230115",
-        "full_title": "WBW-DC-FEN-03 Tiddy Mun and the Legends of Fennebog (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "WBW-DC-FEN-03-Tiddy-Mun-and-the-Legends-of-Fennebog-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Tiddy Mun and the Legends of Fennebog Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/423454/WBWDCFEN03-Tiddy-Mun-and-the-Legends-of-Fennebog-Fantasy-Grounds?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -2786,22 +2631,6 @@
         ],
         "campaign": "Forgotten Realms",
         "code": "WBW-DC-MOR-01",
-        "date_created": "20230416",
-        "full_title": "WBW-DC-MOR-01 A Blight in Mordynia for Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-MOR-01-A-Blight-in-Mordynia-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "A Blight in Mordynia for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/434165/WBWDCMOR01-A-Blight-in-Mordynia-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-MOR-01",
         "date_created": "20220829",
         "full_title": "WBW-DC-MOR-01 A Blight in Mordynia",
         "hours": 4,
@@ -2810,22 +2639,6 @@
         "tiers": 1,
         "title": "A Blight in Mordynia",
         "url": "https://www.dmsguild.com/product/408231/WBWDCMOR01-A-Blight-in-Mordynia?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 4,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-MOR-02",
-        "date_created": "20230416",
-        "full_title": "WBW-DC-MOR-02 Dark Miasma of the Mausoleum for Fantasy Grounds",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "WBW-DC-MOR-02-Dark-Miasma-of-the-Mausoleum-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Dark Miasma of the Mausoleum for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/434170/WBWDCMOR02-Dark-Miasma-of-the-Mausoleum-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 4,
@@ -3664,22 +3477,6 @@
         "tiers": 2,
         "title": "Court of the Owl King",
         "url": "https://www.dmsguild.com/product/408560/WBWDCVMT02-Court-of-the-Owl-King?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Zardak123"
-        ],
-        "campaign": "Forgotten Realms",
-        "code": "WBW-DC-ZEP-T1S1",
-        "date_created": "20211224",
-        "full_title": "WBW-DC-ZEP-T1S1 Dragon-bard's Christmas Carol - FANTASY GROUNDS",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "WBW-DC-ZEP-T1S1-Dragon-bards-Christmas-Carol---FANTASY-GROUNDS",
-        "tiers": 1,
-        "title": "Dragon-bard's Christmas Carol - FANTASY GROUNDS",
-        "url": "https://www.dmsguild.com/product/381765/WBWDCZEPT1S1-Dragonbards-Christmas-Carol--FANTASY-GROUNDS?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": null,

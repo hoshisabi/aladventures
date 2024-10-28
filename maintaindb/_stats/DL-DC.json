@@ -88,22 +88,6 @@
         ],
         "campaign": "Dragonlance",
         "code": "DL-DC-SDCC-01",
-        "date_created": "20230726",
-        "full_title": "Greenshield (DL-DC-SDCC-01) (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "Greenshield-DL-DC-SDCC-01-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Greenshield  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/447146/Greenshield-DLDCSDCC01-Fantasy-Grounds?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 2,
-        "authors": [
-            "Belinda Baldwin"
-        ],
-        "campaign": "Dragonlance",
-        "code": "DL-DC-SDCC-01",
         "date_created": "20230717",
         "full_title": "Greenshield (DL-DC-SDCC-01)",
         "hours": 2,
@@ -112,22 +96,6 @@
         "tiers": 1,
         "title": "Greenshield",
         "url": "https://www.dmsguild.com/product/445922/Greenshield-DLDCSDCC01?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 2,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Dragonlance",
-        "code": "DL-DC-SDCC-03",
-        "date_created": "20230726",
-        "full_title": "Knight Fall (DL-DC-SDCC-03) for Fantasy Grounds",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "Knight-Fall-DL-DC-SDCC-03-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "Knight Fall  for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/447231/Knight-Fall-DLDCSDCC03-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 2,
@@ -152,22 +120,6 @@
         ],
         "campaign": "Dragonlance",
         "code": "DL-DC-SDCC-02",
-        "date_created": "20230726",
-        "full_title": "The Dog Days of Solamnia (DL-DC-SDCC-02) (Fantasy Grounds)",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "The-Dog-Days-of-Solamnia-DL-DC-SDCC-02-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "The Dog Days of Solamnia  Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/447150/The-Dog-Days-of-Solamnia-DLDCSDCC02-Fantasy-Grounds?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 2,
-        "authors": [
-            "Belinda Baldwin"
-        ],
-        "campaign": "Dragonlance",
-        "code": "DL-DC-SDCC-02",
         "date_created": "20230717",
         "full_title": "The Dog Days of Solamnia (DL-DC-SDCC-02)",
         "hours": 2,
@@ -176,22 +128,6 @@
         "tiers": 1,
         "title": "The Dog Days of Solamnia",
         "url": "https://www.dmsguild.com/product/445925/The-Dog-Days-of-Solamnia-DLDCSDCC02?filters=45470_0_0_0_0_0"
-    },
-    {
-        "apl": 2,
-        "authors": [
-            "JD McComb"
-        ],
-        "campaign": "Dragonlance",
-        "code": "DL-DC-SDCC-04",
-        "date_created": "20230726",
-        "full_title": "The Inn of Forgotten Melodies (DL-DC-SDCC-04) for Fantasy Grounds",
-        "hours": 2,
-        "level_range": null,
-        "product_id": "The-Inn-of-Forgotten-Melodies-DL-DC-SDCC-04-for-Fantasy-Grounds",
-        "tiers": 1,
-        "title": "The Inn of Forgotten Melodies  for Fantasy Grounds",
-        "url": "https://www.dmsguild.com/product/447232/The-Inn-of-Forgotten-Melodies-DLDCSDCC04-for-Fantasy-Grounds?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 2,

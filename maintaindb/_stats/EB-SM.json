@@ -1,5 +1,101 @@
 [
     {
+        "apl": null,
+        "authors": [
+            "Bum Lee"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-CRIMSON",
+        "date_created": "20201224",
+        "full_title": "A Crimson Carol",
+        "hours": null,
+        "level_range": "1",
+        "product_id": null,
+        "tiers": 3,
+        "title": "A Crimson Carol",
+        "url": "https://www.dmsguild.com/product/341110/A-Crimson-Carol?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 7,
+        "authors": [
+            "Bruce Wood"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-WHISPER",
+        "date_created": "20200511",
+        "full_title": "A Whisper In Your Mind",
+        "hours": 4,
+        "level_range": null,
+        "product_id": null,
+        "tiers": 2,
+        "title": "A Whisper In Your Mind",
+        "url": "https://www.dmsguild.com/product/313252/A-Whisper-In-Your-Mind?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 4,
+        "authors": [
+            "Nathan Bond"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-ARENA",
+        "date_created": "20200612",
+        "full_title": "Arena Troubles",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Arena-Troubles",
+        "tiers": 1,
+        "title": "Arena Troubles",
+        "url": "https://www.dmsguild.com/product/317299/Arena-Troubles?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Christopher Bagg"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-CHROME",
+        "date_created": "20210608",
+        "full_title": "Chrome On The Range",
+        "hours": 4,
+        "level_range": "11-16",
+        "product_id": "Chrome-On-The-Range",
+        "tiers": 3,
+        "title": "Chrome On The Range",
+        "url": "https://www.dmsguild.com/product/360228/Chrome-On-The-Range"
+    },
+    {
+        "apl": 6,
+        "authors": [
+            "Christopher Bagg"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-VINE",
+        "date_created": "20211206",
+        "full_title": "Deep Space Vine",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": "Deep-Space-Vine",
+        "tiers": 2,
+        "title": "Deep Space Vine",
+        "url": "https://www.dmsguild.com/product/379308/Deep-Space-Vine"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Celeste Conowitch"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-DINO",
+        "date_created": "20200827",
+        "full_title": "Dino World",
+        "hours": 3,
+        "level_range": "5-10",
+        "product_id": "Dino-World",
+        "tiers": 2,
+        "title": "Dino World",
+        "url": "https://www.dmsguild.com/product/326052/Dino-World"
+    },
+    {
         "apl": 3,
         "authors": [
             "Fynn Headen"
@@ -14,6 +110,90 @@
         "tiers": 1,
         "title": "Dreams of Salvation A 4 hour Tier 1 Salvage Mission",
         "url": "https://www.dmsguild.com/product/311419/Dreams-of-Salvation-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 20,
+        "authors": [
+            "Integral Game Conglomerate LLC"
+        ],
+        "campaign": null,
+        "code": "EB-SM-RSM-T4.4",
+        "date_created": "20230131",
+        "full_title": "EB-SALVAGE-RSM-T4.4 Daughter of Khyber",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "EB-SALVAGE-RSM-T44-Daughter-of-Khyber",
+        "tiers": 4,
+        "title": "EB-SALVAGE-RSM-T4.4 Daughter of Khyber",
+        "url": "https://www.dmsguild.com/product/425292/EBSALVAGERSMT44-Daughter-of-Khyber?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 10,
+        "authors": [
+            "Jon Christian",
+            "Zac Goins",
+            "Troy Sandlin"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
+        "code": "EB-SM-METALLUS",
+        "date_created": "20230314",
+        "full_title": "Eberron: The Ruin of Grave Metallus",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": "Eberron--The-Ruin-of-Grave-Metallus",
+        "tiers": 2,
+        "title": "Eberron The Ruin of Grave Metallus",
+        "url": "https://www.dmsguild.com/product/430378/Eberron-The-Ruin-of-Grave-Metallus"
+    },
+    {
+        "apl": 4,
+        "authors": [
+            "Nathan Bond"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-TOWER",
+        "date_created": "20200515",
+        "full_title": "Estranged Tower",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Estranged-Tower",
+        "tiers": 1,
+        "title": "Estranged Tower",
+        "url": "https://www.dmsguild.com/product/313869/Estranged-Tower?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Nathan Bond"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-HOME",
+        "date_created": "20200416",
+        "full_title": "Finding a Home",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Finding-a-Home",
+        "tiers": 1,
+        "title": "Finding a Home",
+        "url": "https://www.dmsguild.com/product/310224/Finding-a-Home?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Gregory Hallenbeck"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-GHOST",
+        "date_created": "20200318",
+        "full_title": "Ghost Town",
+        "hours": 4,
+        "level_range": null,
+        "product_id": null,
+        "tiers": 2,
+        "title": "Ghost Town",
+        "url": "https://www.dmsguild.com/product/306912/Ghost-Town?filters=1000043_0_0_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -32,6 +212,22 @@
         "tiers": 1,
         "title": "Gulgo-13 | An Eberron Salvage Mission for Oracle of War",
         "url": "https://www.dmsguild.com/product/308079/Gulgo13--An-Eberron-Salvage-Mission-for-Oracle-of-War"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Scott Moore"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-HAPPY",
+        "date_created": "20210305",
+        "full_title": "Happy-Go-Lucky",
+        "hours": null,
+        "level_range": "1",
+        "product_id": null,
+        "tiers": 3,
+        "title": "Happy-Go-Lucky",
+        "url": "https://www.dmsguild.com/product/349212/HappyGoLucky?filters=1000043_0_0_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -86,6 +282,38 @@
         "url": "https://www.dmsguild.com/product/334451/Last-Stand-at-Copper-Canyon?filters=1000043_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-MURDER",
+        "date_created": "20200418",
+        "full_title": "Murder in Salvation: A 3 hour Tier 1 Salvage Mission",
+        "hours": 3,
+        "level_range": "1-4",
+        "product_id": "Murder-in-Salvation--A-3-hour-Tier-1-Salvage-Mission",
+        "tiers": 1,
+        "title": "Murder in Salvation A 3 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/310332/Murder-in-Salvation-A-3-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Fynn Headen"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-NIGHTMARES",
+        "date_created": "20200430",
+        "full_title": "Nightmares of Salvation: A 4 hour Tier 1 Salvage Mission",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Nightmares-of-Salvation--A-4-hour-Tier-1-Salvage-Mission",
+        "tiers": 1,
+        "title": "Nightmares of Salvation A 4 hour Tier 1 Salvage Mission",
+        "url": "https://www.dmsguild.com/product/311714/Nightmares-of-Salvation-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
         "apl": 18,
         "authors": [
             "Nicholas Reed"
@@ -129,6 +357,24 @@
         "campaign": [
             "Eberron"
         ],
+        "code": "EB-SM-SAVING",
+        "date_created": "20200430",
+        "full_title": "Saving Salvation: Eberron Salvage Mission Trilogy",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Saving-Salvation--Eberron-Salvage-Mission-Trilogy",
+        "tiers": null,
+        "title": "Saving Salvation Eberron Salvage Mission Trilogy",
+        "url": "https://www.dmsguild.com/product/311891/Saving-Salvation-Eberron-Salvage-Mission-Trilogy?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Bum Lee"
+        ],
+        "campaign": [
+            "Eberron"
+        ],
         "code": "EB-SM-SEASIDE",
         "date_created": "20210308",
         "full_title": "Seaside Salvage: Eberron Salvage Mission Anthology",
@@ -158,6 +404,22 @@
         "url": "https://www.dmsguild.com/product/309600/Snail-Tale-A-4-hour-Tier-1-Salvage-Mission?filters=1000043_0_0_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Nathan Bond"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-SURPRISE",
+        "date_created": "20200427",
+        "full_title": "Surprise Visitor",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Surprise-Visitor",
+        "tiers": 1,
+        "title": "Surprise Visitor",
+        "url": "https://www.dmsguild.com/product/311326/Surprise-Visitor?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "M.T. Black"
@@ -174,6 +436,22 @@
         "tiers": 1,
         "title": "The Cannith Schematica",
         "url": "https://www.dmsguild.com/product/310611/The-Cannith-Schematica?filters=1000043_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Tan Lou Ee"
+        ],
+        "campaign": "Eberron",
+        "code": "EB-SM-CURIOUS",
+        "date_created": "20210429",
+        "full_title": "The Curious Incident of the Dog in the Night Land",
+        "hours": 3,
+        "level_range": "3",
+        "product_id": null,
+        "tiers": 2,
+        "title": "The Curious Incident of the Dog in the Night Land",
+        "url": "https://www.dmsguild.com/product/355475/The-Curious-Incident-of-the-Dog-in-the-Night-Land?filters=1000043_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
