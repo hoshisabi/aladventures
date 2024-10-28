@@ -1,16 +1,16 @@
 {
-  "apl": null,
+  "apl": 13,
   "authors": [
     "Jia Jian Tin"
   ],
   "campaign": "Forgotten Realms",
   "code": "CCC-BWM-003",
   "date_created": "20180929",
-  "full_title": "CCC - BWM - 003 A Tale of Two Towers",
+  "full_title": "CCC-BWM-003 A Tale of Two Towers",
   "hours": 4,
-  "level_range": "11",
+  "level_range": "11-16",
   "product_id": null,
-  "tiers": null,
-  "title": "CCC - BWM - 003 A Tale of Two Towers",
+  "tiers": 3,
+  "title": "CCC-BWM-003 A Tale of Two Towers",
   "url": "https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers?filters=45470_0_0_0_0_0_0_0"
 }
