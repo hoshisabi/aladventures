@@ -770,9 +770,9 @@
         "campaign": "Forgotten Realms",
         "code": "FR-DC-PANDORA-JWEI-09",
         "date_created": "20240325",
-        "full_title": "FR-DC-PANDORA-JWEI-09, Echthra",
-        "hours": null,
-        "level_range": null,
+        "full_title": "FR-DC-PANDORA-JWEI-09 Echthra",
+        "hours": 4,
+        "level_range": "11-16",
         "product_id": "FR-DC-PANDORA-JWEI-09-Echthra",
         "tiers": 3,
         "title": "Echthra",
@@ -1061,6 +1061,54 @@
         "tiers": 1,
         "title": "To Be an Apprentice",
         "url": "https://www.dmsguild.com/product/492266/FRDCUNITESHADOW01-To-Be-an-Apprentice?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Mike Olson"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-WCAG-01",
+        "date_created": "20241029",
+        "full_title": "FR-DC-WCAG-01 Black Water & Blue Wine",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "FR-DC-WCAG-01-Black-Water--Blue-Wine",
+        "tiers": 1,
+        "title": "Black Water & Blue Wine",
+        "url": "https://www.dmsguild.com/product/500389/FRDCWCAG01-Black-Water--Blue-Wine?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Nguyen Le"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-WCAG-02",
+        "date_created": "20241029",
+        "full_title": "FR-DC-WCAG-02 Neverwinter Days & Lunar Nights",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "FR-DC-WCAG-02-Neverwinter-Days--Lunar-Nights",
+        "tiers": 1,
+        "title": "Neverwinter Days & Lunar Nights",
+        "url": "https://www.dmsguild.com/product/500390/FRDCWCAG02-Neverwinter-Days--Lunar-Nights?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Jay Africa"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-WCAG-03",
+        "date_created": "20241029",
+        "full_title": "FR-DC-WCAG-03 Crashing Waves & Crushing Depths",
+        "hours": 2,
+        "level_range": "0",
+        "product_id": "FR-DC-WCAG-03-Crashing-Waves--Crushing-Depths",
+        "tiers": 1,
+        "title": "Crashing Waves & Crushing Depths",
+        "url": "https://www.dmsguild.com/product/500392/FRDCWCAG03-Crashing-Waves--Crushing-Depths?filters=45470_0_0_0_0_0"
     },
     {
         "apl": null,

@@ -115,7 +115,7 @@ def summarize(data, dc_season):
 input_season = 'FR-DC'
 
 if __name__ == '__main__':
-    if (len(sys.argv) > 1):
+    if len(sys.argv) > 1:
         input_season = sys.argv[1]
 
     print(f"Printing stats for {input_season} season.")
