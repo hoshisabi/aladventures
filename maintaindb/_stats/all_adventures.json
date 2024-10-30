@@ -357,22 +357,6 @@
         "url": "https://www.dmsguild.com/product/441969/Assault-on-Hudson-123-SJDCMB05AH123?filters=45470_0_0_0_0_0"
     },
     {
-        "apl": null,
-        "authors": [
-            "Greg Marks"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160602",
-        "full_title": "Aurora's Whole Realms Catalogue, vol 1",
-        "hours": null,
-        "level_range": "20",
-        "product_id": "Auroras-Whole-Realms-Catalogue-vol-1",
-        "tiers": null,
-        "title": "Aurora's Whole Realms Catalogue, vol 1",
-        "url": "https://www.dmsguild.com/product/184597/Auroras-Whole-Realms-Catalogue-vol-1"
-    },
-    {
         "apl": 3,
         "authors": [
             "Tim Tan"
@@ -404,40 +388,6 @@
         "tiers": 1,
         "title": "Bad Omen",
         "url": "https://www.dmsguild.com/product/451742/Bad-Omen-SJDCBAD01?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Tosh Le",
-            "Jeremy Forbing"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20200225",
-        "full_title": "Balancing Encounters: Descent into Avernus",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Balancing-Encounters--Descent-into-Avernus",
-        "tiers": null,
-        "title": "Balancing Encounters Descent into Avernus",
-        "url": "https://www.dmsguild.com/product/304550/Balancing-Encounters-Descent-into-Avernus"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Tosh Le",
-            "Jeremy Forbing"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20190406",
-        "full_title": "Balancing Encounters: Waterdeep Dragon Heist",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Balancing-Encounters--Waterdeep-Dragon-Heist",
-        "tiers": null,
-        "title": "Balancing Encounters Waterdeep Dragon Heist",
-        "url": "https://www.dmsguild.com/product/272227/Balancing-Encounters-Waterdeep-Dragon-Heist"
     },
     {
         "apl": null,
@@ -10379,22 +10329,6 @@
         "url": "https://www.dmsguild.com/product/241750/Chultan-Death-Curse-Revised"
     },
     {
-        "apl": null,
-        "authors": [
-            "D&D Adventurers League"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20170108",
-        "full_title": "City Guide: Mulmaster",
-        "hours": null,
-        "level_range": "0",
-        "product_id": "City-Guide--Mulmaster",
-        "tiers": null,
-        "title": "City Guide Mulmaster",
-        "url": "https://www.dmsguild.com/product/202483/City-Guide-Mulmaster?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
         "apl": 8,
         "authors": [
             "Jeremy Cheong"
@@ -13061,58 +12995,6 @@
         "tiers": null,
         "title": "DC-PoA-ZF01 Undisclosed Ordeals",
         "url": "https://www.dmsguild.com/product/345714/DCPoAZF01-Undisclosed-Ordeals?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Jay Africa"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20240922",
-        "full_title": "D&D 2024 Backgrounds & Ability Scores Reference Sheet",
-        "hours": null,
-        "level_range": "202",
-        "product_id": "DD-2024-Backgrounds--Ability-Scores-Reference-Sheet",
-        "tiers": null,
-        "title": "D&D 2024 Backgrounds & Ability Scores Reference Sheet",
-        "url": "https://www.dmsguild.com/product/496165/DD-2024-Backgrounds--Ability-Scores-Reference-Sheet"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Craig Smith"
-        ],
-        "campaign": [
-            "Eberron"
-        ],
-        "code": "EBERRON",
-        "date_created": "20200511",
-        "full_title": "D&D 5E Eberron Base Log (editable/fillable PDF, printer friendly)",
-        "hours": null,
-        "level_range": null,
-        "product_id": "DD-5E-Eberron-Base-Log-editablefillable-PDF-printer-friendly",
-        "tiers": null,
-        "title": "D&D 5E Eberron Base Log editable/fillable PDF, printer friendly",
-        "url": "https://www.dmsguild.com/product/313291/DD-5E-Eberron-Base-Log-editable-fillable-PDF-printer-friendly?filters=1000043_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Craig Smith"
-        ],
-        "campaign": [
-            "Eberron"
-        ],
-        "code": "EBERRON",
-        "date_created": "20200511",
-        "full_title": "D&D 5E Eberron Salvage Mission Log (editable/fillable PDF, printer friendly)",
-        "hours": null,
-        "level_range": null,
-        "product_id": "DD-5E-Eberron-Salvage-Mission-Log-editablefillable-PDF-printer-friendly",
-        "tiers": null,
-        "title": "D&D 5E Eberron Salvage Mission Log editable/fillable PDF, printer friendly",
-        "url": "https://www.dmsguild.com/product/313293/DD-5E-Eberron-Salvage-Mission-Log-editable-fillable-PDF-printer-friendly?filters=1000043_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -16361,60 +16243,6 @@
     {
         "apl": null,
         "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-06",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-06 Fester and Burn",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-06-Fester-and-Burn",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-06 Fester and Burn",
-        "url": "https://www.dmsguild.com/product/228228/Deluxe-Digital-Map-Pack-DDAL0706-Fester-and-Burn?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-07",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-07 Rotting Roots",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-07-Rotting-Roots",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-07 Rotting Roots",
-        "url": "https://www.dmsguild.com/product/228230/Deluxe-Digital-Map-Pack-DDAL0707-Rotting-Roots?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-08",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-08 Putting the Dead to Rest",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-08-Putting-the-Dead-to-Rest",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-08 Putting the Dead to Rest",
-        "url": "https://www.dmsguild.com/product/228231/Deluxe-Digital-Map-Pack-DDAL0708-Putting-the-Dead-to-Rest?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Barefoot Tour Guide Games"
         ],
         "campaign": null,
@@ -16512,72 +16340,6 @@
     {
         "apl": null,
         "authors": [
-            "William Beers"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-15",
-        "date_created": "20180609",
-        "full_title": "Digital Map Pack: DDAL07-15 Streams of Crimson",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Digital-Map-Pack--DDAL07-15-Streams-of-Crimson",
-        "tiers": null,
-        "title": "Digital Map Pack DDAL07-15 Streams of Crimson",
-        "url": "https://www.dmsguild.com/product/244154/Digital-Map-Pack-DDAL0715-Streams-of-Crimson?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160122",
-        "full_title": "Digital Maps: Season 1 (Tyranny of Dragons)",
-        "hours": null,
-        "level_range": "2",
-        "product_id": "Digital-Maps--Season-1-Tyranny-of-Dragons",
-        "tiers": null,
-        "title": "Digital Maps Season 1 Tyranny of Dragons",
-        "url": "https://www.dmsguild.com/product/171728/Digital-Maps-Season-1-Tyranny-of-Dragons?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160213",
-        "full_title": "Digital Maps: Season 2 (Elemental Evil)",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "Digital-Maps--Season-2-Elemental-Evil",
-        "tiers": null,
-        "title": "Digital Maps Season 2 Elemental Evil",
-        "url": "https://www.dmsguild.com/product/174268/Digital-Maps-Season-2-Elemental-Evil?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160322",
-        "full_title": "Digital Maps: Season 3 (Rage of Demons)",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "Digital-Maps--Season-3-Rage-of-Demons",
-        "tiers": null,
-        "title": "Digital Maps Season 3 Rage of Demons",
-        "url": "https://www.dmsguild.com/product/178309/Digital-Maps-Season-3-Rage-of-Demons?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Celeste Conowitch"
         ],
         "campaign": "Eberron",
@@ -16656,22 +16418,6 @@
         "tiers": 3,
         "title": "Split or Fuse",
         "url": "https://www.dmsguild.com/product/473696/DLDCSF01-Split-or-Fuse?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Sterling Hershey"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160703",
-        "full_title": "DM Combat Tabs",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "DM-Combat-Tabs",
-        "tiers": null,
-        "title": "DM Combat Tabs",
-        "url": "https://www.dmsguild.com/product/187043/DM-Combat-Tabs"
     },
     {
         "apl": null,
