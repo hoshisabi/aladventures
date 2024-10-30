@@ -29,6 +29,7 @@ root = str(pathlib.Path(__file__).parent.absolute())
 input_path = os.path.join(root, '_dc')
 output_path = os.path.join(root, '_stats')
 
+all_adventures = []
 
 def __add_to_map(data, aggregated_by_dc_code):
     if 'code' not in data or data['code'] is None:
@@ -55,7 +56,8 @@ def aggregate():
         with open(os.path.join(input_path, file), 'r') as _input:
             data = json.load(_input)
             __add_to_map(data, aggregated_by_dc_code)
-
+            all_adventures.append(data)
+    
     logger.info("------")
     logger.info(f'Aggregated stats:')
     for dc_season, dc_list in aggregated_by_dc_code.items():
@@ -67,6 +69,10 @@ def aggregate():
         output_full_path = f"{str(output_path)}/{dc_season}.json"
         with open(output_full_path, 'w') as f:
             json.dump(dc_list, f, indent=4, sort_keys=True)
+
+    output_full_path = f"{str(output_path)}/all_adventures.json"
+    with open(output_full_path, 'w') as f:
+        json.dump(all_adventures, f, indent=4, sort_keys=True)
 
 
 if __name__ == '__main__':
