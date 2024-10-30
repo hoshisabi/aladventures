@@ -1,5 +1,103 @@
 [
     {
+        "apl": 3,
+        "authors": [
+            "Marcello De Velazquez",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA01",
+        "date_created": "20240821",
+        "full_title": "DL-DC-LIGA01 - A Silver Light",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-LIGA01---A-Silver-Light",
+        "tiers": 1,
+        "title": "- A Silver Light",
+        "url": "https://www.dmsguild.com/product/492361/DLDCLIGA01--A-Silver-Light?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "DMGMorais",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA02",
+        "date_created": "20240919",
+        "full_title": "DL-DC-LIGA02 - Wickedness over Dargaard",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-LIGA02---Wickedness-over-Dargaard",
+        "tiers": 1,
+        "title": "- Wickedness over Dargaard",
+        "url": "https://www.dmsguild.com/product/495850/DLDCLIGA02--Wickedness-over-Dargaard?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-MDV-01",
+        "date_created": "20231211",
+        "full_title": "DL-DC-MDV-01 A Mother's Love: A Dragonlance Adventures Experience",
+        "hours": 4,
+        "level_range": "5-10",
+        "product_id": "DL-DC-MDV-01-A-Mothers-Love--A-Dragonlance-Adventures-Experience",
+        "tiers": 2,
+        "title": "A Mother's Love A Dragonlance Adventures Experience",
+        "url": "https://www.dmsguild.com/product/463522/DLDCMDV01-A-Mothers-Love-A-Dragonlance-Adventures-Experience?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 11,
+        "authors": [
+            "George Sanders"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SF-01",
+        "date_created": "20240311",
+        "full_title": "DL-DC-SF-01 Split or Fuse",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "DL-DC-SF-01-Split-or-Fuse",
+        "tiers": 3,
+        "title": "Split or Fuse",
+        "url": "https://www.dmsguild.com/product/473696/DLDCSF01-Split-or-Fuse?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Alexander Klement"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SOTH-01",
+        "date_created": "20240714",
+        "full_title": "Dragonlance: Echoes of war (DL-DC-SOTH-01)",
+        "hours": 4,
+        "level_range": "1-4",
+        "product_id": "Dragonlance--Echoes-of-war-DL-DC-SOTH-01",
+        "tiers": 1,
+        "title": "Dragonlance Echoes of war",
+        "url": "https://www.dmsguild.com/product/487856/Dragonlance-Echoes-of-war-DLDCSOTH01?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-01",
+        "date_created": "20230717",
+        "full_title": "Greenshield (DL-DC-SDCC-01)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "Greenshield-DL-DC-SDCC-01",
+        "tiers": 1,
+        "title": "Greenshield",
+        "url": "https://www.dmsguild.com/product/445922/Greenshield-DLDCSDCC01?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 2,
         "authors": [
             "JD McComb"
@@ -14,6 +112,22 @@
         "tiers": 1,
         "title": "Knight Fall",
         "url": "https://www.dmsguild.com/product/445912/Knight-Fall-DLDCSDCC03?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 2,
+        "authors": [
+            "Belinda Baldwin"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-SDCC-02",
+        "date_created": "20230717",
+        "full_title": "The Dog Days of Solamnia (DL-DC-SDCC-02)",
+        "hours": 2,
+        "level_range": null,
+        "product_id": "The-Dog-Days-of-Solamnia-DL-DC-SDCC-02",
+        "tiers": 1,
+        "title": "The Dog Days of Solamnia",
+        "url": "https://www.dmsguild.com/product/445925/The-Dog-Days-of-Solamnia-DLDCSDCC02?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 2,

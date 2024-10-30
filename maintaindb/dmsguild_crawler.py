@@ -1,4 +1,4 @@
-try:
+﻿try:
     from BeautifulSoup import BeautifulSoup
 except ImportError:
     from bs4 import BeautifulSoup
@@ -14,7 +14,6 @@ import time
 import json
 
 from dmsguild_webpage import url_2_DC
-from dmsguild_webpage import DungeonCraft
 from enum import Enum
 
 
@@ -48,7 +47,6 @@ class DmsGuildProduct:
 
     def __hash__(self):
         return hash(self.product_id)
-
 
 def product_2_dungeon_craft_worker(dmsGuildProduct: DmsGuildProduct):
     try:
@@ -86,7 +84,8 @@ def get_product_id(node):
     for child in children:
         if child.attrs and 'alt' in child.attrs:
             product_id = child.attrs['alt']
-            product_str = product_id.replace(',', '').replace(' ', '-').replace('(', '').replace(')', '').replace("'", '').replace(':', '-').replace('!', '').replace('?', '').replace('/', '').replace('\\', '')
+            product_str = re.sub(r"[ :-]", "_", product_id)
+            product_str = re.sub(r"\W", "", product_str).replace("_", "-")
             return product_str
 
     return None
@@ -101,10 +100,10 @@ def get_product_alt(node):
     return None
 
 
-def crawl_dc_listings(page_number=1, max_results=None):
+def crawl_dc_listings(base_url = "https://www.dmsguild.com/browse.php?filters=0_0_100057_0_0_0_0_0", page_number=1, max_results=None):
 
     product_list = set()
-    url = f'https://www.dmsguild.com/browse.php?filters=0_0_100057_0_0_0_0_0&page={page_number}&sort=4a'
+    url = f'{base_url}&page={page_number}&sort=4a'
 
     parsed_html = BeautifulSoup(requests.get(url).text, features="html.parser")
 
@@ -150,14 +149,21 @@ def crawl_dc_listings(page_number=1, max_results=None):
 
 
 if __name__ == '__main__':
-    # crawl_dc_listings(page_number=1, max_results=3)
-    for i in range(1, 20):
+    base_url = "https://www.dmsguild.com/browse.php?filters=45470_0_0_0_0_0"
+    max_range = 5
+    if (len(sys.argv) > 1):
+        base_url = sys.argv[1]
+        if (len(sys.argv) > 2):
+          max_range = int(sys.argv[2])
+     
+    print("Crawling base_url: " + base_url)
+    print(f"Crawling {max_range} pages")
+
+    for i in range(1, max_range + 1):
         sleep_time = random.choice(THROTTLING_SLEEP_TIME_LIST)
-        crawl_dc_listings(page_number=i)
+        crawl_dc_listings(base_url = base_url, page_number=i)
         logger.info(
                 f'----------')
         logger.info(
                 f'Fetching {i}-th page in {sleep_time}s')
         time.sleep(sleep_time)
-        
-    # crawl_dc_listings(page_number=2, max_results=15)
