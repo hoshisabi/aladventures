@@ -1,0 +1,8 @@
+# Site settings
+title: Adventure Filter
+description: Filter adventures by various properties
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
