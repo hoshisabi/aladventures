@@ -1,36 +1,99 @@
 [
     {
-        "apl": 8,
+        "apl": null,
         "authors": [
-            "Paige Leitmen",
-            "Marcello De Velazquez"
+            "Stefan Tomaschitz"
         ],
         "campaign": "Ravenloft",
-        "code": "RV-DC-GC15-04",
-        "date_created": "20230322",
-        "full_title": "RV-DC-GC15-04 Kingdom, Rise!",
+        "code": "RV-DC-SDG-01",
+        "date_created": "20240811",
+        "full_title": "A Cursed Key",
+        "hours": 3,
+        "level_range": null,
+        "product_id": null,
+        "tiers": null,
+        "title": "A Cursed Key",
+        "url": "https://www.dmsguild.com/product/491254/A-Cursed-Key?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Katriel Paige"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-POE-01",
+        "date_created": "20241013",
+        "full_title": "A Peculiar Premiere RV-DC-POE-01",
         "hours": 4,
         "level_range": null,
-        "product_id": "RV-DC-GC15-04-Kingdom-Rise",
+        "product_id": "A-Peculiar-Premiere-RV-DC-POE-01",
         "tiers": 2,
-        "title": "Kingdom, Rise!",
-        "url": "https://www.dmsguild.com/product/431316/RVDCGC1504-Kingdom-Rise?filters=0_0_100057_0_0_0_0_0"
+        "title": "A Peculiar Premiere",
+        "url": "https://www.dmsguild.com/product/498757/A-Peculiar-Premiere-RVDCPOE01?filters=45470_0_0_0_0_0"
     },
     {
         "apl": null,
         "authors": [
-            "Miguel Luis de Jesus"
+            "the illuminhaughti"
         ],
         "campaign": "Ravenloft",
-        "code": "RV-DC-PHP-1313-01",
-        "date_created": "20230416",
-        "full_title": "RV-DC-PHP-1313-01 On That Fateful Day",
+        "code": "RV-DC-HBI-002",
+        "date_created": "20230731",
+        "full_title": "Domains of Dread: Doom Down in Boomtown (RV-DC-HBI-002)",
         "hours": 4,
         "level_range": null,
-        "product_id": "RV-DC-PHP-1313-01-On-That-Fateful-Day",
+        "product_id": "Domains-of-Dread--Doom-Down-in-Boomtown-RV-DC-HBI-002",
         "tiers": null,
-        "title": "On That Fateful Day",
-        "url": "https://www.dmsguild.com/product/434117/RVDCPHP131301-On-That-Fateful-Day?filters=0_0_100057_0_0_0_0_0"
+        "title": "Domains of Dread Doom Down in Boomtown",
+        "url": "https://www.dmsguild.com/product/447852/Domains-of-Dread-Doom-Down-in-Boomtown-RVDCHBI002?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-HBI-003",
+        "date_created": "20230912",
+        "full_title": "Domains of Dread: Terror in Tombstone (RV-DC-HBI-003)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "Domains-of-Dread--Terror-in-Tombstone-RV-DC-HBI-003",
+        "tiers": null,
+        "title": "Domains of Dread Terror in Tombstone",
+        "url": "https://www.dmsguild.com/product/451012/Domains-of-Dread-Terror-in-Tombstone-RVDCHBI003?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "the illuminhaughti"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-HBI-001",
+        "date_created": "20230620",
+        "full_title": "Domains of Dread: the Braska Roadhouse Chainsaw Massacre (RV-DC-HBI-001)",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Domains-of-Dread--the-Braska-Roadhouse-Chainsaw-Massacre-RV-DC-HBI-001",
+        "tiers": null,
+        "title": "Domains of Dread the Braska Roadhouse Chainsaw Massacre",
+        "url": "https://www.dmsguild.com/product/442290/Domains-of-Dread-the-Braska-Roadhouse-Chainsaw-Massacre-RVDCHBI001?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Raymond Holding"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-DBH-01",
+        "date_created": "20210813",
+        "full_title": "RV-DC-DBH-01 And Then There Was a Murder",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-DBH-01-And-Then-There-Was-a-Murder",
+        "tiers": 1,
+        "title": "And Then There Was a Murder",
+        "url": "https://www.dmsguild.com/product/367527/RVDCDBH01-And-Then-There-Was-a-Murder?filters=0_0_100057_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -69,6 +132,72 @@
     {
         "apl": 8,
         "authors": [
+            "Paige Leitman",
+            "Adrian Rhodes"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-03",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-03 False Faces",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-03-False-Faces",
+        "tiers": 2,
+        "title": "False Faces",
+        "url": "https://www.dmsguild.com/product/431313/RVDCGC1503-False-Faces?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Paige Leitmen",
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-GC15-04",
+        "date_created": "20230322",
+        "full_title": "RV-DC-GC15-04 Kingdom, Rise!",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "RV-DC-GC15-04-Kingdom-Rise",
+        "tiers": 2,
+        "title": "Kingdom, Rise!",
+        "url": "https://www.dmsguild.com/product/431316/RVDCGC1504-Kingdom-Rise?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Miguel Luis de Jesus"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-LAGIM-01-",
+        "date_created": "20240806",
+        "full_title": "RV-DC-LAGIM-01: Letting The Dead Rest",
+        "hours": 2,
+        "level_range": "1-4",
+        "product_id": "RV-DC-LAGIM-01--Letting-The-Dead-Rest",
+        "tiers": 1,
+        "title": "Letting The Dead Rest",
+        "url": "https://www.dmsguild.com/product/490715/RVDCLAGIM01-Letting-The-Dead-Rest?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Miguel Luis de Jesus"
+        ],
+        "campaign": "Ravenloft",
+        "code": "RV-DC-LAGIM-02",
+        "date_created": "20241025",
+        "full_title": "RV-DC-LAGIM-02: The Horrors of Uninhabited Places",
+        "hours": null,
+        "level_range": "2",
+        "product_id": null,
+        "tiers": null,
+        "title": "The Horrors of Uninhabited Places",
+        "url": "https://www.dmsguild.com/product/499970/RVDCLAGIM02-The-Horrors-of-Uninhabited-Places?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
             "Nicholas Reed"
         ],
         "campaign": "Ravenloft",
@@ -85,82 +214,17 @@
     {
         "apl": null,
         "authors": [
-            "the illuminhaughti"
+            "Miguel Luis de Jesus"
         ],
         "campaign": "Ravenloft",
-        "code": "RV-DC-HBI-003",
-        "date_created": "20230912",
-        "full_title": "Domains of Dread: Terror in Tombstone (RV-DC-HBI-003)",
+        "code": "RV-DC-PHP-1313-01",
+        "date_created": "20230416",
+        "full_title": "RV-DC-PHP-1313-01 On That Fateful Day",
         "hours": 4,
         "level_range": null,
-        "product_id": "Domains-of-Dread--Terror-in-Tombstone-RV-DC-HBI-003",
+        "product_id": "RV-DC-PHP-1313-01-On-That-Fateful-Day",
         "tiers": null,
-        "title": "Domains of Dread Terror in Tombstone",
-        "url": "https://www.dmsguild.com/product/451012/Domains-of-Dread-Terror-in-Tombstone-RVDCHBI003?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "the illuminhaughti"
-        ],
-        "campaign": "Ravenloft",
-        "code": "RV-DC-HBI-001",
-        "date_created": "20230620",
-        "full_title": "Domains of Dread: the Braska Roadhouse Chainsaw Massacre (RV-DC-HBI-001)",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Domains-of-Dread--the-Braska-Roadhouse-Chainsaw-Massacre-RV-DC-HBI-001",
-        "tiers": null,
-        "title": "Domains of Dread the Braska Roadhouse Chainsaw Massacre",
-        "url": "https://www.dmsguild.com/product/442290/Domains-of-Dread-the-Braska-Roadhouse-Chainsaw-Massacre-RVDCHBI001?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 8,
-        "authors": [
-            "Paige Leitman",
-            "Adrian Rhodes"
-        ],
-        "campaign": "Ravenloft",
-        "code": "RV-DC-GC15-03",
-        "date_created": "20230322",
-        "full_title": "RV-DC-GC15-03 False Faces",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "RV-DC-GC15-03-False-Faces",
-        "tiers": 2,
-        "title": "False Faces",
-        "url": "https://www.dmsguild.com/product/431313/RVDCGC1503-False-Faces?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "the illuminhaughti"
-        ],
-        "campaign": "Ravenloft",
-        "code": "RV-DC-HBI-002",
-        "date_created": "20230731",
-        "full_title": "Domains of Dread: Doom Down in Boomtown (RV-DC-HBI-002)",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "Domains-of-Dread--Doom-Down-in-Boomtown-RV-DC-HBI-002",
-        "tiers": null,
-        "title": "Domains of Dread Doom Down in Boomtown",
-        "url": "https://www.dmsguild.com/product/447852/Domains-of-Dread-Doom-Down-in-Boomtown-RVDCHBI002?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": 3,
-        "authors": [
-            "Raymond Holding"
-        ],
-        "campaign": "Ravenloft",
-        "code": "RV-DC-DBH-01",
-        "date_created": "20210813",
-        "full_title": "RV-DC-DBH-01 And Then There Was a Murder",
-        "hours": 4,
-        "level_range": null,
-        "product_id": "RV-DC-DBH-01-And-Then-There-Was-a-Murder",
-        "tiers": 1,
-        "title": "And Then There Was a Murder",
-        "url": "https://www.dmsguild.com/product/367527/RVDCDBH01-And-Then-There-Was-a-Murder?filters=0_0_100057_0_0_0_0_0"
+        "title": "On That Fateful Day",
+        "url": "https://www.dmsguild.com/product/434117/RVDCPHP131301-On-That-Fateful-Day?filters=0_0_100057_0_0_0_0_0"
     }
 ]

@@ -1,5 +1,5 @@
 {
-    "apl": null,
+    "apl": 9,
     "authors": [
         "Eric Weberg"
     ],
@@ -7,10 +7,10 @@
     "code": "SJ-DC-TEL-05",
     "date_created": "20231231",
     "full_title": "SJ-DC-TEL-05 Many, Many Modrons",
-    "hours": null,
-    "level_range": null,
+    "hours": 4,
+    "level_range": "5-10", 
     "product_id": "SJ-DC-TEL-05-Many-Many-Modrons",
-    "tiers": null,
+    "tiers": 2,
     "title": "Many, Many Modrons",
     "url": "https://www.dmsguild.com/product/465723/SJDCTEL05-Many-Many-Modrons?filters=0_0_100057_0_0_0_0_0"
 }
