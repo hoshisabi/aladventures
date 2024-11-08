@@ -10,7 +10,7 @@ let filters = {
 };
 
 // Fetch and load the JSON data
-fetch('/_data/all_adventures.json')
+fetch('/data/all_adventures.json')
     .then(response => response.json())
     .then(data => {
         adventures = data;
