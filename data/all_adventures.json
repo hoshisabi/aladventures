@@ -357,22 +357,6 @@
         "url": "https://www.dmsguild.com/product/441969/Assault-on-Hudson-123-SJDCMB05AH123?filters=45470_0_0_0_0_0"
     },
     {
-        "apl": null,
-        "authors": [
-            "Greg Marks"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160602",
-        "full_title": "Aurora's Whole Realms Catalogue, vol 1",
-        "hours": null,
-        "level_range": "20",
-        "product_id": "Auroras-Whole-Realms-Catalogue-vol-1",
-        "tiers": null,
-        "title": "Aurora's Whole Realms Catalogue, vol 1",
-        "url": "https://www.dmsguild.com/product/184597/Auroras-Whole-Realms-Catalogue-vol-1"
-    },
-    {
         "apl": 3,
         "authors": [
             "Tim Tan"
@@ -404,40 +388,6 @@
         "tiers": 1,
         "title": "Bad Omen",
         "url": "https://www.dmsguild.com/product/451742/Bad-Omen-SJDCBAD01?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Tosh Le",
-            "Jeremy Forbing"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20200225",
-        "full_title": "Balancing Encounters: Descent into Avernus",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Balancing-Encounters--Descent-into-Avernus",
-        "tiers": null,
-        "title": "Balancing Encounters Descent into Avernus",
-        "url": "https://www.dmsguild.com/product/304550/Balancing-Encounters-Descent-into-Avernus"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Tosh Le",
-            "Jeremy Forbing"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20190406",
-        "full_title": "Balancing Encounters: Waterdeep Dragon Heist",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Balancing-Encounters--Waterdeep-Dragon-Heist",
-        "tiers": null,
-        "title": "Balancing Encounters Waterdeep Dragon Heist",
-        "url": "https://www.dmsguild.com/product/272227/Balancing-Encounters-Waterdeep-Dragon-Heist"
     },
     {
         "apl": null,
@@ -10331,6 +10281,23 @@
         "url": "https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Tricia Monsod",
+            "Kai Monsod"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-TKM-RGT-01",
+        "date_created": "20241031",
+        "full_title": "Charming (FR-DC-TKM-RGT-01)",
+        "hours": 2,
+        "level_range": "1",
+        "product_id": "Charming-FR-DC-TKM-RGT-01",
+        "tiers": null,
+        "title": "Charming",
+        "url": "https://www.dmsguild.com/product/500685/Charming-FRDCTKMRGT01?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 13,
         "authors": [
             "Noah Grand"
@@ -10377,22 +10344,6 @@
         "tiers": null,
         "title": "Chultan Death Curse Revised!",
         "url": "https://www.dmsguild.com/product/241750/Chultan-Death-Curse-Revised"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "D&D Adventurers League"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20170108",
-        "full_title": "City Guide: Mulmaster",
-        "hours": null,
-        "level_range": "0",
-        "product_id": "City-Guide--Mulmaster",
-        "tiers": null,
-        "title": "City Guide Mulmaster",
-        "url": "https://www.dmsguild.com/product/202483/City-Guide-Mulmaster?filters=45470_0_0_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -13061,58 +13012,6 @@
         "tiers": null,
         "title": "DC-PoA-ZF01 Undisclosed Ordeals",
         "url": "https://www.dmsguild.com/product/345714/DCPoAZF01-Undisclosed-Ordeals?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Jay Africa"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20240922",
-        "full_title": "D&D 2024 Backgrounds & Ability Scores Reference Sheet",
-        "hours": null,
-        "level_range": "202",
-        "product_id": "DD-2024-Backgrounds--Ability-Scores-Reference-Sheet",
-        "tiers": null,
-        "title": "D&D 2024 Backgrounds & Ability Scores Reference Sheet",
-        "url": "https://www.dmsguild.com/product/496165/DD-2024-Backgrounds--Ability-Scores-Reference-Sheet"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Craig Smith"
-        ],
-        "campaign": [
-            "Eberron"
-        ],
-        "code": "EBERRON",
-        "date_created": "20200511",
-        "full_title": "D&D 5E Eberron Base Log (editable/fillable PDF, printer friendly)",
-        "hours": null,
-        "level_range": null,
-        "product_id": "DD-5E-Eberron-Base-Log-editablefillable-PDF-printer-friendly",
-        "tiers": null,
-        "title": "D&D 5E Eberron Base Log editable/fillable PDF, printer friendly",
-        "url": "https://www.dmsguild.com/product/313291/DD-5E-Eberron-Base-Log-editable-fillable-PDF-printer-friendly?filters=1000043_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Craig Smith"
-        ],
-        "campaign": [
-            "Eberron"
-        ],
-        "code": "EBERRON",
-        "date_created": "20200511",
-        "full_title": "D&D 5E Eberron Salvage Mission Log (editable/fillable PDF, printer friendly)",
-        "hours": null,
-        "level_range": null,
-        "product_id": "DD-5E-Eberron-Salvage-Mission-Log-editablefillable-PDF-printer-friendly",
-        "tiers": null,
-        "title": "D&D 5E Eberron Salvage Mission Log editable/fillable PDF, printer friendly",
-        "url": "https://www.dmsguild.com/product/313293/DD-5E-Eberron-Salvage-Mission-Log-editable-fillable-PDF-printer-friendly?filters=1000043_0_0_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -16361,60 +16260,6 @@
     {
         "apl": null,
         "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-06",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-06 Fester and Burn",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-06-Fester-and-Burn",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-06 Fester and Burn",
-        "url": "https://www.dmsguild.com/product/228228/Deluxe-Digital-Map-Pack-DDAL0706-Fester-and-Burn?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-07",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-07 Rotting Roots",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-07-Rotting-Roots",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-07 Rotting Roots",
-        "url": "https://www.dmsguild.com/product/228230/Deluxe-Digital-Map-Pack-DDAL0707-Rotting-Roots?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Dungeon Masters Guild"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-08",
-        "date_created": "20171205",
-        "full_title": "Deluxe Digital Map Pack: DDAL07-08 Putting the Dead to Rest",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Deluxe-Digital-Map-Pack--DDAL07-08-Putting-the-Dead-to-Rest",
-        "tiers": null,
-        "title": "Deluxe Digital Map Pack DDAL07-08 Putting the Dead to Rest",
-        "url": "https://www.dmsguild.com/product/228231/Deluxe-Digital-Map-Pack-DDAL0708-Putting-the-Dead-to-Rest?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Barefoot Tour Guide Games"
         ],
         "campaign": null,
@@ -16443,6 +16288,22 @@
         "tiers": 1,
         "title": "Depths of Recollection",
         "url": "https://www.dmsguild.com/product/408586/Depths-of-Recollection-WBWDCMEM02?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "Nocsan"
+        ],
+        "campaign": null,
+        "code": null,
+        "date_created": "20241104",
+        "full_title": "Der Fluch des Geisterwaldes",
+        "hours": null,
+        "level_range": null,
+        "product_id": "Der-Fluch-des-Geisterwaldes",
+        "tiers": null,
+        "title": "Der Fluch des Geisterwaldes",
+        "url": "https://www.dmsguild.com/product/501064/Der-Fluch-des-Geisterwaldes?filters=45470_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -16512,72 +16373,6 @@
     {
         "apl": null,
         "authors": [
-            "William Beers"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDAL07-15",
-        "date_created": "20180609",
-        "full_title": "Digital Map Pack: DDAL07-15 Streams of Crimson",
-        "hours": null,
-        "level_range": null,
-        "product_id": "Digital-Map-Pack--DDAL07-15-Streams-of-Crimson",
-        "tiers": null,
-        "title": "Digital Map Pack DDAL07-15 Streams of Crimson",
-        "url": "https://www.dmsguild.com/product/244154/Digital-Map-Pack-DDAL0715-Streams-of-Crimson?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160122",
-        "full_title": "Digital Maps: Season 1 (Tyranny of Dragons)",
-        "hours": null,
-        "level_range": "2",
-        "product_id": "Digital-Maps--Season-1-Tyranny-of-Dragons",
-        "tiers": null,
-        "title": "Digital Maps Season 1 Tyranny of Dragons",
-        "url": "https://www.dmsguild.com/product/171728/Digital-Maps-Season-1-Tyranny-of-Dragons?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160213",
-        "full_title": "Digital Maps: Season 2 (Elemental Evil)",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "Digital-Maps--Season-2-Elemental-Evil",
-        "tiers": null,
-        "title": "Digital Maps Season 2 Elemental Evil",
-        "url": "https://www.dmsguild.com/product/174268/Digital-Maps-Season-2-Elemental-Evil?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Travis Woodall"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160322",
-        "full_title": "Digital Maps: Season 3 (Rage of Demons)",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "Digital-Maps--Season-3-Rage-of-Demons",
-        "tiers": null,
-        "title": "Digital Maps Season 3 Rage of Demons",
-        "url": "https://www.dmsguild.com/product/178309/Digital-Maps-Season-3-Rage-of-Demons?filters=45470_0_0_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Celeste Conowitch"
         ],
         "campaign": "Eberron",
@@ -16626,6 +16421,23 @@
         "url": "https://www.dmsguild.com/product/495850/DLDCLIGA02--Wickedness-over-Dargaard?filters=45470_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Lu\u00eds Ricardo 'DM Corvo' da Costa",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA03",
+        "date_created": "20241031",
+        "full_title": "DL-DC-LIGA03 - Firstwal under Siege",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "DL-DC-LIGA03---Firstwal-under-Siege",
+        "tiers": 1,
+        "title": "- Firstwal under Siege",
+        "url": "https://www.dmsguild.com/product/500778/DLDCLIGA03--Firstwal-under-Siege?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Marcello De Velazquez"
@@ -16656,22 +16468,6 @@
         "tiers": 3,
         "title": "Split or Fuse",
         "url": "https://www.dmsguild.com/product/473696/DLDCSF01-Split-or-Fuse?filters=0_0_100057_0_0_0_0_0"
-    },
-    {
-        "apl": null,
-        "authors": [
-            "Sterling Hershey"
-        ],
-        "campaign": null,
-        "code": null,
-        "date_created": "20160703",
-        "full_title": "DM Combat Tabs",
-        "hours": null,
-        "level_range": "3",
-        "product_id": "DM-Combat-Tabs",
-        "tiers": null,
-        "title": "DM Combat Tabs",
-        "url": "https://www.dmsguild.com/product/187043/DM-Combat-Tabs"
     },
     {
         "apl": null,
@@ -17404,10 +17200,10 @@
         "code": "FR-DC-VECNA-02",
         "date_created": "20240731",
         "full_title": "ELDRITCH EYE WIDE SHUT (FR-DC-VECNA-02)",
-        "hours": null,
-        "level_range": null,
+        "hours": 4,
+        "level_range": "5-10",
         "product_id": "ELDRITCH-EYE-WIDE-SHUT-FR-DC-VECNA-02",
-        "tiers": null,
+        "tiers": 2,
         "title": "ELDRITCH EYE WIDE SHUT",
         "url": "https://www.dmsguild.com/product/490000/ELDRITCH-EYE-WIDE-SHUT-FRDCVECNA02?filters=0_0_100057_0_0_0_0_0"
     },
@@ -17839,9 +17635,9 @@
         "date_created": "20240621",
         "full_title": "FR-DC-ARCON-01 Mines and Monsters",
         "hours": 2,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "FR-DC-ARCON-01-Mines-and-Monsters",
-        "tiers": null,
+        "tiers": 2,
         "title": "Mines and Monsters",
         "url": "https://www.dmsguild.com/product/485373/FRDCARCON01-Mines-and-Monsters?filters=0_0_100057_0_0_0_0_0"
     },
@@ -18096,9 +17892,9 @@
         "date_created": "20240314",
         "full_title": "FR-DC-LIGA-01 - Wyrmwell Flame",
         "hours": 4,
-        "level_range": null,
+        "level_range": "11-16",
         "product_id": "FR-DC-LIGA-01---Wyrmwell-Flame",
-        "tiers": null,
+        "tiers": 3,
         "title": "- Wyrmwell Flame",
         "url": "https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame?filters=0_0_100057_0_0_0_0_0"
     },
@@ -18130,11 +17926,11 @@
         "date_created": "20240412",
         "full_title": "FR-DC-LIGA-03 - Doom Reborn",
         "hours": 4,
-        "level_range": null,
+        "level_range": "3",
         "product_id": "FR-DC-LIGA-03---Doom-Reborn",
         "tiers": 3,
         "title": "- Doom Reborn",
-        "url": "https://www.dmsguild.com/product/477366/FRDCLIGA03--Doom-Reborn?filters=0_0_100057_0_0_0_0_0"
+        "url": "https://www.dmsguild.com/product/477366/FRDCLIGA03--Doom-Reborn?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -18198,9 +17994,9 @@
         "date_created": "20240710",
         "full_title": "FR-DC-LIGA-06 - Malaeragoth and the Chaos King",
         "hours": 4,
-        "level_range": null,
+        "level_range": "11-16",
         "product_id": "FR-DC-LIGA-06---Malaeragoth-and-the-Chaos-King",
-        "tiers": null,
+        "tiers": 3,
         "title": "- Malaeragoth and the Chaos King",
         "url": "https://www.dmsguild.com/product/487422/FRDCLIGA06--Malaeragoth-and-the-Chaos-King?filters=0_0_100057_0_0_0_0_0"
     },
@@ -18253,6 +18049,22 @@
         "tiers": 1,
         "title": "Better Together",
         "url": "https://www.dmsguild.com/product/465190/FRDCNMB201-Better-Together?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-NUKE-01",
+        "date_created": "20241106",
+        "full_title": "FR-DC-NUKE-01 The Search for the Scarlet Stallion",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-NUKE-01-The-Search-for-the-Scarlet-Stallion",
+        "tiers": null,
+        "title": "The Search for the Scarlet Stallion",
+        "url": "https://www.dmsguild.com/product/501443/FRDCNUKE01-The-Search-for-the-Scarlet-Stallion?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -18399,7 +18211,7 @@
         "url": "https://www.dmsguild.com/product/475296/FRDCPANDORAJWEI12-Pandora?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 8,
         "authors": [
             "Miguel Luis de Jesus"
         ],
@@ -18410,7 +18222,7 @@
         "hours": 4,
         "level_range": "5-10",
         "product_id": "FR-DC-PHP-CKA1--In-Slumbers-Keep",
-        "tiers": null,
+        "tiers": 2,
         "title": "In Slumber's Keep",
         "url": "https://www.dmsguild.com/product/479895/FRDCPHPCKA1-In-Slumbers-Keep?filters=0_0_100057_0_0_0_0_0"
     },
@@ -18429,6 +18241,22 @@
         "tiers": 2,
         "title": "The Hidden Sanctum",
         "url": "https://www.dmsguild.com/product/490910/FRDCPHPINFRN0101-The-Hidden-Sanctum?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Elijah Vince Aguila"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-PHP-PEST-01-",
+        "date_created": "20241030",
+        "full_title": "FR-DC-PHP-PEST-01: Pest Control",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": "FR-DC-PHP-PEST-01--Pest-Control",
+        "tiers": 1,
+        "title": "Pest Control",
+        "url": "https://www.dmsguild.com/product/500527/FRDCPHPPEST01-Pest-Control?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -18731,7 +18559,7 @@
         "url": "https://www.dmsguild.com/product/470680/Githzerai-Glitch-PSDCNOS01?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "R.P. Marsh"
         ],
@@ -18739,10 +18567,10 @@
         "code": "FR-DC-DRESS-01",
         "date_created": "20241003",
         "full_title": "Goblin In A Dress",
-        "hours": null,
-        "level_range": null,
+        "hours": 2,
+        "level_range": "1-4",
         "product_id": null,
-        "tiers": null,
+        "tiers": 1,
         "title": "Goblin In A Dress",
         "url": "https://www.dmsguild.com/product/497468/Goblin-In-A-Dress"
     },
@@ -19450,24 +19278,6 @@
     {
         "apl": null,
         "authors": [
-            "Marco Trivellato"
-        ],
-        "campaign": [
-            "Forgotten Realms"
-        ],
-        "code": "DDEP-08-03",
-        "date_created": "20190408",
-        "full_title": "Last Order at The Yawning Portal - The Growling Groghouse Map (Adventurers League Epic DDEP-08-03)",
-        "hours": null,
-        "level_range": "08",
-        "product_id": "Last-Order-at-The-Yawning-Portal---The-Growling-Groghouse-Map-Adventurers-League-Epic-DDEP-08-03",
-        "tiers": null,
-        "title": "Last Order at The Yawning Portal - The Growling Groghouse Map Adventurers League Epic DDEP-08-03",
-        "url": "https://www.dmsguild.com/product/272394/Last-Order-at-The-Yawning-Portal--The-Growling-Groghouse-Map-Adventurers-League-Epic-DDEP0803"
-    },
-    {
-        "apl": null,
-        "authors": [
             "Stacey Allan"
         ],
         "campaign": [
@@ -19966,6 +19776,23 @@
         "tiers": 3,
         "title": "Never Let Me Go",
         "url": "https://www.dmsguild.com/product/437916/Never-Let-Me-Go-SJDCANGKA05?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Steven Truong",
+            "Cameron Pearce"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-VECNA-03",
+        "date_created": "20241103",
+        "full_title": "NEVERDEATH NIGHTS (FR-DC-VECNA-03)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "NEVERDEATH-NIGHTS-FR-DC-VECNA-03",
+        "tiers": null,
+        "title": "NEVERDEATH NIGHTS",
+        "url": "https://www.dmsguild.com/product/501014/NEVERDEATH-NIGHTS-FRDCVECNA03?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -20964,6 +20791,38 @@
         "tiers": 3,
         "title": "The Greatest Gameshow",
         "url": "https://www.dmsguild.com/product/490495/PSDCNBDD01-The-Greatest-Gameshow?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Jason Pesch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PESCH",
+        "date_created": "20241031",
+        "full_title": "PS-DC-PESCH Vhaeraun's Wish",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PESCH-Vhaerauns-Wish",
+        "tiers": 3,
+        "title": "Vhaeraun's Wish",
+        "url": "https://www.dmsguild.com/product/500715/PSDCPESCH-Vhaerauns-Wish?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Jason Pesch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PESCH",
+        "date_created": "20241031",
+        "full_title": "PS-DC-PESCH",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PESCH",
+        "tiers": 3,
+        "title": "",
+        "url": "https://www.dmsguild.com/product/500715/PSDCPESCH?filters=45470_0_0_0_0_0"
     },
     {
         "apl": null,
@@ -27121,7 +26980,7 @@
         "url": "https://www.dmsguild.com/product/329320/The-Wizards-Tower-A-Free-Complex-Trap"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "Dagny Mol"
         ],
@@ -27130,9 +26989,9 @@
         "date_created": "20240520",
         "full_title": "Those Who Plant (FR-DC-TGT-02)",
         "hours": 2,
-        "level_range": null,
+        "level_range": "1-4",
         "product_id": "Those-Who-Plant-FR-DC-TGT-02",
-        "tiers": null,
+        "tiers": 1,
         "title": "Those Who Plant",
         "url": "https://www.dmsguild.com/product/481540/Those-Who-Plant-FRDCTGT02?filters=0_0_100057_0_0_0_0_0"
     },
@@ -27147,9 +27006,9 @@
         "date_created": "20240521",
         "full_title": "THREE BODY PROBLEM (FR-DC-VECNA-01)",
         "hours": 4,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "THREE-BODY-PROBLEM-FR-DC-VECNA-01",
-        "tiers": null,
+        "tiers": 2,
         "title": "THREE BODY PROBLEM",
         "url": "https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01?filters=45470_0_0_0_0_0_0_0"
     },
@@ -30314,7 +30173,7 @@
         "url": "https://www.dmsguild.com/product/408563/WBWDCZODIAC13-Familiars-Feast?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "Tricia Monsod"
         ],
@@ -30323,9 +30182,9 @@
         "date_created": "20241002",
         "full_title": "Welcome to the Black Mall (FR-DC-TKM-WBM)",
         "hours": 4,
-        "level_range": "1",
+        "level_range": "1-4",
         "product_id": "Welcome-to-the-Black-Mall-FR-DC-TKM-WBM",
-        "tiers": null,
+        "tiers": 1,
         "title": "Welcome to the Black Mall",
         "url": "https://www.dmsguild.com/product/497476/Welcome-to-the-Black-Mall-FRDCTKMWBM?filters=45470_0_0_0_0_0"
     },
@@ -30378,7 +30237,7 @@
         "url": "https://www.dmsguild.com/product/369349/What-Stalks-the-Night-DCPOAPND5?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 8,
         "authors": [
             "Tricia Monsod",
             "Kai Monsod"
@@ -30388,9 +30247,9 @@
         "date_created": "20240826",
         "full_title": "What's Within (FR-DC-TKM-WW)",
         "hours": 2,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "Whats-Within-FR-DC-TKM-WW",
-        "tiers": null,
+        "tiers": 2,
         "title": "What's Within",
         "url": "https://www.dmsguild.com/product/492836/Whats-Within-FRDCTKMWW?filters=0_0_100057_0_0_0_0_0"
     },
