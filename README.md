@@ -1,6 +1,8 @@
 # aladventures
 Sortable and Filterable Catalog of Adventurers League Adventures
 
+Final link will be [here](https://hoshisabi.com/al_adventure_catalog/)
+
 
 
 ## Set up
