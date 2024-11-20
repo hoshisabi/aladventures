@@ -1,5 +1,5 @@
 {
-    "apl": null,
+    "apl": 3,
     "authors": [
         "Tricia Monsod"
     ],
@@ -8,9 +8,9 @@
     "date_created": "20241002",
     "full_title": "Welcome to the Black Mall (FR-DC-TKM-WBM)",
     "hours": 4,
-    "level_range": "1",
+    "level_range": "1-4",
     "product_id": "Welcome-to-the-Black-Mall-FR-DC-TKM-WBM",
-    "tiers": null,
+    "tiers": 1,
     "title": "Welcome to the Black Mall",
     "url": "https://www.dmsguild.com/product/497476/Welcome-to-the-Black-Mall-FRDCTKMWBM?filters=45470_0_0_0_0_0"
 }

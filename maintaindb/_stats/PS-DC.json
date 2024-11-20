@@ -311,6 +311,38 @@
         "url": "https://www.dmsguild.com/product/490495/PSDCNBDD01-The-Greatest-Gameshow?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Jason Pesch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PESCH",
+        "date_created": "20241031",
+        "full_title": "PS-DC-PESCH Vhaeraun's Wish",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PESCH-Vhaerauns-Wish",
+        "tiers": 3,
+        "title": "Vhaeraun's Wish",
+        "url": "https://www.dmsguild.com/product/500715/PSDCPESCH-Vhaerauns-Wish?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Jason Pesch"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "PS-DC-PESCH",
+        "date_created": "20241031",
+        "full_title": "PS-DC-PESCH",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "PS-DC-PESCH",
+        "tiers": 3,
+        "title": "",
+        "url": "https://www.dmsguild.com/product/500715/PSDCPESCH?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Miguel Luis de Jesus"

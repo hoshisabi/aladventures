@@ -8,9 +8,9 @@
     "date_created": "20240621",
     "full_title": "FR-DC-ARCON-01 Mines and Monsters",
     "hours": 2,
-    "level_range": null,
+    "level_range": "5-10",
     "product_id": "FR-DC-ARCON-01-Mines-and-Monsters",
-    "tiers": null,
+    "tiers": 2,
     "title": "Mines and Monsters",
     "url": "https://www.dmsguild.com/product/485373/FRDCARCON01-Mines-and-Monsters?filters=0_0_100057_0_0_0_0_0"
 }

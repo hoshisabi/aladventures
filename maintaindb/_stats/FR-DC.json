@@ -65,6 +65,23 @@
         "url": "https://www.dmsguild.com/product/489397/Cathedral-of-Ice-FRDCFALL01?filters=0_0_100057_0_0_0_0_0"
     },
     {
+        "apl": null,
+        "authors": [
+            "Tricia Monsod",
+            "Kai Monsod"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-TKM-RGT-01",
+        "date_created": "20241031",
+        "full_title": "Charming (FR-DC-TKM-RGT-01)",
+        "hours": 2,
+        "level_range": "1",
+        "product_id": "Charming-FR-DC-TKM-RGT-01",
+        "tiers": null,
+        "title": "Charming",
+        "url": "https://www.dmsguild.com/product/500685/Charming-FRDCTKMRGT01?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Brendon Watson"
@@ -90,10 +107,10 @@
         "code": "FR-DC-VECNA-02",
         "date_created": "20240731",
         "full_title": "ELDRITCH EYE WIDE SHUT (FR-DC-VECNA-02)",
-        "hours": null,
-        "level_range": null,
+        "hours": 4,
+        "level_range": "5-10",
         "product_id": "ELDRITCH-EYE-WIDE-SHUT-FR-DC-VECNA-02",
-        "tiers": null,
+        "tiers": 2,
         "title": "ELDRITCH EYE WIDE SHUT",
         "url": "https://www.dmsguild.com/product/490000/ELDRITCH-EYE-WIDE-SHUT-FRDCVECNA02?filters=0_0_100057_0_0_0_0_0"
     },
@@ -267,9 +284,9 @@
         "date_created": "20240621",
         "full_title": "FR-DC-ARCON-01 Mines and Monsters",
         "hours": 2,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "FR-DC-ARCON-01-Mines-and-Monsters",
-        "tiers": null,
+        "tiers": 2,
         "title": "Mines and Monsters",
         "url": "https://www.dmsguild.com/product/485373/FRDCARCON01-Mines-and-Monsters?filters=0_0_100057_0_0_0_0_0"
     },
@@ -524,9 +541,9 @@
         "date_created": "20240314",
         "full_title": "FR-DC-LIGA-01 - Wyrmwell Flame",
         "hours": 4,
-        "level_range": null,
+        "level_range": "11-16",
         "product_id": "FR-DC-LIGA-01---Wyrmwell-Flame",
-        "tiers": null,
+        "tiers": 3,
         "title": "- Wyrmwell Flame",
         "url": "https://www.dmsguild.com/product/474180/FRDCLIGA01--Wyrmwell-Flame?filters=0_0_100057_0_0_0_0_0"
     },
@@ -558,11 +575,11 @@
         "date_created": "20240412",
         "full_title": "FR-DC-LIGA-03 - Doom Reborn",
         "hours": 4,
-        "level_range": null,
+        "level_range": "3",
         "product_id": "FR-DC-LIGA-03---Doom-Reborn",
         "tiers": 3,
         "title": "- Doom Reborn",
-        "url": "https://www.dmsguild.com/product/477366/FRDCLIGA03--Doom-Reborn?filters=0_0_100057_0_0_0_0_0"
+        "url": "https://www.dmsguild.com/product/477366/FRDCLIGA03--Doom-Reborn?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 13,
@@ -626,9 +643,9 @@
         "date_created": "20240710",
         "full_title": "FR-DC-LIGA-06 - Malaeragoth and the Chaos King",
         "hours": 4,
-        "level_range": null,
+        "level_range": "11-16",
         "product_id": "FR-DC-LIGA-06---Malaeragoth-and-the-Chaos-King",
-        "tiers": null,
+        "tiers": 3,
         "title": "- Malaeragoth and the Chaos King",
         "url": "https://www.dmsguild.com/product/487422/FRDCLIGA06--Malaeragoth-and-the-Chaos-King?filters=0_0_100057_0_0_0_0_0"
     },
@@ -667,6 +684,39 @@
         "url": "https://www.dmsguild.com/product/498884/FRDCLIGA08--A-Song-of-Closure?filters=45470_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "CJ Buchanan",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LIGA-09",
+        "date_created": "20241115",
+        "full_title": "FR-DC-LIGA-09 - A Chromatic Crescendo",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "FR-DC-LIGA-09---A-Chromatic-Crescendo",
+        "tiers": 3,
+        "title": "- A Chromatic Crescendo",
+        "url": "https://www.dmsguild.com/product/502484/FRDCLIGA09--A-Chromatic-Crescendo?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "N. M. Brickle"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-NMB-HUNT-01",
+        "date_created": "20241110",
+        "full_title": "FR-DC-NMB-HUNT-01 Ice Water",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-NMB-HUNT-01-Ice-Water",
+        "tiers": 1,
+        "title": "Ice Water",
+        "url": "https://www.dmsguild.com/product/501781/FRDCNMBHUNT01-Ice-Water?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "N. M. Brickle"
@@ -681,6 +731,22 @@
         "tiers": 1,
         "title": "Better Together",
         "url": "https://www.dmsguild.com/product/465190/FRDCNMB201-Better-Together?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Marcello De Velazquez"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-NUKE-01",
+        "date_created": "20241106",
+        "full_title": "FR-DC-NUKE-01 The Search for the Scarlet Stallion",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-NUKE-01-The-Search-for-the-Scarlet-Stallion",
+        "tiers": null,
+        "title": "The Search for the Scarlet Stallion",
+        "url": "https://www.dmsguild.com/product/501443/FRDCNUKE01-The-Search-for-the-Scarlet-Stallion?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -827,7 +893,7 @@
         "url": "https://www.dmsguild.com/product/475296/FRDCPANDORAJWEI12-Pandora?filters=0_0_100057_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 8,
         "authors": [
             "Miguel Luis de Jesus"
         ],
@@ -838,7 +904,7 @@
         "hours": 4,
         "level_range": "5-10",
         "product_id": "FR-DC-PHP-CKA1--In-Slumbers-Keep",
-        "tiers": null,
+        "tiers": 2,
         "title": "In Slumber's Keep",
         "url": "https://www.dmsguild.com/product/479895/FRDCPHPCKA1-In-Slumbers-Keep?filters=0_0_100057_0_0_0_0_0"
     },
@@ -857,6 +923,22 @@
         "tiers": 2,
         "title": "The Hidden Sanctum",
         "url": "https://www.dmsguild.com/product/490910/FRDCPHPINFRN0101-The-Hidden-Sanctum?filters=0_0_100057_0_0_0_0_0"
+    },
+    {
+        "apl": 3,
+        "authors": [
+            "Elijah Vince Aguila"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-PHP-PEST-01-",
+        "date_created": "20241030",
+        "full_title": "FR-DC-PHP-PEST-01: Pest Control",
+        "hours": 2,
+        "level_range": "2",
+        "product_id": "FR-DC-PHP-PEST-01--Pest-Control",
+        "tiers": 1,
+        "title": "Pest Control",
+        "url": "https://www.dmsguild.com/product/500527/FRDCPHPPEST01-Pest-Control?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,
@@ -1046,6 +1128,22 @@
         "url": "https://www.dmsguild.com/product/479334/FRDCTT201-Return-to-Mountains-Toe-Gold-Mine?filters=45470_0_0_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "Bryan Mets"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-UCON24",
+        "date_created": "20241115",
+        "full_title": "FR-DC-UCON24 The Icarus Connection",
+        "hours": 4,
+        "level_range": "11-16",
+        "product_id": "FR-DC-UCON24-The-Icarus-Connection",
+        "tiers": 3,
+        "title": "The Icarus Connection",
+        "url": "https://www.dmsguild.com/product/502509/FRDCUCON24-The-Icarus-Connection?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": 3,
         "authors": [
             "Jeremy Johnston",
@@ -1111,7 +1209,7 @@
         "url": "https://www.dmsguild.com/product/500392/FRDCWCAG03-Crashing-Waves--Crushing-Depths?filters=45470_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "R.P. Marsh"
         ],
@@ -1119,10 +1217,10 @@
         "code": "FR-DC-DRESS-01",
         "date_created": "20241003",
         "full_title": "Goblin In A Dress",
-        "hours": null,
-        "level_range": null,
+        "hours": 2,
+        "level_range": "1-4",
         "product_id": null,
-        "tiers": null,
+        "tiers": 1,
         "title": "Goblin In A Dress",
         "url": "https://www.dmsguild.com/product/497468/Goblin-In-A-Dress"
     },
@@ -1255,6 +1353,23 @@
         "tiers": 1,
         "title": "Mummy Dust",
         "url": "https://www.dmsguild.com/product/500326/Mummy-Dust-FRDCGHG04?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": 8,
+        "authors": [
+            "Steven Truong",
+            "Cameron Pearce"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-VECNA-03",
+        "date_created": "20241103",
+        "full_title": "NEVERDEATH NIGHTS (FR-DC-VECNA-03)",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "NEVERDEATH-NIGHTS-FR-DC-VECNA-03",
+        "tiers": null,
+        "title": "NEVERDEATH NIGHTS",
+        "url": "https://www.dmsguild.com/product/501014/NEVERDEATH-NIGHTS-FRDCVECNA03?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 8,
@@ -1562,7 +1677,7 @@
         "url": "https://www.dmsguild.com/product/497583/The-Weeping-Maiden-FRDCMELB0002?filters=45470_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "Dagny Mol"
         ],
@@ -1571,9 +1686,9 @@
         "date_created": "20240520",
         "full_title": "Those Who Plant (FR-DC-TGT-02)",
         "hours": 2,
-        "level_range": null,
+        "level_range": "1-4",
         "product_id": "Those-Who-Plant-FR-DC-TGT-02",
-        "tiers": null,
+        "tiers": 1,
         "title": "Those Who Plant",
         "url": "https://www.dmsguild.com/product/481540/Those-Who-Plant-FRDCTGT02?filters=0_0_100057_0_0_0_0_0"
     },
@@ -1588,14 +1703,14 @@
         "date_created": "20240521",
         "full_title": "THREE BODY PROBLEM (FR-DC-VECNA-01)",
         "hours": 4,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "THREE-BODY-PROBLEM-FR-DC-VECNA-01",
-        "tiers": null,
+        "tiers": 2,
         "title": "THREE BODY PROBLEM",
         "url": "https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01?filters=45470_0_0_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 3,
         "authors": [
             "Tricia Monsod"
         ],
@@ -1604,14 +1719,14 @@
         "date_created": "20241002",
         "full_title": "Welcome to the Black Mall (FR-DC-TKM-WBM)",
         "hours": 4,
-        "level_range": "1",
+        "level_range": "1-4",
         "product_id": "Welcome-to-the-Black-Mall-FR-DC-TKM-WBM",
-        "tiers": null,
+        "tiers": 1,
         "title": "Welcome to the Black Mall",
         "url": "https://www.dmsguild.com/product/497476/Welcome-to-the-Black-Mall-FRDCTKMWBM?filters=45470_0_0_0_0_0"
     },
     {
-        "apl": null,
+        "apl": 8,
         "authors": [
             "Tricia Monsod",
             "Kai Monsod"
@@ -1621,9 +1736,9 @@
         "date_created": "20240826",
         "full_title": "What's Within (FR-DC-TKM-WW)",
         "hours": 2,
-        "level_range": null,
+        "level_range": "5-10",
         "product_id": "Whats-Within-FR-DC-TKM-WW",
-        "tiers": null,
+        "tiers": 2,
         "title": "What's Within",
         "url": "https://www.dmsguild.com/product/492836/Whats-Within-FRDCTKMWW?filters=0_0_100057_0_0_0_0_0"
     },

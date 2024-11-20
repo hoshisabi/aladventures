@@ -1,5 +1,5 @@
 {
-    "apl": null,
+    "apl": 8,
     "authors": [
         "Miguel Luis de Jesus"
     ],
@@ -10,7 +10,7 @@
     "hours": 4,
     "level_range": "5-10",
     "product_id": "FR-DC-PHP-CKA1--In-Slumbers-Keep",
-    "tiers": null,
+    "tiers": 2,
     "title": "In Slumber's Keep",
     "url": "https://www.dmsguild.com/product/479895/FRDCPHPCKA1-In-Slumbers-Keep?filters=0_0_100057_0_0_0_0_0"
 }

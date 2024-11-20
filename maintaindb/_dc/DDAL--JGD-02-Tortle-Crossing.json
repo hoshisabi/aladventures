@@ -1,18 +1,18 @@
 {
-    "apl": 3,
-    "authors": [
-        "Fenway Jones",
-        "Lucas Curell",
-        "Chance Curell"
-    ],
-    "campaign": null,
-    "code": null,
-    "date_created": "20191008",
-    "full_title": "DDAL- JGD-02 Tortle Crossing",
-    "hours": null,
-    "level_range": "2",
-    "product_id": "DDAL--JGD-02-Tortle-Crossing",
-    "tiers": null,
-    "title": "DDAL- JGD-02 Tortle Crossing",
-    "url": "https://www.dmsguild.com/product/291011/DDAL-JGD02-Tortle-Crossing"
+  "apl": 3,
+  "authors": [
+    "Fenway Jones",
+    "Lucas Curell",
+    "Chance Curell"
+  ],
+  "campaign": "Forgotten Realms",
+  "code": "CCC-JGD-02",
+  "date_created": "20191008",
+  "full_title": "DDAL- JGD-02 Tortle Crossing",
+  "hours": 2,
+  "level_range": "1-4",
+  "product_id": null,
+  "tiers": 1,
+  "title": "DDAL- JGD-02 Tortle Crossing",
+  "url": "https://www.dmsguild.com/product/291011/DDAL-JGD02-Tortle-Crossing"
 }

@@ -34,6 +34,23 @@
         "url": "https://www.dmsguild.com/product/495850/DLDCLIGA02--Wickedness-over-Dargaard?filters=45470_0_0_0_0_0"
     },
     {
+        "apl": 3,
+        "authors": [
+            "Lu\u00eds Ricardo 'DM Corvo' da Costa",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Dragonlance",
+        "code": "DL-DC-LIGA03",
+        "date_created": "20241031",
+        "full_title": "DL-DC-LIGA03 - Firstwal under Siege",
+        "hours": 4,
+        "level_range": "5",
+        "product_id": "DL-DC-LIGA03---Firstwal-under-Siege",
+        "tiers": 1,
+        "title": "- Firstwal under Siege",
+        "url": "https://www.dmsguild.com/product/500778/DLDCLIGA03--Firstwal-under-Siege?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "Marcello De Velazquez"

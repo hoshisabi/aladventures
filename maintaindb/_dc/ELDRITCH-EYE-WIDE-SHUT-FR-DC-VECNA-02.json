@@ -8,10 +8,10 @@
     "code": "FR-DC-VECNA-02",
     "date_created": "20240731",
     "full_title": "ELDRITCH EYE WIDE SHUT (FR-DC-VECNA-02)",
-    "hours": null,
-    "level_range": null,
+    "hours": 4,
+    "level_range": "5-10",
     "product_id": "ELDRITCH-EYE-WIDE-SHUT-FR-DC-VECNA-02",
-    "tiers": null,
+    "tiers": 2,
     "title": "ELDRITCH EYE WIDE SHUT",
     "url": "https://www.dmsguild.com/product/490000/ELDRITCH-EYE-WIDE-SHUT-FRDCVECNA02?filters=0_0_100057_0_0_0_0_0"
 }

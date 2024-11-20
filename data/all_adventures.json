@@ -13132,14 +13132,14 @@
             "Lucas Curell",
             "Chance Curell"
         ],
-        "campaign": null,
-        "code": null,
+        "campaign": "Forgotten Realms",
+        "code": "CCC-JGD-02",
         "date_created": "20191008",
         "full_title": "DDAL- JGD-02 Tortle Crossing",
-        "hours": null,
-        "level_range": "2",
-        "product_id": "DDAL--JGD-02-Tortle-Crossing",
-        "tiers": null,
+        "hours": 2,
+        "level_range": "1-4",
+        "product_id": null,
+        "tiers": 1,
         "title": "DDAL- JGD-02 Tortle Crossing",
         "url": "https://www.dmsguild.com/product/291011/DDAL-JGD02-Tortle-Crossing"
     },
@@ -18035,6 +18035,39 @@
         "url": "https://www.dmsguild.com/product/498884/FRDCLIGA08--A-Song-of-Closure?filters=45470_0_0_0_0_0"
     },
     {
+        "apl": 13,
+        "authors": [
+            "CJ Buchanan",
+            "Liga dos Aventureiros"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-LIGA-09",
+        "date_created": "20241115",
+        "full_title": "FR-DC-LIGA-09 - A Chromatic Crescendo",
+        "hours": 4,
+        "level_range": "0",
+        "product_id": "FR-DC-LIGA-09---A-Chromatic-Crescendo",
+        "tiers": 3,
+        "title": "- A Chromatic Crescendo",
+        "url": "https://www.dmsguild.com/product/502484/FRDCLIGA09--A-Chromatic-Crescendo?filters=45470_0_0_0_0_0"
+    },
+    {
+        "apl": null,
+        "authors": [
+            "N. M. Brickle"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-NMB-HUNT-01",
+        "date_created": "20241110",
+        "full_title": "FR-DC-NMB-HUNT-01 Ice Water",
+        "hours": 4,
+        "level_range": null,
+        "product_id": "FR-DC-NMB-HUNT-01-Ice-Water",
+        "tiers": 1,
+        "title": "Ice Water",
+        "url": "https://www.dmsguild.com/product/501781/FRDCNMBHUNT01-Ice-Water?filters=45470_0_0_0_0_0"
+    },
+    {
         "apl": null,
         "authors": [
             "N. M. Brickle"
@@ -18444,6 +18477,22 @@
         "tiers": 2,
         "title": "Return to Mountain's Toe Gold Mine",
         "url": "https://www.dmsguild.com/product/479334/FRDCTT201-Return-to-Mountains-Toe-Gold-Mine?filters=45470_0_0_0_0_0_0_0"
+    },
+    {
+        "apl": 13,
+        "authors": [
+            "Bryan Mets"
+        ],
+        "campaign": "Forgotten Realms",
+        "code": "FR-DC-UCON24",
+        "date_created": "20241115",
+        "full_title": "FR-DC-UCON24 The Icarus Connection",
+        "hours": 4,
+        "level_range": "11-16",
+        "product_id": "FR-DC-UCON24-The-Icarus-Connection",
+        "tiers": 3,
+        "title": "The Icarus Connection",
+        "url": "https://www.dmsguild.com/product/502509/FRDCUCON24-The-Icarus-Connection?filters=45470_0_0_0_0_0"
     },
     {
         "apl": 3,

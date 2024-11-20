@@ -4,13 +4,20 @@ let currentPage = 1;
 const itemsPerPage = 50;
 
 let filters = {
-    campaign: '',
-    tier: '',
-    hours: ''
+    campaign: 'Forgotten Realms',
+    tier: '1',
+    hours: '2'
 };
 
+let baseURL = '';
+if (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') {
+    baseURL = '/data/';
+} else {
+    baseURL = '/al_adventure_catalog/data/';
+}
+
 // Fetch and load the JSON data
-fetch('/data/all_adventures.json')
+fetch(baseURL + 'all_adventures.json')
     .then(response => response.json())
     .then(data => {
         adventures = data;
